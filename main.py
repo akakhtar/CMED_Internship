@@ -1,6 +1,6 @@
 import pandas as pd
 from tqdm import tqdm
-from emotion_detection.data_loader import load_encoding, load_csv
+from emotion_detection.data_loader import load_encoding, load_datasheet
 from emotion_detection.video_processing import process_video
 from emotion_detection.config import EXCEl_PATH
 
@@ -9,7 +9,7 @@ print("Loading encodings...")
 data = load_encoding()
 
 # Load the CSV file containing video metadata
-df = load_csv()
+df = load_datasheet()
 df['result_1'] = None
 df['result_2'] = None
 df['result_3'] = None
