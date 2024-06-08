@@ -17,16 +17,15 @@ def process_video(row, data, df):
 
     if not os.path.exists(video_path):
         print(f"Video file {video_file} does not exist.")
-        return False  # Returning False for not recognized
-
-    print(f"Processing Video {video_file}....")
-    print("Speaker: " + speaker)
+        return False, {}, 0  # Returning False for not recognized and an empty dictionary
 
     vs = cv2.VideoCapture(video_path)
-    face_recognized = False
     total_frames = int(vs.get(cv2.CAP_PROP_FRAME_COUNT))
+    face_recognized = False
 
-    name = "Unknown"
+    # Dictionary to store the count of frames each name is detected
+    name_frame_count = {}
+
     while vs.isOpened():
         ret, frame = vs.read()
         if not ret:
@@ -39,17 +38,13 @@ def process_video(row, data, df):
 
                 if face_encodings:
                     name = recognize_face(face_encodings[0], data)
+                    if name not in name_frame_count:
+                        name_frame_count[name] = 0
+                    name_frame_count[name] += 1
+
                     if name == speaker:
                         face_recognized = True
-                        break
-        if face_recognized:
-            break
 
     vs.release()
 
-    if face_recognized:
-        print("Face recognized as:", name)
-    else:
-        print("Face not recognized!")
-    print("\n")
-    return face_recognized
+    return face_recognized, name_frame_count, total_frames

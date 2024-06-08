@@ -11,4 +11,5 @@ def load_encoding(path=ENCODING_PATH):
 
 # loading of Excel sheet on which result is to be written
 def load_datasheet(path=EXCEl_PATH):
+    # return pd.read_csv(path)
     return pd.read_excel(path)
