@@ -1,11 +1,12 @@
 # main.py
+import time
 import os
 import cv2
 from tqdm import tqdm
 import pandas as pd
 from emotion_detection.data_loader import load_encoding, load_datasheet
 from emotion_detection.video_analyzing import process_video
-from emotion_detection.config import EXCEl_PATH, DIALOGUE_REPORT_PATH
+from emotion_detection.config import EXCEl_PATH
 
 # Load known faces and embeddings
 print("Loading encodings...")
@@ -26,6 +27,7 @@ dialogue_unrecognized_count = 0
 dialogue_not_in_6_char_count = 0
 prev_dia_id = df.iloc[0]['Dialogue_ID']  # Initialize with the first dialogue ID
 
+start_time = time.time()
 # Loop through each row in the DataFrame
 for index, row in df.iterrows():
     main6Char, recognized = process_video(row, data, df)
@@ -76,6 +78,7 @@ for index, row in df.iterrows():
         dialogue_not_in_6_char_count = 0
         prev_dia_id = curr_dia_id  # Update to the new dialogue ID
 
+end_time = time.time()
 # Calculate the percentage of unrecognized videos for overall analysis
 unrecognized_percentage = (unrecognized_count / total_videos) * 100
 
@@ -90,6 +93,6 @@ df.to_csv(EXCEl_PATH, index=False)
 print("CSV file updated.")
 
 # Save the dialogue-based analysis to a new CSV file
-dialogue_df = pd.DataFrame(dialogue_stats)
-dialogue_df.to_excel(DIALOGUE_REPORT_PATH, index=False)
+# dialogue_df = pd.DataFrame(dialogue_stats)
+# dialogue_df.to_excel(DIALOGUE_REPORT_PATH, index=False)
 print("Dialogue-based analysis CSV file created.")

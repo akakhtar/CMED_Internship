@@ -1,9 +1,8 @@
 import torch
 
 ENCODING_PATH = "D:/My stuffs/0Study material/SEMESTER/CMED_Internship/encodings.pickle"
-VIDEO_FOLDER_PATH = "D:/My stuffs/0Study material/SEMESTER/CMED_Internship/custom_dataset/test_dia4/"
-EXCEl_PATH = "test_dia4.xlsx"
-DIALOGUE_REPORT_PATH = "report.xlsx"
+VIDEO_FOLDER_PATH = "D:/My stuffs/0Study material/SEMESTER/CMED_Internship/custom_dataset/test_dia64/"
+EXCEl_PATH = "custom_dataset/test_dia64.xlsx"
 
 DETECTION_METHOD = "hog"
 DISPLAY = 1

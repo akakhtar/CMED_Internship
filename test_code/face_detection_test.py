@@ -20,7 +20,7 @@ df["face_recognized"] = None
 df["total_frames"] = None
 # Loop through each row in the DataFrame
 for index, row in df.iterrows():
-    print(f"Processing of the {index}th video.")
+    print(f"Processing Dialogue_ID {row['Dialogue_ID']} and Utterance_ID {row['Utterance_ID']}...")
     recognized, listNames, total_frames = process_video(row, data, df)
     df.at[index, 'Names_count_frames'] = str(listNames)
     df.at[index, 'total_frames'] = total_frames
@@ -30,8 +30,8 @@ for index, row in df.iterrows():
         df.at[index, 'face_recognized'] = "YES"
 
 # Save the overall results to the EXCEL file
-df.to_excel(EXCEl_PATH, index=False)
-print("EXCEL file updated.")
+# df.to_excel(EXCEl_PATH, index=False)
+# print("EXCEL file updated.")
 end_time = time.time()
 time_taken = (end_time - start_time) / 60
 print(f"Time taken : {time_taken:.2f} minutes. ")
