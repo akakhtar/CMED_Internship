@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-file_path = 'Speakers_Dataset/Chandler.xlsx'  # Change to the actual file path
+file_path = 'Speakers_Dataset/Ross.xlsx'  # Change to the actual file path
 data = pd.read_excel(file_path)
 print(f"total number of data: {data.shape}")
 

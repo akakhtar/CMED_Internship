@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load the dataset
-file_path = 'Speakers_Dataset/Rachel.xlsx'  # Change to the actual file path
+file_path = 'Speakers_Arousal/Rachel.xlsx'  # Change to the actual file path
 data = pd.read_excel(file_path)
 
 # Function to normalize valency to 0 or 1
