@@ -37,7 +37,7 @@ with np.errstate(divide='ignore', invalid='ignore'):
 # Ensure the data is sorted by 'Dialogue_ID' and 'Utterance_ID'
 data = data.sort_values(by=['Dialogue_ID', 'Utterance_ID'])
 
-print(f"Transition matrix : \n transition_probabilities}")
+print(f"Transition matrix : \n {transition_probabilities}")
 
 # Process each scene to compute influences and elapsed times
 for scene in data['scene_number'].unique():
