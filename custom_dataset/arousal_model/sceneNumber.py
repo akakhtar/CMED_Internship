@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-directory = 'Test'
+directory = 'Dev'
 
 def add_scene_number(file_path):
     df = pd.read_csv(file_path)

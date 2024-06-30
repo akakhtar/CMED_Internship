@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Define the directory containing the Excel files
-directory = 'Test'  # Replace with the actual path to your directory
+directory = 'Dev'  # Replace with the actual path to your directory
 
 # Define the updated mapping
 emotion_to_valence_arousal = {

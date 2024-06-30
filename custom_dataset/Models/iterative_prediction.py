@@ -122,5 +122,5 @@ feature_columns = ['Influence_0', 'Influence_1', 'ElapsedTime_0', 'ElapsedTime_1
 target_column = 'valence'
 
 # Apply the implementation to the file
-file_path = '../Train/Ross.csv'
+file_path = '../../Influenece/test_Ross.csv'
 phase1_phase2(file_path, feature_columns, target_column)

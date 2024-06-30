@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 # Constants and paths
-PATH_MIXED_DATASET = "test_sent_emo.csv"
-OUTPUT_DIR = "Test"
+PATH_MIXED_DATASET = "../Dataset/dev_sent_emo.csv"
+OUTPUT_DIR = "valence_model/Dev"
 
 # Load the dataset
 df = pd.read_csv(PATH_MIXED_DATASET)

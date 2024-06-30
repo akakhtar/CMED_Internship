@@ -85,10 +85,7 @@ def phase1_phase2(file_path, feature_columns, target_column):
     print(f"F1-score: {f1_phase1}")
     print(f"ROC AUC: {roc_auc_phase1}")
 
-    # Print predicted and original values for Phase 1
-    # print("\nPhase 1 - Predicted vs Original values:")
-    # for i in range(len(y_test_phase1)):
-    #     print(f"Original: {y_test_phase1.iloc[i]}, Predicted: {y_pred_phase1[i]}")
+
 
     # Phase 2: Next 60% training and next 20% testing (ignoring the first 20%)
     split_3 = int(0.2*len(df))

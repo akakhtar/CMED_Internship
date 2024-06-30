@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-directory = 'Test'
+directory = 'Dev'
 def sort_file(file_path):
     df = pd.read_csv(file_path)
     df_sorted = df.sort_values(by=['Dialogue_ID','Utterance_ID'],ascending=[True,True])

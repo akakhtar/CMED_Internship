@@ -81,10 +81,7 @@ def train_and_evaluate(train_file_path, test_file_path, feature_columns, target_
     print(f"F1-score: {f1_test}")
     print(f"ROC AUC: {roc_auc_test}")
 
-    # Print predicted and original values for testing data
-    print("\nTesting data - Predicted vs Original values:")
-    for i in range(len(y_test)):
-        print(f"Original: {y_test.iloc[i]}, Predicted: {y_pred_test[i]}")
+
 
 
 # Define feature columns and target column

@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-directory = "Test"
+directory = "Dev"
 
 
 def normalize_valence(val):
