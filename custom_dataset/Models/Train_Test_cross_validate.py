@@ -89,6 +89,6 @@ feature_columns = ['Influence_0', 'Influence_1', 'ElapsedTime_0', 'ElapsedTime_1
 target_column = 'valence'
 
 # Apply the implementation to the files
-train_file_path = '../Train/Ross.csv'
-test_file_path = '../Test/Ross.csv'
+train_file_path = '../valence_model/Train/Ross.csv'
+test_file_path = '../valence_model/Test/Ross.csv'
 train_and_evaluate(train_file_path, test_file_path, feature_columns, target_column)
