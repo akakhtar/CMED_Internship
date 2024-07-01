@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pandas as pd
 import numpy as np
 
@@ -115,3 +116,5 @@ print(data[['scene_number', 'valency', 'Sequence_Length']])
 
 # Save the updated data back to an Excel file
 data.to_excel(file_path, index=False)
+=======
+>>>>>>> 137ac92d8917ed48151c21a2665631e9c9a60071
