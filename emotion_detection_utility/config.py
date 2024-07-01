@@ -1,6 +1,6 @@
 import torch
 
-ENCODING_PATH = "D:/My stuffs/0Study material/SEMESTER/CMED_Internship/encodings.pickle"
+ENCODING_PATH = "/visual_emotion_detection/encodings.pickle"
 VIDEO_FOLDER_PATH = "/self_reporting_model/test_dia64/"
 EXCEl_PATH = "self_reporting_model/test_dia64.xlsx"
 

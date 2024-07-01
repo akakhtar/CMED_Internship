@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-PATH_MIXED_DATASET = "../train_sent_emo.csv"
+PATH_MIXED_DATASET = "train_sent_emo.csv"
 OUTPUT_DIR = "Speakers_Dataset"
 
 # Load the dataset
