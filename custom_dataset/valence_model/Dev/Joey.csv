@@ -1,0 +1,61 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal,Scene_ID,Influence_0,Influence_1,ElapsedTime_0,ElapsedTime_1,Sequence_Length
+5,"Aww, man, now we wont be bank buddies!",Joey,sadness,negative,1,2,4,4,"00:12:34,211","00:12:37,505",0,0,1,0.0,0.0,1.0,1.0,1
+16,Yeah! Yeah! Yeah! Like-like when Im doing something exciting and I dont wanna get,Joey,joy,positive,1,13,4,4,"00:13:10,372","00:13:17,712",1,1,1,0.8095238095238095,0.0,0.0,1.0,1
+23,Yeah!,Joey,joy,positive,2,4,6,4,"0:09:14,476","0:09:15,728",1,1,2,0.0,0.0,1.0,1.0,1
+92,Its really sweet and-and tender.,Joey,joy,positive,8,14,7,19,"00:03:58,196","00:04:01,240",1,1,3,0.0,0.0,1.0,1.0,1
+104,"Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",Joey,joy,positive,10,3,5,20,"00:07:01,254","00:07:07,342",1,1,4,0.0,0.0,1.0,1.0,1
+107,Oh what? Like your Mr. Cop!,Joey,anger,negative,10,6,5,20,"0:07:14,475","0:07:16,237",0,1,4,0.0,0.5294117647058824,1.0,0.0,1
+165,I know! I found it on the street.,Joey,joy,positive,15,1,8,7,"00:20:58,632","00:21:00,675",1,1,5,0.0,0.0,1.0,1.0,1
+171,Ew.,Joey,disgust,negative,15,7,8,7,"00:21:09,309","00:21:10,685",0,1,5,0.0,0.5294117647058824,1.0,0.0,1
+173,Ooh! Ah! Okay!,Joey,fear,negative,15,9,8,7,"0:21:12,479","0:21:13,247",0,1,5,0.6360544217687075,0.0,0.21428571428571427,1.0,2
+194,Why isnt that valet back with my Porsche?,Joey,anger,negative,17,0,6,5,"00:14:50,514","00:14:54,183",0,1,6,0.0,0.0,1.0,1.0,1
+289,"Look he knows he did a terrible thing and I believe him, hes sorry.",Joey,sadness,negative,24,2,3,11,"00:19:52,357","00:19:57,904",0,0,7,0.0,0.0,1.0,1.0,1
+294,"Cookie, now you can punch him!",Joey,anger,negative,24,7,3,11,"0:20:13,545","0:20:15,089",0,1,7,0.8095238095238095,0.0,0.0,1.0,2
+332,"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",Joey,joy,positive,28,2,5,8,"00:04:08,831","00:04:14,044",1,1,8,0.0,0.0,1.0,1.0,1
+352,"The reactors gonna blow in three seconds, were never gonna make it!",Joey,fear,negative,30,0,6,20,"00:00:05,005","00:00:08,549",0,1,9,0.0,0.0,1.0,1.0,1
+354,No! I wont leave you!,Joey,fear,negative,30,2,6,20,"00:00:13,555","00:00:15,014",0,1,9,0.8095238095238095,0.0,0.0,1.0,2
+356,No youre not! Not to me!,Joey,anger,negative,30,4,6,20,"0:00:21,521","0:00:23,523",0,1,9,0.8095238095238095,0.0,0.0,1.0,3
+360,"Yeah, youre great! Okay, lets take it from",Joey,joy,positive,30,8,6,20,"00:00:29,446","00:00:35,159",1,1,9,0.8095238095238095,0.0,0.0,1.0,1
+362,"Yeah, I thought I was pretty good too.",Joey,joy,positive,30,10,6,20,"00:00:36,327","00:00:38,078",1,1,9,0.0,0.2823529411764706,1.0,0.4666666666666667,2
+435,No-o-o!!,Joey,fear,negative,37,5,3,24,"0:22:12,838","0:22:13,295",0,1,10,0.0,0.0,1.0,1.0,1
+441,"Dude, you dont have to brag! We got nothing here!!",Joey,anger,negative,38,0,4,2,"00:21:29,705","00:21:33,165",0,1,11,0.0,0.0,1.0,1.0,1
+454,"Rach look, I really dont think thats such a great",Joey,sadness,negative,40,9,8,5,"0:07:14,851","0:07:16,450",0,0,12,0.0,0.0,1.0,1.0,1
+500,"Itll kill him. I mean itll, itll just kill him.",Joey,fear,negative,46,8,3,8,"00:03:02,182","00:03:04,474",0,1,13,0.0,0.0,1.0,1.0,1
+550,Pizza!! We like Pizza!! Get out!!!,Joey,anger,negative,51,6,6,17,"00:15:30,054","00:15:33,014",0,1,14,0.0,0.0,1.0,1.0,1
+554,"Really? In the moment, I really wanted to kiss you too. In the moment.",Joey,joy,positive,53,0,6,10,"00:19:45,559","00:19:52,440",1,1,15,0.0,0.0,1.0,1.0,1
+556,But only in the moment. So do ya wanna kiss again?,Joey,joy,positive,53,2,6,10,"00:19:53,983","00:20:01,616",1,1,15,0.0,0.5294117647058824,1.0,0.0,2
+562,"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",Joey,joy,positive,53,8,6,10,"00:20:20,719","00:20:28,684",1,1,15,0.0,0.5294117647058824,1.0,0.0,3
+573,Probably kill myself!,Joey,sadness,negative,54,8,1,4,"00:00:38,538","00:00:40,831",0,0,16,0.0,0.0,1.0,1.0,1
+575,"Hey, if Little Joey's dead, then I got no reason to live!",Joey,sadness,negative,54,10,1,4,"00:00:43,418","00:00:47,087",0,0,16,0.8095238095238095,0.0,0.0,1.0,2
+580,Well can you at least stay to the end of the play?,Joey,sadness,negative,56,1,3,22,"00:19:51,106","00:19:53,274",0,0,17,0.0,0.0,1.0,1.0,1
+581,"I mean, Ill go to the airport with ya, I-I wanna say good bye.",Joey,sadness,negative,56,2,3,22,"00:19:53,442","00:19:56,227",0,0,17,0.8095238095238095,0.0,0.0,1.0,2
+585,In a minute!!,Joey,anger,negative,56,6,3,22,"00:20:05,454","00:20:07,455",0,1,17,0.8095238095238095,0.0,0.0,1.0,3
+587,"Yeah, I guess it is.",Joey,sadness,negative,56,8,3,22,"00:20:12,794","00:20:15,755",0,0,17,0.8095238095238095,0.0,0.0,1.0,4
+588,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me.",Joey,sadness,negative,56,9,3,22,"00:20:21,970","00:20:28,643",0,0,17,0.8095238095238095,0.0,0.0,1.0,5
+589,"One thing you gotta know, is that I will never forget you.",Joey,sadness,negative,56,10,3,22,"00:20:29,311","00:20:33,898",0,0,17,0.8095238095238095,0.0,0.0,1.0,6
+590,"But, youve got things you have to do now, and so do I.",Joey,sadness,negative,56,11,3,22,"00:20:34,149","00:20:39,320",0,0,17,0.8095238095238095,0.0,0.0,1.0,7
+591,"And so Im gonna get on this spaceship,  and Im gonna go to Blargon 7 in search of alternative fuels.",Joey,sadness,negative,56,12,3,22,"00:20:40,989","00:20:57,797",0,0,17,0.8095238095238095,0.0,0.0,1.0,8
+592,"But when I return, 200 years from now, youll be long gone.",Joey,sadness,negative,56,13,3,22,"00:20:59,508","00:21:05,471",0,0,17,0.8095238095238095,0.0,0.0,1.0,9
+615,Hey Mon! Want some pancakes?,Joey,joy,positive,58,5,4,13,"00:05:14,731","00:05:18,150",1,1,18,0.0,0.0,1.0,1.0,1
+617,Yep! Grab a plate.,Joey,joy,positive,58,7,4,13,"00:05:18,318","00:05:20,110",1,1,18,0.0,0.5294117647058824,1.0,0.0,2
+704,"Oh, Im sorry. Thank you Chandler.",Joey,joy,positive,67,4,6,19,"00:02:10,839","00:02:14,299",1,1,19,0.0,0.0,1.0,1.0,1
+761,"Yes! Yes, I did.",Joey,sadness,negative,72,1,5,11,"0:11:03,746","0:11:05,373",0,0,20,0.0,0.0,1.0,1.0,1
+767,"No, I'm not questioning it, I'm saying it's stupid!  What?!",Joey,anger,negative,72,7,5,11,"00:11:24,600","00:11:30,021",0,1,20,0.8095238095238095,0.0,0.0,1.0,2
+770,"Your other student, was you!",Joey,anger,negative,72,10,5,11,"00:11:39,657","00:11:42,617",0,1,20,0.8095238095238095,0.0,0.0,1.0,3
+772,"Look, maybe I need to try a real teacher!",Joey,anger,negative,72,12,5,11,"00:11:48,082","00:11:49,833",0,1,20,0.8095238095238095,0.0,0.0,1.0,4
+773,Right here!,Joey,anger,negative,72,13,5,11,"0:11:49,833","0:11:50,751",0,1,20,0.8095238095238095,0.0,0.0,1.0,5
+774,Here!,Joey,anger,negative,72,14,5,11,"0:11:50,751","0:11:52,943",0,1,20,0.8095238095238095,0.0,0.0,1.0,6
+780,Hey!,Joey,anger,negative,73,1,5,10,"00:10:33,257","00:10:34,257",0,1,21,0.0,0.0,1.0,1.0,1
+874,Pretty great! Except I did get a little attitude from the robot.,Joey,joy,positive,82,0,6,21,"00:09:50,006","00:09:53,633",1,1,22,0.0,0.0,1.0,1.0,1
+877,"Yeah, he doesnt like me.",Joey,anger,negative,82,3,6,21,"0:10:00,891","0:10:04,063",0,1,22,0.0,0.5294117647058824,1.0,0.0,1
+879,knock over the sandwich right when I was reaching for one!,Joey,anger,negative,82,5,6,21,"00:10:02,227","00:10:06,771",0,1,22,0.6746031746031746,0.0,0.16666666666666666,1.0,2
+882,"I may have to, I hate to do it, but Im the star!",Joey,anger,negative,82,8,6,21,"0:10:08,774","0:10:11,706",0,1,22,0.5396825396825398,0.0,0.3333333333333333,1.0,3
+892,Im the lead in Mac and C.H.E.E.S.E.!!,Joey,anger,negative,82,18,6,21,"00:10:39,597","00:10:41,348",0,1,22,0.29737609329446063,0.0,0.6326530612244898,1.0,4
+943,Ben!,Joey,fear,negative,89,0,2,6,"00:12:04,348","00:12:05,348",0,1,23,0.0,0.0,1.0,1.0,1
+945,Stop the bus! Wait! Wait! Wait!,Joey,fear,negative,89,2,2,6,"00:12:10,730","00:12:15,525",0,1,23,0.8095238095238095,0.0,0.0,1.0,2
+961,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",Joey,anger,negative,90,5,2,1,"00:11:17,426","00:11:21,179",0,1,24,0.0,0.0,1.0,1.0,1
+967,What is the big deal?,Joey,anger,negative,91,4,2,2,"00:09:21,435","00:09:24,229",0,1,25,0.0,0.0,1.0,1.0,1
+998,How're you doing?,Joey,sadness,negative,93,7,2,1,"00:15:38,479","00:15:40,980",0,0,26,0.0,0.0,1.0,1.0,1
+1114,"Oh well listen, anyway shes directing the new Al Pacino movie. You gotta get me an audition!",Joey,joy,positive,106,4,6,18,"00:02:13,883","00:02:21,306",1,1,27,0.0,0.0,1.0,1.0,1
+1137,But sadly I could not be enticed.,Joey,joy,positive,109,1,5,9,"00:20:47,371","00:20:50,331",1,1,28,0.0,0.0,1.0,1.0,1
+1140,"Well, I think we've all learned something about who's disgusting and who's not.",Joey,anger,negative,109,4,5,9,"00:21:15,148","00:21:20,403",0,1,28,0.0,0.5294117647058824,1.0,0.0,1

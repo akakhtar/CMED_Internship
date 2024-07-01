@@ -1,0 +1,43 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal,Scene_ID,Influence_0,Influence_1,ElapsedTime_0,ElapsedTime_1,Sequence_Length
+4,Youre a genius!,Chandler,joy,positive,1,1,4,4,"00:12:32,334","00:12:33,960",1,1,1,0.0,0.0,1.0,1.0,1
+94,"Nothing, Monica and I had a stupid fight.",Chandler,sadness,negative,9,1,6,3,"00:05:24,073","00:05:26,199",0,0,2,0.0,0.0,1.0,1.0,1
+96,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",Chandler,joy,positive,9,3,6,3,"00:05:30,872","00:05:34,291",1,1,2,0.5833333333333334,0.0,0.0,1.0,1
+103,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",Chandler,fear,negative,10,2,5,20,"00:06:57,125","00:07:00,752",0,1,3,0.0,0.0,1.0,1.0,1
+148,"Okay, keep saying it!",Chandler,joy,positive,13,16,5,3,"00:17:05,649","00:17:07,316",1,1,4,0.0,0.0,1.0,1.0,1
+159,"Okay Bob listen uhh, Im the reason you didnt get the job up here.",Chandler,sadness,negative,14,5,8,5,"00:16:29,113","00:16:35,410",0,0,5,0.0,0.0,1.0,1.0,1
+161,Bob!,Chandler,sadness,negative,14,7,8,5,"0:16:36,849","0:16:37,541",0,0,5,0.5833333333333334,0.0,0.0,1.0,2
+291,"Okay, absolutely!",Chandler,joy,positive,24,4,3,11,"0:20:00,908","0:20:02,180",1,1,6,0.0,0.0,1.0,1.0,1
+323,Why not?,Chandler,sadness,negative,27,3,8,1,"0:01:32,968","0:01:33,738",0,0,7,0.0,0.0,1.0,1.0,1
+398,What is wrong with Emma?,Chandler,sadness,negative,33,0,9,2,"00:13:18,339","00:13:20,507",0,0,8,0.0,0.0,1.0,1.0,1
+431,"Run! Run you crazy, rich freak!",Chandler,fear,negative,37,1,3,24,"00:22:03,488","00:22:06,157",0,1,9,0.0,0.0,1.0,1.0,1
+444,"Well let me think about that, while I remove my pants!",Chandler,joy,positive,39,2,8,24,"00:01:16,439","00:01:19,484",1,1,10,0.0,0.0,1.0,1.0,1
+489,"Oh, no-no-no-no-no-no!!",Chandler,fear,negative,45,9,3,17,"00:09:28,192","00:09:29,568",0,1,11,0.0,0.0,1.0,1.0,1
+491,My lighters in there!,Chandler,fear,negative,45,11,3,17,"0:09:30,820","0:09:32,729",0,1,11,0.5833333333333334,0.0,0.0,1.0,2
+545,"Yknow sometimes the good ideas are just right in front of you, arent they?",Chandler,joy,positive,51,1,6,17,"00:15:07,907","00:15:11,618",1,1,12,0.0,0.0,1.0,1.0,1
+631,"Look, you have done enough! Okay? You have to stop this now.",Chandler,anger,negative,60,2,6,17,"00:17:32,551","00:17:36,012",0,1,13,0.0,0.0,1.0,1.0,1
+703,"Well, of course I do! My good friend Joey over here.",Chandler,joy,positive,67,3,6,19,"00:02:04,457","00:02:07,417",1,1,14,0.0,0.0,1.0,1.0,1
+749,He's open!,Chandler,joy,positive,70,3,1,4,"0:12:29,999","0:12:30,511",1,1,15,0.0,0.0,1.0,1.0,1
+803,I know!,Chandler,joy,positive,76,0,3,1,"00:16:22,982","00:16:24,524",1,1,16,0.0,0.0,1.0,1.0,1
+807,"Okay, you know, you know when your in bed, with a woman.",Chandler,joy,positive,76,4,3,1,"00:16:32,491","00:16:35,451",1,1,16,0.0,0.35294117647058826,1.0,0.0,2
+809,"And, ah, you know, your fooling around with her.",Chandler,joy,positive,76,6,3,1,"00:16:36,912","00:16:40,248",1,1,16,0.0,0.35294117647058826,1.0,0.0,3
+810,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",Chandler,joy,positive,76,7,3,1,"00:16:40,416","00:16:46,671",1,1,16,0.0,0.35294117647058826,1.0,0.0,4
+812,"I know, And then all of the sudden your Mom pops into your head.",Chandler,anger,negative,76,9,3,1,"00:16:49,717","00:16:52,301",0,1,16,0.0,0.35294117647058826,1.0,0.0,1
+813,"And your like 'Mom, get outta here!'",Chandler,anger,negative,76,10,3,1,"00:16:54,054","00:16:57,724",0,1,16,0.375,0.0,0.35714285714285715,1.0,2
+814,"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",Chandler,anger,negative,76,11,3,1,"00:16:57,975","00:17:06,065",0,1,16,0.4803921568627451,0.0,0.17647058823529413,1.0,3
+856,We really need to take those tests?,Chandler,sadness,negative,79,7,9,21,"00:06:01,277","00:06:03,403",0,0,17,0.0,0.0,1.0,1.0,1
+859,But I don't wanna do it in a cup!,Chandler,sadness,negative,79,10,9,21,"00:06:08,910","00:06:12,954",0,0,17,0.5833333333333334,0.0,0.0,1.0,2
+875,"Damn those robots, theyre supposed to be our",Chandler,anger,negative,82,1,6,21,"00:09:53,801","00:09:57,137",0,1,18,0.0,0.0,1.0,1.0,1
+895,Im not crazy about babies. Im crazy about us.,Chandler,joy,positive,83,2,8,23,"00:10:36,791","00:10:41,128",1,1,19,0.0,0.0,1.0,1.0,1
+900,Were really good.,Chandler,joy,positive,83,7,8,23,"00:10:53,474","00:10:56,143",1,1,19,0.0,0.35294117647058826,1.0,0.0,2
+921,Thats the magic story you use when you wanna have sex!,Chandler,anger,negative,85,10,8,4,"00:18:52,214","00:18:55,675",0,1,20,0.0,0.0,1.0,1.0,1
+944,"Oh, that's good. Maybe he'll hear you and pull the cord.",Chandler,anger,negative,89,1,2,6,"00:12:06,767","00:12:10,562",0,1,21,0.0,0.0,1.0,1.0,1
+1081,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" Im happy all the time!",Chandler,joy,positive,104,0,5,8,"00:20:15,464","00:20:18,925",1,1,22,0.0,0.0,1.0,1.0,1
+1082,Nice try.,Chandler,sadness,negative,104,1,5,8,"00:20:30,395","00:20:31,520",0,0,22,0.0,0.35294117647058826,1.0,0.0,1
+1086,This is not going to work.,Chandler,anger,negative,104,5,5,8,"00:20:42,366","00:20:43,699",0,1,22,0.3240740740740741,0.0,0.4444444444444444,1.0,2
+1088,You are so great! I love you!,Chandler,joy,positive,104,7,5,8,"00:20:54,086","00:20:56,754",1,1,22,0.40384615384615385,0.0,0.3076923076923077,1.0,1
+1090,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",Chandler,fear,negative,104,9,5,8,"00:21:07,933","00:21:11,852",0,1,22,0.0,0.16941176470588235,1.0,0.52,1
+1092,No I didn't!,Chandler,fear,negative,104,11,5,8,"00:21:15,983","00:21:17,108",0,1,22,0.36111111111111116,0.0,0.38095238095238093,1.0,2
+1094,No I didn't!,Chandler,fear,negative,104,13,5,8,"0:21:21,072","0:21:21,468",0,1,22,0.4537037037037037,0.0,0.2222222222222222,1.0,3
+1096,No I don't! Stop it! Stop it! Stop it! Stop it!,Chandler,anger,negative,104,15,5,8,"00:21:24,032","00:21:26,993",0,1,22,0.525,0.0,0.1,1.0,4
+1101,Jenny! That is so Jenny!,Chandler,joy,positive,105,4,8,4,"00:21:47,889","00:21:51,851",1,1,23,0.0,0.0,1.0,1.0,1
+1157,"So, you still dont think Im boyfriend material?",Chandler,anger,negative,111,0,3,25,"00:11:50,876","00:11:55,588",0,1,24,0.0,0.0,1.0,1.0,1

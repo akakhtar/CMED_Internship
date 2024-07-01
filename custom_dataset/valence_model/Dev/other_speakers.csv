@@ -1,0 +1,62 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal,Scene_ID,Influence_0,Influence_1,ElapsedTime_0,ElapsedTime_1,Sequence_Length
+8,Hey!,All,joy,positive,1,5,4,4,"0:12:44,074","0:12:45,189",1,1,1,0.0,0.0,1.0,1.0,1
+75,Hi Ross!,Mrs. Green,joy,positive,7,9,8,20,"0:15:28,999","0:15:29,508",1,1,2,0.0,0.0,1.0,1.0,1
+105,It's a witness not a perp. And no one talks like that!,Gary,anger,negative,10,4,5,20,"0:07:07,593","0:07:10,096",0,1,3,0.0,0.0,1.0,1.0,1
+134,"Okay, okay, come on, you can do it. You can do it!",Frank,joy,positive,13,2,5,3,"00:16:07,257","00:16:10,593",1,1,4,0.0,0.0,1.0,1.0,1
+135,Yeah!!,Frank,joy,positive,13,3,5,3,"00:16:18,352","00:16:19,769",1,1,4,0.0,0.7241379310344828,1.0,0.0,2
+136,Little Leslie is here!,Frank,joy,positive,13,4,5,3,"0:16:20,479","0:16:22,451",1,1,4,0.0,0.7241379310344828,1.0,0.0,3
+140,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",Frank,joy,positive,13,8,5,3,"00:16:34,034","00:16:38,579",1,1,4,0.0,0.7241379310344828,1.0,0.0,4
+141,"All right, he's coming. He's coming!",Dr. Harad,joy,positive,13,9,5,3,"00:16:39,456","00:16:41,541",1,1,4,0.0,0.7241379310344828,1.0,0.0,5
+150,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",Frank,joy,positive,13,18,5,3,"00:17:11,989","00:17:14,407",1,1,4,0.0,0.7241379310344828,1.0,0.0,6
+152,Yeah.,Frank,joy,positive,13,20,5,3,"00:17:16,410","00:17:17,452",1,1,4,0.0,0.7241379310344828,1.0,0.0,7
+153,"Oh, we have our babies.",Alice,joy,positive,13,21,5,3,"00:17:18,412","00:17:19,579",1,1,4,0.0,0.7241379310344828,1.0,0.0,8
+154,Hey Toby!,Bob,joy,positive,14,0,8,5,"0:16:07,675","0:16:08,267",1,1,5,0.0,0.0,1.0,1.0,1
+158,"I want to talk to that bastard, see what his problem is.",Bob,anger,negative,14,4,8,5,"00:16:26,110","00:16:28,945",0,1,5,0.0,0.7241379310344828,1.0,0.0,1
+160,Toby dont.,Bob,sadness,negative,14,6,8,5,"0:16:35,577","0:16:36,849",0,0,5,0.5253456221198157,0.0,0.32142857142857145,1.0,2
+162,Toby! Im not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,Bob,anger,negative,14,8,8,5,"00:16:37,663","00:16:45,920",0,1,5,0.7225806451612903,0.0,0.06666666666666667,1.0,3
+175,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So,Kyle,sadness,negative,16,1,7,5,"00:19:44,224","00:19:52,732",0,0,6,0.0,0.0,1.0,1.0,1
+177,Were gonna give it another try.,Kyle,joy,positive,16,3,7,5,"00:20:02,910","00:20:04,785",1,1,6,0.7741935483870968,0.0,0.0,1.0,1
+184,Were so sorry.,Whitney,sadness,negative,16,10,7,5,"00:20:23,388","00:20:25,348",0,0,6,0.0,0.33421750663129973,1.0,0.5384615384615384,1
+195,Maybe because youve got the keys?,Passerby,anger,negative,17,1,6,5,"00:14:55,603","00:14:57,520",0,1,7,0.0,0.0,1.0,1.0,1
+226,The woman I love is having a baby today. I've been waiting for this just as much as you have.,Susan,anger,negative,19,5,1,23,"00:14:32,329","00:14:35,665",0,1,8,0.0,0.0,1.0,1.0,1
+234,Who am I?,Susan,anger,negative,19,13,1,23,"0:14:47,517","0:14:50,183",0,1,8,0.7741935483870968,0.0,0.0,1.0,2
+235,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",Susan,sadness,negative,19,14,1,23,"00:14:50,306","00:14:52,599",0,0,8,0.7741935483870968,0.0,0.0,1.0,3
+336,"Oh, come on!",All,sadness,negative,28,6,5,8,"0:04:23,780","0:04:24,782",0,0,9,0.0,0.0,1.0,1.0,1
+371,I can't believe that Ross is gone. It is just so sad.,Kori,sadness,negative,31,0,9,17,"00:22:08,315","00:22:11,902",0,0,10,0.0,0.0,1.0,1.0,1
+373,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,Kori,sadness,negative,31,2,9,17,"00:22:14,362","00:22:25,749",0,0,10,0.7741935483870968,0.0,0.0,1.0,2
+376,I thought so many times about calling him and asking him out.    I guess I really missed my chance.,Kori,sadness,negative,31,5,9,17,"00:22:33,507","00:22:39,554",0,0,10,0.7741935483870968,0.0,0.0,1.0,3
+382,"You sick freak, who does that? I can't believe I had a crush on    you!",Kori,anger,negative,31,11,9,17,"00:22:59,825","00:23:04,120",0,1,10,0.7741935483870968,0.0,0.0,1.0,4
+436,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",TV Announcer,fear,negative,37,6,3,24,"00:22:15,751","00:22:20,171",0,1,11,0.0,0.0,1.0,1.0,1
+437,Oh! Oh!,All,disgust,negative,37,7,3,24,"00:22:20,422","00:22:21,672",0,1,11,0.7741935483870968,0.0,0.0,1.0,2
+467,I know. You're the guy who wouldn't chip in for the handyman.,The Hot Girl,sadness,negative,44,0,5,17,"00:13:12,416","00:13:15,835",0,0,12,0.0,0.0,1.0,1.0,1
+473,Sure! That would be nice.,Jen,joy,positive,44,5,5,17,"00:13:45,366","00:13:47,116",1,1,12,0.7741935483870968,0.0,0.0,1.0,1
+475,Oh! My number is on there.  Give me a call.,Jen,joy,positive,44,7,5,17,"00:13:49,537","00:13:52,622",1,1,12,0.0,0.6458527493010252,1.0,0.10810810810810811,2
+510,"Umm, yeah, actually, Susans gonna be home any minute, its kinda an anniversary.",Carol,joy,positive,47,6,3,17,"00:12:29,373","00:12:34,544",1,1,13,0.0,0.0,1.0,1.0,1
+526,"Yeah? Well, there's a lot of things Carol never did before I came along.",Susan,anger,negative,49,3,1,23,"00:09:21,894","00:09:25,480",0,1,14,0.0,0.0,1.0,1.0,1
+542,Son of a bitch!,The Dry Cleaner,anger,negative,50,2,6,22,"0:17:05,671","0:17:06,747",0,1,15,0.0,0.0,1.0,1.0,1
+561,"Joey, you dont have to count down every time we kiss.",Janine,joy,positive,53,7,6,10,"00:20:18,175","00:20:20,468",1,1,16,0.0,0.0,1.0,1.0,1
+578,Im sorry.,Kate,sadness,negative,55,0,6,1,"00:03:46,100","00:03:48,769",0,0,17,0.0,0.0,1.0,1.0,1
+579,"Joey, onstage!",Stage Manager,anger,negative,56,0,3,22,"00:19:48,103","00:19:50,354",0,1,18,0.0,0.0,1.0,1.0,1
+583,Flights in an hour. I-I gotta go.,Kate,sadness,negative,56,4,3,22,"00:19:58,530","00:20:00,698",0,0,18,0.7741935483870968,0.0,0.0,1.0,2
+584,Vic! Vic!,Lauren,anger,negative,56,5,3,22,"00:20:00,866","00:20:02,325",0,1,18,0.7741935483870968,0.0,0.0,1.0,3
+586,So this is it? Victor?,Lauren,sadness,negative,56,7,3,22,"00:20:09,583","00:20:11,959",0,0,18,0.7741935483870968,0.0,0.0,1.0,4
+595,"So long, Vic!",Lauren,sadness,negative,56,16,3,22,"00:21:34,293","00:21:36,585",0,0,18,0.7741935483870968,0.0,0.0,1.0,5
+645,"Ooh, actually Ive been making a list of all the women I know who might be into doing this!",Carol,joy,positive,62,1,6,16,"00:00:59,309","00:01:03,020",1,1,19,0.0,0.0,1.0,1.0,1
+682,No-ho-ho!,Joanna,joy,positive,65,5,4,9,"0:04:33,541","0:04:36,295",1,1,20,0.0,0.0,1.0,1.0,1
+687,"Kidding! God, I feel wild today!",Joanna,joy,positive,65,10,4,9,"00:04:51,873","00:04:57,254",1,1,20,0.0,0.7241379310344828,1.0,0.0,2
+701,Hi! Hey!,All,joy,positive,67,1,6,19,"0:02:01,205","0:02:01,361",1,1,21,0.0,0.0,1.0,1.0,1
+721,Of course well help! Yeah! Well be here!,All,joy,positive,68,9,6,21,"00:02:43,663","00:02:47,541",1,1,22,0.0,0.0,1.0,1.0,1
+725,I'm okay. I gotta go down to the police station and look at mug shots.,Tag,sadness,negative,69,1,7,8,"00:19:40,888","00:19:45,099",0,0,23,0.0,0.0,1.0,1.0,1
+743,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",Tag,sadness,negative,69,17,7,8,"00:20:32,232","00:20:38,694",0,0,23,0.7741935483870968,0.0,0.0,1.0,2
+745,"Yeah, so, please don't fire me for doing this.",Tag,sadness,negative,69,19,7,8,"00:20:41,000","00:20:45,409",0,0,23,0.7741935483870968,0.0,0.0,1.0,3
+750,Shoot! Shoot! Shoot!,All,joy,positive,70,4,1,4,"0:12:30,511","0:12:33,925",1,1,24,0.0,0.0,1.0,1.0,1
+867,"We got the grant. Three years, all expenses paid.",Max,joy,positive,80,7,1,10,"00:12:20,406","00:12:25,535",1,1,25,0.0,0.0,1.0,1.0,1
+870,You wanted to see me Professor Geller?,Elizabeth,joy,positive,81,0,6,19,"0:09:51,882","0:09:53,444",1,1,26,0.0,0.0,1.0,1.0,1
+887,"Joe! Im glad I found ya, I got an audition for ya!",Estelle,joy,positive,82,13,6,21,"00:10:22,747","00:10:26,458",1,1,27,0.0,0.0,1.0,1.0,1
+936,"Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",Charlie,joy,positive,87,4,9,20,"00:08:58,734","00:09:03,572",1,1,28,0.0,0.0,1.0,1.0,1
+1000,"Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",Carol,joy,positive,94,1,2,2,"00:13:15,920","00:13:21,549",1,1,29,0.0,0.0,1.0,1.0,1
+1004,Cantaloupe juice.,Susan,joy,positive,94,5,2,2,"00:13:31,560","00:13:33,686",1,1,29,0.0,0.7241379310344828,1.0,0.0,2
+1048,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",Jeannine,anger,negative,98,0,3,12,"00:05:20,528","00:05:28,076",0,1,30,0.0,0.0,1.0,1.0,1
+1050,"Well, if you don't, I will.",Jeannine,anger,negative,98,2,3,12,"0:05:28,244","0:05:29,955",0,1,30,0.7741935483870968,0.0,0.0,1.0,2
+1131,"Yeah, I love you. Okay, bye!  Hi!",Frank,joy,positive,108,10,5,3,"00:14:10,766","00:14:13,810",1,1,31,0.0,0.0,1.0,1.0,1
+1133,"That was Alice's mom, she said she left five hours ago. She should be here by now!",Frank,fear,negative,108,12,5,3,"00:14:16,105","00:14:20,567",0,1,31,0.0,0.7241379310344828,1.0,0.0,1

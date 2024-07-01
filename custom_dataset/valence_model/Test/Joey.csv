@@ -1,0 +1,168 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal,Scene_ID,Influence_0,Influence_1,ElapsedTime_0,ElapsedTime_1,Sequence_Length
+20,Push!,Joey,joy,positive,1,1,1,23,"0:10:46,146","0:10:46,833",1,1,1,0.0,0.0,1.0,1.0,1
+21,"Push 'em out, push 'em out, harder, harder.",Joey,joy,positive,1,2,1,23,"00:10:46,979","00:10:50,148",1,1,1,0.0,0.5753424657534246,1.0,0.0,2
+22,"Push 'em out, push 'em out, way out!",Joey,joy,positive,1,3,1,23,"00:10:50,316","00:10:52,609",1,1,1,0.0,0.5753424657534246,1.0,0.0,3
+23,"Let's get that ball and really move, hey, hey, ho, ho.",Joey,joy,positive,1,4,1,23,"00:10:52,777","00:10:55,612",1,1,1,0.0,0.5753424657534246,1.0,0.0,4
+24,"Let's  I was justyeah, right.",Joey,joy,positive,1,5,1,23,"00:10:55,780","00:11:01,242",1,1,1,0.0,0.5753424657534246,1.0,0.0,5
+25,Push!,Joey,joy,positive,1,6,1,23,"0:11:01,410","0:11:01,828",1,1,1,0.0,0.5753424657534246,1.0,0.0,6
+26,Push!,Joey,joy,positive,1,7,1,23,"0:11:01,828","0:11:03,774",1,1,1,0.0,0.5753424657534246,1.0,0.0,7
+50,Oh my God! I overslept! I was supposed to be on the set a half an hour ago! I gotta get out of here!,Joey,fear,negative,4,5,4,14,"00:08:52,532","00:08:58,328",0,1,2,0.0,0.0,1.0,1.0,1
+52,"Look, I know I feel asleep before I could shower and now I dont have time!",Joey,anger,negative,4,7,4,14,"00:09:00,998","00:09:03,750",0,1,2,0.6666666666666666,0.0,0.0,1.0,2
+90,"Oh, how bad is it?",Joey,sadness,negative,9,8,6,18,"00:05:25,199","00:05:28,618",0,0,3,0.0,0.0,1.0,1.0,1
+100,Theres just so much pressure.,Joey,anger,negative,10,0,6,20,"00:05:56,272","00:05:58,065",0,1,4,0.0,0.0,1.0,1.0,1
+141,Yeah!,Joey,joy,positive,14,1,6,4,"0:21:28,474","0:21:29,058",1,1,5,0.0,0.0,1.0,1.0,1
+142,Yeah!,Joey,joy,positive,14,2,6,4,"0:21:29,058","0:21:29,440",1,1,5,0.0,0.5753424657534246,1.0,0.0,2
+143,Yeah!,Joey,joy,positive,14,3,6,4,"0:21:29,440","0:21:29,806",1,1,5,0.0,0.5753424657534246,1.0,0.0,3
+148,Hey-hey-hey!,Joey,joy,positive,14,7,6,4,"0:21:37,590","0:21:39,055",1,1,5,0.0,0.5753424657534246,1.0,0.0,4
+158,Cut it out Ross! I hate to have to save your life and kick your ass in the same day!,Joey,anger,negative,15,5,5,20,"00:13:30,810","00:13:36,439",0,1,6,0.0,0.0,1.0,1.0,1
+275,Hey I got one! I got one!,Joey,joy,positive,26,0,1,9,"00:12:22,771","00:12:25,649",1,1,7,0.0,0.0,1.0,1.0,1
+371,And you got a 'hate' from that?! Your taking a big leap there...,Joey,fear,negative,37,3,3,1,"00:14:07,304","00:14:11,558",0,1,8,0.0,0.0,1.0,1.0,1
+374,But what does that gonna do...,Joey,anger,negative,37,6,3,1,"00:14:24,697","00:14:26,060",0,1,8,0.6666666666666666,0.0,0.0,1.0,2
+377,"Awww, one of my students got an audition. Im so proud.",Joey,joy,positive,38,1,3,7,"00:13:23,344","00:13:26,805",1,1,9,0.0,0.0,1.0,1.0,1
+379,You bet! Whats the part?,Joey,joy,positive,38,3,3,7,"00:13:31,060","00:13:33,000",1,1,9,0.0,0.5753424657534246,1.0,0.0,2
+456,"God, its gonna so weird like when I come home and youre not here.",Joey,sadness,negative,47,0,6,2,"00:13:39,985","00:13:43,488",0,0,10,0.0,0.0,1.0,1.0,1
+458,No more Joey and Chans.,Joey,sadness,negative,47,1,6,2,"00:13:43,781","00:13:45,532",0,0,10,0.6666666666666666,0.0,0.0,1.0,2
+459,No more J and Cs.,Joey,sadness,negative,47,2,6,2,"00:13:45,783","00:13:47,951",0,0,10,0.6666666666666666,0.0,0.0,1.0,3
+463,Yeah but we wont be able to like get up in the middle of the night and have those long talks about our feelings and the future.,Joey,sadness,negative,47,6,6,2,"00:13:56,210","00:14:01,214",0,0,10,0.6666666666666666,0.0,0.0,1.0,4
+477,Woo-hoo!!,Joey,joy,positive,48,4,4,23,"0:02:11,592","0:02:11,932",1,1,11,0.0,0.0,1.0,1.0,1
+479,London baby!,Joey,joy,positive,48,6,4,23,"0:02:14,134","0:02:14,272",1,1,11,0.0,0.5753424657534246,1.0,0.0,2
+502,Hey!,Joey,joy,positive,51,0,8,5,"0:06:31,057","0:06:32,267",1,1,12,0.0,0.0,1.0,1.0,1
+506,"To tape the game? You do this every time Ross, youre",Joey,disgust,negative,52,1,8,7,"00:10:26,500","00:10:31,004",0,1,13,0.0,0.0,1.0,1.0,1
+610,"And to go from that to this, I just Plus, Id have to wait on all my friends.",Joey,sadness,negative,64,12,6,12,"00:06:29,472","00:06:35,435",0,0,14,0.0,0.0,1.0,1.0,1
+618,No way are you cool enough to pull of Clint.,Joey,disgust,negative,65,3,4,18,"00:17:30,466","00:17:33,551",0,1,15,0.0,0.0,1.0,1.0,1
+636,"Rach, I told you everything I knew last night!",Joey,anger,negative,68,1,5,12,"00:00:04,004","00:00:06,380",0,1,16,0.0,0.0,1.0,1.0,1
+647,"Ohh, I know one thing!",Joey,joy,positive,68,12,5,12,"0:00:40,498","0:00:41,750",1,1,16,0.6666666666666666,0.0,0.0,1.0,1
+664,Will the stable boy never get the princess??,Joey,sadness,negative,70,8,9,12,"00:16:20,187","00:16:23,231",0,0,17,0.0,0.0,1.0,1.0,1
+666,No ... the leather sticks to my ass.,Joey,disgust,negative,70,10,9,12,"00:16:27,945","00:16:31,155",0,1,17,0.6666666666666666,0.0,0.0,1.0,2
+667,"You know, this isn't fair.",Joey,anger,negative,70,11,9,12,"00:16:32,491","00:16:35,535",0,1,17,0.6666666666666666,0.0,0.0,1.0,3
+668,What makes you think that I'm just gonna sleep with her and then blow her off?,Joey,anger,negative,70,12,9,12,"0:16:35,703","0:16:37,205",0,1,17,0.6666666666666666,0.0,0.0,1.0,4
+669,Huh?,Joey,anger,negative,70,13,9,12,"0:16:37,205","0:16:37,357",0,1,17,0.6666666666666666,0.0,0.0,1.0,5
+670,"Can't you guys open your minds to the possibility that I actally like her,    and might want something real?",Joey,anger,negative,70,14,9,12,"00:16:37,454","00:16:43,876",0,1,17,0.6666666666666666,0.0,0.0,1.0,6
+671,"Look, the truth is, I haven't felt this    way about anyone since Rachel, ok?",Joey,sadness,negative,70,15,9,12,"00:16:45,462","00:16:51,000",0,0,17,0.6666666666666666,0.0,0.0,1.0,7
+672,I didn't think I could ever love again.,Joey,sadness,negative,70,16,9,12,"00:16:50,634","00:16:53,970",0,0,17,0.6666666666666666,0.0,0.0,1.0,8
+679,"It's like my favorite fairy tale come true!  The princess, the stable boy and the lesbian!",Joey,joy,positive,70,22,9,12,"00:17:32,426","00:17:41,017",1,1,17,0.6666666666666666,0.0,0.0,1.0,1
+680,"And whats cool is, the character is from Naples, right?",Joey,joy,positive,71,0,7,19,"00:20:09,583","00:20:12,835",1,1,18,0.0,0.0,1.0,1.0,1
+682,My whole familys from Naples!,Joey,joy,positive,71,2,7,19,"0:20:13,546","0:20:15,885",1,1,18,0.0,0.5753424657534246,1.0,0.0,2
+692,One hundred percent natural!,Joey,joy,positive,71,12,7,19,"00:20:46,078","00:20:48,704",1,1,18,0.0,0.5753424657534246,1.0,0.0,3
+693,"I tell ya, that has never happened before.",Joey,fear,negative,71,13,7,19,"00:21:04,137","00:21:07,640",0,1,18,0.0,0.5753424657534246,1.0,0.0,1
+711,"Ross-Ross-Ross-Ross! Stay away from that guy , and that guy . And that oneDude! Theyre all huge!",Joey,fear,negative,73,0,4,15,"00:11:26,811","00:11:34,234",0,1,19,0.0,0.0,1.0,1.0,1
+713,"Well, maybe thats because youre closer to you. So you look bigger to you from where you are.",Joey,anger,negative,73,2,4,15,"00:11:36,946","00:11:40,990",0,1,19,0.6666666666666666,0.0,0.0,1.0,2
+775,Well he made Rachel cry!,Joey,disgust,negative,80,2,4,4,"00:06:56,124","00:06:57,332",0,1,20,0.0,0.0,1.0,1.0,1
+798,Nothing!,Joey,anger,negative,84,1,1,5,"00:10:07,023","00:10:08,023",0,1,21,0.0,0.0,1.0,1.0,1
+799,"Well, I-I got this blinding pain in my stomach when I was lifting weights before, then I uh passed out and uh, havent been able to stand up since.",Joey,sadness,negative,84,2,1,5,"00:10:08,190","00:10:18,575",0,0,21,0.6666666666666666,0.0,0.0,1.0,2
+802,No way!,Joey,anger,negative,85,2,6,4,"00:10:24,874","00:10:26,124",0,1,22,0.0,0.0,1.0,1.0,1
+803,"Kay look, if I have to go to the doctor for anything its gonna be for this thing sticking out of my stomach!",Joey,anger,negative,85,3,6,4,"00:10:26,292","00:10:31,463",0,1,22,0.6666666666666666,0.0,0.0,1.0,2
+804,Why did I have to start working out again?,Joey,disgust,negative,85,4,6,4,"00:10:36,177","00:10:39,054",0,1,22,0.6666666666666666,0.0,0.0,1.0,3
+805,Damn you 15s!,Joey,anger,negative,85,5,6,4,"00:10:39,764","00:10:41,556",0,1,22,0.6666666666666666,0.0,0.0,1.0,4
+812,I like it.,Joey,joy,positive,86,6,6,9,"00:17:24,960","00:17:26,335",1,1,23,0.0,0.0,1.0,1.0,1
+818,"You guys, can we please not watch this all right.",Joey,disgust,negative,88,2,3,4,"0:00:11,761","0:00:13,513",0,1,24,0.0,0.0,1.0,1.0,1
+822,"Oh, you said it Mike.  Aw! There's got to be a better way!",Joey,anger,negative,88,6,3,4,"00:00:21,855","00:00:30,029",0,1,24,0.6666666666666666,0.0,0.0,1.0,2
+824,Can we please turn this off?,Joey,sadness,negative,88,8,3,4,"0:00:30,196","0:00:31,578",0,0,24,0.6666666666666666,0.0,0.0,1.0,3
+846,I cant believe Im going to lose this job!,Joey,sadness,negative,93,0,6,21,"00:18:47,042","00:18:49,001",0,0,25,0.0,0.0,1.0,1.0,1
+858,Why should I help you?!,Joey,anger,negative,93,12,6,21,"00:19:15,571","00:19:17,613",0,1,25,0.6666666666666666,0.0,0.0,1.0,2
+888,Whaddya think? Today's the big day!,Joey,joy,positive,96,2,1,6,"00:12:15,276","00:12:17,277",1,1,26,0.0,0.0,1.0,1.0,1
+890,Thank you!,Joey,joy,positive,96,4,1,6,"00:12:24,034","00:12:25,076",1,1,26,0.0,0.5753424657534246,1.0,0.0,2
+908,"Hey Monica, it's Joey!",Joey,joy,positive,97,0,5,22,"00:20:45,244","00:20:47,828",1,1,27,0.0,0.0,1.0,1.0,1
+916,Uh-oh!,Joey,fear,negative,97,8,5,22,"0:21:07,224","0:21:07,776",0,1,27,0.0,0.5753424657534246,1.0,0.0,1
+919,"Everybody smile!  Okay, thanks a lot! Enjoy your stay at",Joey,joy,positive,97,11,5,22,"00:21:18,443","00:21:27,118",1,1,27,0.4444444444444445,0.0,0.3333333333333333,1.0,1
+982,"Excellent! Excellent! And uh, finally, are you into any weird stuff yknow, sexually?",Joey,joy,positive,104,0,8,23,"00:18:45,279","00:18:51,577",1,1,28,0.0,0.0,1.0,1.0,1
+988,"Oh yeah, Smokey Joe here got half way to the highway and collapsed.",Joey,anger,negative,106,0,3,17,"00:14:32,663","00:14:36,541",0,1,29,0.0,0.0,1.0,1.0,1
+1016,"Good for you.  Uh, quarters or rolls of quarters?",Joey,joy,positive,109,1,1,14,"00:06:44,445","00:06:53,120",1,1,30,0.0,0.0,1.0,1.0,1
+1073,That's right baby.,Joey,joy,positive,113,2,5,21,"00:11:40,866","00:11:42,283",1,1,31,0.0,0.0,1.0,1.0,1
+1078,"Oh yeah, that's right!",Joey,anger,negative,113,7,5,21,"00:11:52,044","00:11:53,962",0,1,31,0.0,0.5753424657534246,1.0,0.0,1
+1084,"Whoa-whoa you guys, it's not a cat!",Joey,anger,negative,113,13,5,21,"00:12:17,486","00:12:19,904",0,1,31,0.21621621621621623,0.0,0.6756756756756757,1.0,2
+1093,"Thursdays clearly not good for ya, pick a day!",Joey,joy,positive,114,5,6,3,"00:20:50,832","00:20:53,584",1,1,32,0.0,0.0,1.0,1.0,1
+1105,"Good luck, and uh, take care, huh?",Joey,sadness,negative,116,5,1,23,"00:07:28,489","00:07:34,703",0,0,33,0.0,0.0,1.0,1.0,1
+1160,"Aww, me too. Now let's finish this and go to bed.",Joey,joy,positive,121,1,5,16,"00:00:57,307","00:01:00,976",1,1,34,0.0,0.0,1.0,1.0,1
+1164,I love you too.,Joey,joy,positive,121,5,5,16,"00:01:17,410","00:01:18,911",1,1,34,0.0,0.5753424657534246,1.0,0.0,2
+1214,"Hey, funny you should call.",Joey,joy,positive,125,11,7,4,"0:14:31,078","0:14:33,010",1,1,35,0.0,0.0,1.0,1.0,1
+1221,"All right, bye!",Joey,anger,negative,125,18,7,4,"00:14:49,722","00:14:51,973",0,1,35,0.0,0.5753424657534246,1.0,0.0,1
+1222,They canceled Mac and C.H.E.E.S.E!,Joey,anger,negative,125,19,7,4,"00:14:53,225","00:14:54,976",0,1,35,0.5454545454545454,0.0,0.18181818181818182,1.0,2
+1285,Hey!,Joey,joy,positive,131,1,8,3,"0:21:24,116","0:21:25,556",1,1,36,0.0,0.0,1.0,1.0,1
+1305,Damnit woman were losing precious time! Now do you want this mans blood on your head?,Joey,anger,negative,132,10,8,23,"00:14:48,208","00:14:50,000",0,1,37,0.0,0.0,1.0,1.0,1
+1311,"816, thank you!",Joey,joy,positive,132,16,8,23,"0:15:01,517","0:15:02,579",1,1,37,0.6666666666666666,0.0,0.0,1.0,1
+1357,She goes and makes a date with a guy on the same night she has plans with me?,Joey,anger,negative,137,13,7,11,"00:11:46,080","00:11:49,165",0,1,38,0.0,0.0,1.0,1.0,1
+1358,I think shes trying to pull a fast one on Big Daddy!,Joey,anger,negative,137,14,7,11,"00:11:49,333","00:11:51,835",0,1,38,0.6666666666666666,0.0,0.0,1.0,2
+1373,That part was perfect for me! I can't believe I didn't get it!,Joey,anger,negative,140,0,5,10,"00:05:48,139","00:05:51,391",0,1,39,0.0,0.0,1.0,1.0,1
+1381,"Come on Ross be realistic, y'know? If I did write something, what are the chances I could get those guys to star in it?",Joey,sadness,negative,140,8,5,10,"00:06:04,781","00:06:12,412",0,0,39,0.6666666666666666,0.0,0.0,1.0,2
+1382,"Wait a second, I could star in it!",Joey,joy,positive,140,9,5,10,"0:06:15,708","0:06:17,730",1,1,39,0.6666666666666666,0.0,0.0,1.0,1
+1384,I can't write!,Joey,anger,negative,140,11,5,10,"00:06:20,880","00:06:23,799",0,1,39,0.0,0.3955479452054794,1.0,0.3125,1
+1385,"Y'know I mean I-I-I'm an actor, I don't have the discipline that takes, y'know?",Joey,sadness,negative,140,12,5,10,"00:06:20,880","00:06:27,719",0,0,39,0.6666666666666666,0.0,0.0,1.0,2
+1386,I can't do it.,Joey,sadness,negative,140,13,5,10,"00:06:24,008","00:06:27,719",0,0,39,0.37037037037037035,0.0,0.4444444444444444,1.0,3
+1444,"Uh, it's 2:30 in the morning!",Joey,sadness,negative,147,2,1,12,"0:22:09,286","0:22:12,540",0,0,40,0.0,0.0,1.0,1.0,1
+1452,Oh yeah!,Joey,joy,positive,147,10,1,12,"0:22:33,895","0:22:35,241",1,1,40,0.6666666666666666,0.0,0.0,1.0,1
+1476,"It have a fear of heights, you go to the top of the building!",Joey,fear,negative,153,4,3,4,"00:07:51,387","00:07:54,389",0,1,41,0.0,0.0,1.0,1.0,1
+1482,"Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!",Joey,joy,positive,153,10,3,4,"00:08:14,243","00:08:19,247",1,1,41,0.6666666666666666,0.0,0.0,1.0,1
+1491,Im missin picture time?!,Joey,joy,positive,154,7,8,11,"00:02:26,479","00:02:28,230",1,1,42,0.0,0.0,1.0,1.0,1
+1557,Hey!,Joey,anger,negative,160,8,6,2,"0:14:44,341","0:14:44,925",0,1,43,0.0,0.0,1.0,1.0,1
+1558,I did not cry my eyes out!!,Joey,anger,negative,160,9,6,2,"0:14:44,925","0:14:48,227",0,1,43,0.6666666666666666,0.0,0.0,1.0,2
+1559,Come on!,Joey,sadness,negative,160,10,6,2,"0:14:48,721","0:14:50,765",0,0,43,0.6666666666666666,0.0,0.0,1.0,3
+1560,Its like the end of an era!,Joey,sadness,negative,160,11,6,2,"0:14:50,765","0:14:50,910",0,0,43,0.6666666666666666,0.0,0.0,1.0,4
+1561,No more J-man and Channies!,Joey,sadness,negative,160,12,6,2,"00:14:51,098","00:14:52,974",0,0,43,0.6666666666666666,0.0,0.0,1.0,5
+1609,"No! She had the ring on, she seemed so excited, and then she  took her breast out.",Joey,anger,negative,166,1,9,1,"00:15:35,976","00:15:41,606",0,1,44,0.0,0.0,1.0,1.0,1
+1611,I didn’t look at it. Stupid baby’s head was blocking most of  it.,Joey,anger,negative,166,3,9,1,"00:15:47,154","00:15:52,116",0,1,44,0.6666666666666666,0.0,0.0,1.0,2
+1613,"Look, it’s not that easy. She said she wanted to marry me. I  don’t want to hurt her.",Joey,sadness,negative,166,5,9,1,"00:15:55,996","00:16:01,459",0,0,44,0.6666666666666666,0.0,0.0,1.0,3
+1654,"There was a ring, in a box, on my nightstand, after you left, it was gone!",Joey,anger,negative,168,11,4,22,"00:16:18,102","00:16:22,230",0,1,45,0.0,0.0,1.0,1.0,1
+1680,"About a month ago this guy spent the night with Rachel, I didnt see who it was but",Joey,disgust,negative,169,18,8,2,"00:12:35,212","00:12:41,217",0,1,46,0.0,0.0,1.0,1.0,1
+1698,No! Year! Happy No Year!,Joey,joy,positive,171,7,6,10,"00:16:16,517","00:16:21,145",1,1,47,0.0,0.0,1.0,1.0,1
+1780,"Well, I'm totally over it Chandler. Friends forever! Don't come out here!",Joey,anger,negative,179,1,5,23,"00:00:57,974","00:01:07,357",0,1,48,0.0,0.0,1.0,1.0,1
+1813,"Oh, youre kidding me!",Joey,anger,negative,183,3,6,22,"0:13:45,590","0:13:47,500",0,1,49,0.0,0.0,1.0,1.0,1
+1857,"Hey Ross! Listen, do you want to go see that new Imax movie on tide pools?",Joey,joy,positive,185,3,8,7,"00:10:09,191","00:10:14,404",1,1,50,0.0,0.0,1.0,1.0,1
+1865,Im sorry I gotta cancel tonight baby,Joey,sadness,negative,186,3,8,8,"00:07:38,749","00:07:40,709",0,0,51,0.0,0.0,1.0,1.0,1
+1883,"Hey, that woman's got an ass like Carol's!  What? Thought we were trying to find stuff.",Joey,joy,positive,188,8,1,4,"00:07:20,481","00:07:30,282",1,1,52,0.0,0.0,1.0,1.0,1
+1884,All right!,Joey,joy,positive,189,0,4,23,"00:06:39,982","00:06:41,817",1,1,53,0.0,0.0,1.0,1.0,1
+1885,Westminster Abbey!,Joey,joy,positive,189,1,4,23,"00:06:41,984","00:06:44,027",1,1,53,0.0,0.5753424657534246,1.0,0.0,2
+1886,"Hands down, best Abbey Ive ever seen.",Joey,joy,positive,189,2,4,23,"00:06:44,195","00:06:46,780",1,1,53,0.0,0.5753424657534246,1.0,0.0,3
+1887,Hey!,Joey,joy,positive,189,3,4,23,"00:06:47,949","00:06:49,366",1,1,53,0.0,0.5753424657534246,1.0,0.0,4
+1971,"No-no, she kicked our butts. You could be on the Olympic standing-there team.",Joey,anger,negative,198,2,1,12,"00:17:11,447","00:17:15,491",0,1,54,0.0,0.0,1.0,1.0,1
+1975,"Yes, now is when you swoop!",Joey,joy,positive,198,6,1,12,"00:17:24,668","00:17:26,294",1,1,54,0.6666666666666666,0.0,0.0,1.0,1
+1976,"You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's not!",Joey,joy,positive,198,7,1,12,"00:17:26,462","00:17:32,842",1,1,54,0.0,0.4986301369863014,1.0,0.13333333333333333,2
+1977,"You're like, like the anti-Paolo!",Joey,anger,negative,198,8,1,12,"00:17:33,010","00:17:34,969",0,1,54,0.0,0.39227895392278955,1.0,0.3181818181818182,1
+1999,It was in my room all night!,Joey,anger,negative,200,1,4,22,"0:16:52,261","0:16:52,860",0,1,55,0.0,0.0,1.0,1.0,1
+2000,"And if she didnt take it, and I didnt take it; and you  didnt take it, then who did?",Joey,anger,negative,200,2,4,22,"00:16:52,970","00:16:56,305",0,1,55,0.6666666666666666,0.0,0.0,1.0,2
+2001,Shh!,Joey,anger,negative,200,3,4,22,"0:16:58,225","0:16:59,777",0,1,55,0.6666666666666666,0.0,0.0,1.0,3
+2002,Were trying to think!,Joey,anger,negative,200,4,4,22,"0:16:59,777","0:17:00,871",0,1,55,0.6666666666666666,0.0,0.0,1.0,4
+2005,Oh yeah!,Joey,joy,positive,201,2,4,2,"0:13:43,072","0:13:43,664",1,1,56,0.0,0.0,1.0,1.0,1
+2011,"Oh yeah?  If I cant, Ill knock five bucks off the price off the unit.",Joey,anger,negative,201,8,4,2,"00:14:01,632","00:14:09,347",0,1,56,0.0,0.5753424657534246,1.0,0.0,1
+2014,"Sometimes I get in here just to get away from it! Hey, a nickel!!",Joey,anger,negative,201,11,4,2,"00:14:21,694","00:14:28,950",0,1,56,0.3157894736842105,0.0,0.5263157894736842,1.0,2
+2017,"Hey-hey, whos your friend?  Hey!!",Joey,joy,positive,202,2,7,7,"00:05:50,183","00:05:54,144",1,1,57,0.0,0.0,1.0,1.0,1
+2019,Erin! Still here!,Joey,joy,positive,202,4,7,7,"0:05:58,275","0:05:59,131",1,1,57,0.0,0.5753424657534246,1.0,0.0,2
+2021,Why wouldnt ya? Erin is great! Then-then theres you guys.,Joey,joy,positive,202,6,7,7,"00:06:04,906","00:06:10,243",1,1,57,0.0,0.5753424657534246,1.0,0.0,3
+2047,"No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.",Joey,anger,negative,205,1,1,20,"00:00:10,010","00:00:15,848",0,1,58,0.0,0.0,1.0,1.0,1
+2054,Man that was great! Huh? Can you believe how long we threw that ball around?,Joey,joy,positive,206,0,5,21,"00:21:32,416","00:21:36,085",1,1,59,0.0,0.0,1.0,1.0,1
+2078,What is it? Hey!,Joey,sadness,negative,208,4,8,24,"00:19:04,881","00:19:06,675",0,0,60,0.0,0.0,1.0,1.0,1
+2105,"Whoa-whoa-whoa-whoa, I-IHey! I did",Joey,anger,negative,211,4,6,22,"00:17:16,869","00:17:20,204",0,1,61,0.0,0.0,1.0,1.0,1
+2130,"Come on Treeger, dont say that.",Joey,sadness,negative,214,1,4,4,"00:14:33,455","00:14:35,957",0,0,62,0.0,0.0,1.0,1.0,1
+2134,"Plus, it was, it was probably mostly my fault, anyway.",Joey,sadness,negative,214,4,4,4,"00:14:44,633","00:14:47,385",0,0,62,0.6666666666666666,0.0,0.0,1.0,2
+2135,"I mean, yknow, Im not really that comfortable dancing with a We-he!!",Joey,joy,positive,214,5,4,4,"00:14:47,636","00:14:50,889",1,1,62,0.6666666666666666,0.0,0.0,1.0,1
+2136,Hey!,Joey,joy,positive,214,6,4,4,"0:14:52,224","0:14:53,036",1,1,62,0.0,0.21575342465753422,1.0,0.625,2
+2178,I know!,Joey,anger,negative,220,1,2,1,"00:05:39,505","00:05:42,674",0,1,63,0.0,0.0,1.0,1.0,1
+2252,"Pretty cool, huh?",Joey,joy,positive,229,5,6,16,"00:03:01,139","00:03:03,557",1,1,64,0.0,0.0,1.0,1.0,1
+2257,"Yeah, lifes pretty great isnt it?",Joey,joy,positive,229,10,6,16,"00:03:25,246","00:03:27,748",1,1,64,0.0,0.5753424657534246,1.0,0.0,2
+2263,"No-no-no-no-no,  I'm not fallin' for that again.",Joey,anger,negative,230,4,2,1,"00:10:41,265","00:10:44,434",0,1,65,0.0,0.0,1.0,1.0,1
+2278,"Okay, good, good, good, cause, good, cause I was kinda having second thoughts too.",Joey,fear,negative,231,9,3,21,"00:17:36,555","00:17:40,391",0,1,66,0.0,0.0,1.0,1.0,1
+2280,"Thats horrible! Well, you did the right thing man.",Joey,disgust,negative,231,11,3,21,"00:17:44,646","00:17:47,315",0,1,66,0.6666666666666666,0.0,0.0,1.0,2
+2333,Mmmm. Good.,Joey,joy,positive,236,0,6,19,"00:07:08,845","00:07:10,762",1,1,67,0.0,0.0,1.0,1.0,1
+2337,"I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?",Joey,disgust,negative,237,3,1,15,"00:07:18,187","00:07:24,818",0,1,68,0.0,0.0,1.0,1.0,1
+2372,"Oh anyway, I just wanted to say how wonderful I think you are.",Joey,joy,positive,240,7,7,15,"00:05:10,184","00:05:12,936",1,1,69,0.0,0.0,1.0,1.0,1
+2376,"No. No, Im Joey Tribbiani; we did a scene together yesterday. I-Im the guy in the coma!",Joey,joy,positive,240,9,7,15,"0:05:16,316","0:05:21,208",1,1,69,0.0,0.5753424657534246,1.0,0.0,2
+2382,"Oh uh, one of the writers.",Joey,sadness,negative,240,15,7,15,"0:05:40,256","0:05:41,341",0,0,69,0.0,0.5753424657534246,1.0,0.0,1
+2386,Yeah!,Joey,joy,positive,241,1,7,22,"0:20:56,047","0:20:56,719",1,1,70,0.0,0.0,1.0,1.0,1
+2387,Much!,Joey,joy,positive,241,2,7,22,"0:20:56,719","0:20:58,501",1,1,70,0.0,0.5753424657534246,1.0,0.0,2
+2390,Yeah! Okay!  Hey! Hi!,Joey,joy,positive,241,5,7,22,"0:21:09,954","0:21:18,146",1,1,70,0.0,0.5753424657534246,1.0,0.0,3
+2394,Oh! Maybe its because Im on television. Im an actor on,Joey,joy,positive,241,9,7,22,"00:21:23,073","00:21:31,497",1,1,70,0.0,0.5753424657534246,1.0,0.0,4
+2525,"All right, all right.",Joey,anger,negative,254,6,1,22,"0:21:58,109","0:22:00,173",0,1,71,0.0,0.0,1.0,1.0,1
+2534,"All right, I'm going. I'm going.",Joey,anger,negative,254,15,1,22,"00:22:19,087","00:22:21,339",0,1,71,0.6666666666666666,0.0,0.0,1.0,2
+2552,Ben! Ben! Ben!,Joey,joy,positive,257,4,2,6,"00:11:58,178","00:12:01,594",1,1,72,0.0,0.0,1.0,1.0,1
+2562,"Joe Stalin. Y'know, that's pretty good.",Joey,joy,positive,258,9,1,21,"00:03:39,594","00:03:46,850",1,1,73,0.0,0.0,1.0,1.0,1
+2564,Joseph Stalin. I think you'd remember that!,Joey,joy,positive,258,11,1,21,"0:03:55,985","0:04:00,377",1,1,73,0.0,0.5753424657534246,1.0,0.0,2
+2585,"Hey, Pheebs! Check-check this out.",Joey,joy,positive,260,3,5,11,"00:06:39,315","00:06:41,942",1,1,74,0.0,0.0,1.0,1.0,1
+2591,Yes!,Joey,joy,positive,260,9,5,11,"0:07:21,983","0:07:22,505",1,1,74,0.0,0.5753424657534246,1.0,0.0,2
+2595,Thanks!,Joey,joy,positive,261,2,5,10,"0:06:38,952","0:06:39,258",1,1,75,0.0,0.0,1.0,1.0,1
+2597,Done!,Joey,joy,positive,261,4,5,10,"0:06:45,822","0:06:46,544",1,1,75,0.0,0.5753424657534246,1.0,0.0,2
+2625,Hey! He beat ya.,Joey,joy,positive,263,6,1,21,"00:08:09,906","00:08:12,157",1,1,76,0.0,0.0,1.0,1.0,1
+2629,Aww man! I cant believe I locked myself out again!,Joey,anger,negative,264,0,4,7,"00:13:56,418","00:14:01,005",0,1,77,0.0,0.0,1.0,1.0,1
+2660,"So, does that mean the audition is off?",Joey,sadness,negative,267,3,3,12,"00:15:03,527","00:15:05,653",0,0,78,0.0,0.0,1.0,1.0,1
+2665,"It's ah, step-ity, step and jazz hands.",Joey,sadness,negative,267,8,3,12,"00:15:34,099","00:15:37,310",0,0,78,0.6666666666666666,0.0,0.0,1.0,2
+2722,"Yeah, are you just going down there to gawk at that hot girl with the belly button ring again?",Joey,anger,negative,274,2,3,15,"00:01:33,134","00:01:37,513",0,1,79,0.0,0.0,1.0,1.0,1
+2724,Yeah!,Joey,joy,positive,274,4,3,15,"0:01:38,765","0:01:39,038",1,1,79,0.6666666666666666,0.0,0.0,1.0,1

@@ -1,0 +1,144 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal,Scene_ID,Influence_0,Influence_1,ElapsedTime_0,ElapsedTime_1,Sequence_Length
+54,Youre coming on to the entire room!  Im Chandler.,Chandler,anger,negative,5,0,4,20,"00:14:37,960","00:14:50,179",0,1,1,0.0,0.0,1.0,1.0,1
+76,"Well, that makes me feel so good.",Chandler,joy,positive,8,1,2,5,"00:16:59,810","00:17:02,437",1,1,2,0.0,0.0,1.0,1.0,1
+115,"Well, why dont you tell her to stop being silly!",Chandler,anger,negative,12,4,6,3,"0:12:58,073","0:13:00,407",0,1,3,0.0,0.0,1.0,1.0,1
+123,Thats laughter.,Chandler,joy,positive,12,12,6,3,"0:13:41,911","0:13:42,880",1,1,3,0.8333333333333334,0.0,0.0,1.0,1
+176,Dont look honey. Change the channel! Change the channel!,Chandler,disgust,negative,17,4,3,7,"00:02:14,217","00:02:15,884",0,1,4,0.0,0.0,1.0,1.0,1
+178,What a wank!,Chandler,anger,negative,17,6,3,7,"00:02:40,994","00:02:42,870",0,1,4,0.8333333333333334,0.0,0.0,1.0,2
+227,Hey!,Chandler,joy,positive,22,0,5,5,"0:18:17,554","0:18:18,186",1,1,5,0.0,0.0,1.0,1.0,1
+231,"So, I guess this is over.",Chandler,sadness,negative,22,4,5,5,"00:18:33,821","00:18:35,905",0,0,5,0.0,0.47058823529411764,1.0,0.0,1
+233,"Well, y'know, you and me, it had to end sometime.",Chandler,sadness,negative,22,6,5,5,"00:18:37,382","00:18:41,744",0,0,5,0.6666666666666667,0.0,0.2,1.0,2
+235,"Because of the weekend, we had a fight.",Chandler,sadness,negative,22,8,5,5,"00:18:44,581","00:18:46,833",0,0,5,0.6172839506172839,0.0,0.25925925925925924,1.0,3
+244,Really? Okay. Great!,Chandler,joy,positive,22,17,5,5,"00:19:18,866","00:19:21,826",1,1,5,0.3688524590163935,0.0,0.5573770491803278,1.0,1
+303,"Look, we have enough, just walk away.",Chandler,fear,negative,29,6,9,19,"0:17:20,248","0:17:22,270",0,1,6,0.0,0.0,1.0,1.0,1
+307,"Ok, go quick!",Chandler,fear,negative,29,10,9,19,"00:17:29,883","00:17:32,427",0,1,6,0.8333333333333334,0.0,0.0,1.0,2
+398,"Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!",Chandler,anger,negative,41,1,4,14,"00:17:32,468","00:17:37,221",0,1,7,0.0,0.0,1.0,1.0,1
+434,"Oh, come on! I dont care! Come on! Whose is it?",Chandler,joy,positive,44,2,7,20,"00:21:41,758","00:21:45,052",1,1,8,0.0,0.0,1.0,1.0,1
+476,All right! Lets do it!,Chandler,joy,positive,48,3,4,23,"0:02:10,630","0:02:11,592",1,1,9,0.0,0.0,1.0,1.0,1
+481,Hi!,Chandler,joy,positive,49,1,5,5,"0:00:13,726","0:00:15,194",1,1,10,0.0,0.0,1.0,1.0,1
+489,Hey!,Chandler,joy,positive,49,9,5,5,"0:00:51,134","0:00:51,686",1,1,10,0.0,0.47058823529411764,1.0,0.0,2
+491,Y'know we'd have no interruptions and we could be naked the entire time.,Chandler,joy,positive,49,11,5,5,"00:00:53,000","00:00:56,930",1,1,10,0.0,0.47058823529411764,1.0,0.0,3
+559,"We were playing Gin? Y'know if we were a couple, we could play this game naked.",Chandler,joy,positive,57,1,4,1,"00:22:08,368","00:22:15,249",1,1,11,0.0,0.0,1.0,1.0,1
+564,Hey!,Chandler,joy,positive,58,0,6,16,"0:14:31,328","0:14:31,662",1,1,12,0.0,0.0,1.0,1.0,1
+566,Let me tell you about this chick I scored with last night! Oh no wait a minute that was you!,Chandler,joy,positive,58,2,6,16,"00:14:33,873","00:14:41,379",1,1,12,0.0,0.47058823529411764,1.0,0.0,2
+573,"Because youre still seeing him and uh, hes a good guy.",Chandler,sadness,negative,58,9,6,16,"00:14:55,811","00:14:59,230",0,0,12,0.0,0.47058823529411764,1.0,0.0,1
+574,"I mean, I remember a time when",Chandler,sadness,negative,58,10,6,16,"00:14:59,398","00:15:00,523",0,0,12,0.7051282051282052,0.0,0.15384615384615385,1.0,2
+576,"Yeah! Totally! Totally, and you?",Chandler,joy,positive,58,12,6,16,"0:15:04,320","0:15:06,372",1,1,12,0.6989247311827957,0.0,0.16129032258064516,1.0,1
+580,"Oh yeah! Yeah! Dont worry about me, Ill be fine!",Chandler,sadness,negative,58,16,6,16,"00:15:27,551","00:15:31,137",0,0,12,0.0,0.08403361344537817,1.0,0.8214285714285714,1
+584,"Yeah, but what if it's not? What if there    is a reason why we can't have a baby?",Chandler,fear,negative,60,0,9,21,"00:18:12,091","00:18:16,928",0,1,13,0.0,0.0,1.0,1.0,1
+586,"oh, oh, yeah, ok, thanks.",Chandler,joy,positive,60,2,9,21,"0:18:24,269","0:18:27,031",1,1,13,0.8333333333333334,0.0,0.0,1.0,1
+588,I guess I was just so worried about having to...    come here and do... 'that'...,Chandler,sadness,negative,60,4,9,21,"00:18:29,733","00:18:34,320",0,0,13,0.0,0.33217993079584773,1.0,0.29411764705882354,1
+590,"It was a ""Wendy's!!    """,Chandler,anger,negative,60,6,9,21,"00:18:41,829","00:18:44,122",0,1,13,0.24509803921568624,0.0,0.7058823529411765,1.0,2
+595,"Yeah. Well, I think our second fight is going to be a",Chandler,anger,negative,62,1,4,13,"00:18:40,119","00:18:46,249",0,1,14,0.0,0.0,1.0,1.0,1
+598,"So, you stole my joke, and you stole my money.",Chandler,anger,negative,64,0,6,12,"00:05:41,507","00:05:44,843",0,1,15,0.0,0.0,1.0,1.0,1
+600,"Well, she is going to know that you stole the joke.",Chandler,anger,negative,64,2,6,12,"00:05:53,561","00:05:55,771",0,1,15,0.8333333333333334,0.0,0.0,1.0,2
+602,Yeah!,Chandler,anger,negative,64,4,6,12,"0:05:57,732","0:05:58,400",0,1,15,0.8333333333333334,0.0,0.0,1.0,3
+621,Its Clint. Its Clint!,Chandler,anger,negative,65,6,4,18,"00:17:41,018","00:17:44,228",0,1,16,0.0,0.0,1.0,1.0,1
+624,Its Clint!,Chandler,anger,negative,65,9,4,18,"00:17:47,900","00:17:50,651",0,1,16,0.8333333333333334,0.0,0.0,1.0,2
+650,"Excuse me, look, we've been here for over an hour, and a lot of people less sick than my friend have gone in.",Chandler,anger,negative,69,0,1,4,"00:16:11,762","00:16:16,683",0,1,17,0.0,0.0,1.0,1.0,1
+651,"I mean, that guy with the toe thing?",Chandler,anger,negative,69,1,1,4,"0:16:16,850","0:16:18,322",0,1,17,0.8333333333333334,0.0,0.0,1.0,2
+655,"Y'know, I feel like I've lost her..  Ba-!",Chandler,joy,positive,69,5,1,4,"00:16:35,369","00:16:37,996",1,1,17,0.8333333333333334,0.0,0.0,1.0,1
+791,"Ow, no woo-hooing, no woo-hooing.",Chandler,anger,negative,83,5,3,11,"00:09:46,919","00:09:49,546",0,1,18,0.0,0.0,1.0,1.0,1
+793,"Ah, I fooled around with Joeys sister.  Well, thats not the worst part.",Chandler,sadness,negative,83,7,3,11,"00:09:54,802","00:10:01,600",0,0,18,0.8333333333333334,0.0,0.0,1.0,2
+795,I cant remember which sister.,Chandler,sadness,negative,83,9,3,11,"00:10:01,767","00:10:03,810",0,0,18,0.8333333333333334,0.0,0.0,1.0,3
+797,Whats wrong with you?,Chandler,anger,negative,84,0,1,5,"00:10:04,312","00:10:06,855",0,1,19,0.0,0.0,1.0,1.0,1
+828,You're flingin'-flangin' right I am!,Chandler,joy,positive,88,12,3,4,"0:00:47,548","0:00:47,878",1,1,20,0.0,0.0,1.0,1.0,1
+843,Laundry. Huh. Is that my new nickname?,Chandler,joy,positive,92,3,5,11,"00:12:30,166","00:12:33,293",1,1,21,0.0,0.0,1.0,1.0,1
+847,Oh Im so sorry man! Is there anything I can do?,Chandler,sadness,negative,93,1,6,21,"00:18:49,169","00:18:51,796",0,0,22,0.0,0.0,1.0,1.0,1
+893,"C'mon, we're roommates!  My eyes!! My eyes!!",Chandler,disgust,negative,96,7,1,6,"00:12:30,332","00:12:38,006",0,1,23,0.0,0.0,1.0,1.0,1
+941,"Noo!  Oh, its okay, its okay, baby, baby, baby.",Chandler,fear,negative,99,9,3,21,"00:22:29,306","00:22:33,059",0,1,24,0.0,0.0,1.0,1.0,1
+991,Well its very unsettling.,Chandler,sadness,negative,106,3,3,17,"00:14:41,380","00:14:42,755",0,0,25,0.0,0.0,1.0,1.0,1
+1030,I can't remember the last time I got a girl to take care of my monkey.,Chandler,sadness,negative,110,6,1,19,"00:05:31,706","00:05:35,292",0,0,26,0.0,0.0,1.0,1.0,1
+1032,"Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.",Chandler,disgust,negative,110,8,1,19,"00:05:49,307","00:05:54,353",0,1,26,0.8333333333333334,0.0,0.0,1.0,2
+1036,You kissed my best Ross! ...Or something to that effect.,Chandler,anger,negative,111,3,1,11,"00:19:32,546","00:19:38,551",0,1,27,0.0,0.0,1.0,1.0,1
+1038,Really stupid.,Chandler,anger,negative,111,5,1,11,"0:19:47,811","0:19:48,563",0,1,27,0.8333333333333334,0.0,0.0,1.0,2
+1043,Yeah. No. No...,Chandler,anger,negative,111,10,1,11,"00:20:03,785","00:20:06,495",0,1,27,0.8333333333333334,0.0,0.0,1.0,3
+1079,I'm not a dropper!,Chandler,anger,negative,113,8,5,21,"00:11:54,171","00:11:55,714",0,1,28,0.0,0.0,1.0,1.0,1
+1081,It's throwing and catching!,Chandler,anger,negative,113,10,5,21,"00:12:00,469","00:12:02,470",0,1,28,0.8333333333333334,0.0,0.0,1.0,2
+1096,"Excuse me little one, I have a very solid backhand.",Chandler,anger,negative,115,2,3,10,"00:01:46,606","00:01:49,733",0,1,29,0.0,0.0,1.0,1.0,1
+1125,"Well, it just hurts so bad. I uh",Chandler,sadness,negative,118,4,6,18,"00:14:50,572","00:14:53,453",0,0,30,0.0,0.0,1.0,1.0,1
+1130,"This actor friend and he would kill me if he thought I was doing this umm, but umm would it be possible for him to get an audition for your movie say on Thursday?",Chandler,fear,negative,118,9,6,18,"00:15:13,954","00:15:20,376",0,1,30,0.8333333333333334,0.0,0.0,1.0,2
+1140,Sure!,Chandler,joy,positive,120,0,6,3,"00:03:58,029","00:03:59,071",1,1,31,0.0,0.0,1.0,1.0,1
+1145,"Well, I like that idea.",Chandler,joy,positive,120,5,6,3,"0:04:15,588","0:04:16,798",1,1,31,0.0,0.47058823529411764,1.0,0.0,2
+1146,Obviously!,Chandler,joy,positive,120,6,6,3,"0:04:16,798","0:04:18,956",1,1,31,0.0,0.47058823529411764,1.0,0.0,3
+1150,"Okay so you mean no as in, ""Gee Chandler, what an interesting idea. Lets discuss it before we reject it completely.""",Chandler,joy,positive,120,10,6,3,"00:04:32,146","00:04:41,655",1,1,31,0.0,0.47058823529411764,1.0,0.0,4
+1156,"I dont have anything against the beautiful guest room, especially since everybody we know lives about 30 seconds away!",Chandler,anger,negative,120,16,6,3,"00:05:05,596","00:05:11,518",0,1,31,0.0,0.47058823529411764,1.0,0.0,1
+1189,"Well, I-I guess I gotta go.",Chandler,sadness,negative,124,1,4,15,"00:20:02,743","00:20:04,452",0,0,32,0.0,0.0,1.0,1.0,1
+1193,"Okay, good-bye. Good-bye.",Chandler,sadness,negative,124,5,4,15,"00:20:28,852","00:20:31,062",0,0,32,0.8333333333333334,0.0,0.0,1.0,2
+1195,No!,Chandler,anger,negative,124,7,4,15,"0:20:46,829","0:20:47,251",0,1,32,0.8333333333333334,0.0,0.0,1.0,3
+1200,"I had to have one last kiss, and also-also you said that you were going to leave right after I got on the plane!",Chandler,sadness,negative,124,12,4,15,"00:20:49,456","00:20:56,504",0,0,32,0.8333333333333334,0.0,0.0,1.0,4
+1202,"Well, I then guess Im going to Yemen! Im going to Yemen!  When we get to Yemen, can I stay with you?",Chandler,joy,positive,124,14,4,15,"00:21:01,677","00:21:12,895",1,1,32,0.8333333333333334,0.0,0.0,1.0,1
+1251,Brenda a bee!,Chandler,fear,negative,128,3,8,7,"0:18:12,841","0:18:13,759",0,1,33,0.0,0.0,1.0,1.0,1
+1253,Yes! Its flown into your blouse and youd better undo your buttons lest it sting you!,Chandler,anger,negative,128,5,8,7,"00:18:14,468","00:18:19,639",0,1,33,0.8333333333333334,0.0,0.0,1.0,2
+1332,"Hes not gonna make it, hes stuck in Chicago.",Chandler,sadness,negative,134,1,4,9,"00:06:08,201","00:06:10,285",0,0,34,0.0,0.0,1.0,1.0,1
+1334,"Stupid, useless Canadian money!",Chandler,anger,negative,134,3,4,9,"00:06:15,333","00:06:19,294",0,1,34,0.8333333333333334,0.0,0.0,1.0,2
+1405,A hundred and forty-five pounds.,Chandler,disgust,negative,143,8,7,6,"00:16:47,756","00:16:50,133",0,1,35,0.0,0.0,1.0,1.0,1
+1445,"Yeah, get out!",Chandler,anger,negative,147,3,1,12,"0:22:12,540","0:22:12,681",0,1,36,0.0,0.0,1.0,1.0,1
+1454,Ohhh. Dont go.,Chandler,sadness,negative,149,0,3,5,"00:19:37,467","00:19:39,594",0,0,37,0.0,0.0,1.0,1.0,1
+1456,No. No! No! No!,Chandler,sadness,negative,149,2,3,5,"00:19:42,764","00:19:46,309",0,0,37,0.8333333333333334,0.0,0.0,1.0,2
+1458,I dont care!  I dont care!!,Chandler,anger,negative,150,1,3,8,"00:19:48,687","00:19:53,608",0,1,38,0.0,0.0,1.0,1.0,1
+1460,You cant leave! I have your shoe!,Chandler,sadness,negative,150,3,3,8,"00:20:01,158","00:20:03,743",0,0,38,0.8333333333333334,0.0,0.0,1.0,2
+1483,"Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.",Chandler,fear,negative,153,11,3,4,"00:08:21,000","00:08:26,713",0,1,39,0.0,0.0,1.0,1.0,1
+1515,"Oh uh, as it turns out, we cant do it. Monica has to work.",Chandler,joy,positive,156,1,8,11,"00:10:38,220","00:10:41,264",1,1,40,0.0,0.0,1.0,1.0,1
+1521,Well now-now youre just talking crazy.,Chandler,joy,positive,156,7,8,11,"00:11:10,503","00:11:13,213",1,1,40,0.0,0.47058823529411764,1.0,0.0,2
+1523,Because uhwe-wewe split up. Monica and I split up. Hold me.,Chandler,sadness,negative,156,9,8,11,"00:11:16,592","00:11:24,224",0,0,40,0.0,0.47058823529411764,1.0,0.0,1
+1526,Yknow what would really help me through this tough time is choking something. Can I choke ya?,Chandler,anger,negative,156,12,8,11,"00:11:40,825","00:11:45,370",0,1,40,0.16666666666666663,0.0,0.8,1.0,2
+1529,"Oh no-no-no, Monica would freak.  But to hell with that bitch.",Chandler,anger,negative,156,15,8,11,"00:11:53,421","00:11:58,925",0,1,40,0.5813953488372093,0.0,0.3023255813953488,1.0,3
+1549,And youre upset because you didnt make your best friend cry?,Chandler,sadness,negative,160,0,6,2,"00:14:24,488","00:14:27,949",0,0,41,0.0,0.0,1.0,1.0,1
+1563,"Okay, I gotta ask, who calls us that?!",Chandler,anger,negative,160,13,6,2,"00:14:54,977","00:14:57,312",0,1,41,0.8333333333333334,0.0,0.0,1.0,2
+1601,You are not allowed to laugh at my joke.,Chandler,anger,negative,164,7,6,12,"00:05:28,244","00:05:30,871",0,1,42,0.0,0.0,1.0,1.0,1
+1612,Go and tell Rachel right now before Ross finds out.,Chandler,sadness,negative,166,4,9,1,"00:15:53,118","00:15:55,828",0,0,43,0.0,0.0,1.0,1.0,1
+1775,"When youre done over there, we kinda have a situation over here too.",Chandler,fear,negative,178,6,6,5,"00:05:55,855","00:05:59,399",0,1,44,0.0,0.0,1.0,1.0,1
+1779,Forgive me? You haven't been taking my calls in a week!,Chandler,anger,negative,179,0,5,23,"00:00:52,135","00:00:57,765",0,1,45,0.0,0.0,1.0,1.0,1
+1792,"Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay?",Chandler,anger,negative,180,8,1,20,"00:22:25,469","00:22:32,808",0,1,46,0.0,0.0,1.0,1.0,1
+1793,"I mean,... how needy is that?",Chandler,disgust,negative,180,9,1,20,"00:22:29,389","00:22:32,808",0,1,46,0.8333333333333334,0.0,0.0,1.0,2
+1862,"Ah, no-no-no just Ross. Ross and Joey is embarrassing enough.",Chandler,disgust,negative,186,0,8,8,"00:07:27,530","00:07:30,699",0,1,47,0.0,0.0,1.0,1.0,1
+1892,To Put the Camera Away!!!,Chandler,anger,negative,189,8,4,23,"0:06:58,043","0:07:00,486",0,1,48,0.0,0.0,1.0,1.0,1
+1900,"Eh..., I dont, I dont know.",Chandler,sadness,negative,191,0,3,10,"0:00:02,877","0:00:04,639",0,0,49,0.0,0.0,1.0,1.0,1
+1902,"Well, as old as he is in dog years, do you think Snoopy should still be allowed to fly this thing?",Chandler,sadness,negative,191,2,3,10,"00:00:05,505","00:00:11,677",0,0,49,0.8333333333333334,0.0,0.0,1.0,2
+1910,"Hey honey, you got the kind with the little girl, you said we were gonna to get the kind with the baby.",Chandler,anger,negative,192,0,6,21,"00:07:52,889","00:07:57,142",0,1,50,0.0,0.0,1.0,1.0,1
+1912,"No, the little girl creeps me out.",Chandler,anger,negative,192,2,6,21,"0:07:58,982","0:08:00,703",0,1,50,0.8333333333333334,0.0,0.0,1.0,2
+1914,Why would the baby creep me out?,Chandler,anger,negative,192,4,6,21,"0:08:01,773","0:08:03,307",0,1,50,0.8333333333333334,0.0,0.0,1.0,3
+1934,"Okay look, don't...don't be mad okay?",Chandler,fear,negative,195,0,6,7,"00:20:04,870","00:20:07,163",0,1,51,0.0,0.0,1.0,1.0,1
+1936,"So I moved everything around and then I forgot where it, where it went back and I'm sorry, I'm very sorry, I'm sorry, I'm sorry.",Chandler,sadness,negative,195,2,6,7,"00:20:15,088","00:20:22,595",0,0,51,0.8333333333333334,0.0,0.0,1.0,2
+1944,Oh well you're the best. You come here to me.,Chandler,joy,positive,195,10,6,7,"00:20:51,291","00:20:54,669",1,1,51,0.8333333333333334,0.0,0.0,1.0,1
+1981,"You pick up the pieces, and then you usher in the age of Ross!",Chandler,joy,positive,198,12,1,12,"00:17:41,518","00:17:47,273",1,1,52,0.0,0.0,1.0,1.0,1
+2052,I feel violated. And not in a good way.,Chandler,disgust,negative,205,6,1,20,"00:00:37,620","00:00:41,290",0,1,53,0.0,0.0,1.0,1.0,1
+2058,"Y'know, how did I get this reputation as a dropper? Okay? I'm",Chandler,anger,negative,206,4,5,21,"00:21:43,468","00:21:45,511",0,1,54,0.0,0.0,1.0,1.0,1
+2091,We said seven!,Chandler,anger,negative,210,1,6,21,"0:17:09,611","0:17:11,203",0,1,55,0.0,0.0,1.0,1.0,1
+2096,Oh my good God.,Chandler,disgust,negative,210,6,6,21,"0:17:29,177","0:17:30,779",0,1,55,0.8333333333333334,0.0,0.0,1.0,2
+2116,"No, Im afraid I wont be able to make love as well as him.",Chandler,anger,negative,213,0,4,11,"00:06:38,856","00:06:41,983",0,1,56,0.0,0.0,1.0,1.0,1
+2200,"Im not worried, Im uh, Im fascinated.",Chandler,fear,negative,223,1,7,1,"00:04:23,846","00:04:27,766",0,1,57,0.0,0.0,1.0,1.0,1
+2202,"Which is funny because in high school I uh, I-I failed Biology and tonight Biology failed me.",Chandler,fear,negative,223,3,7,1,"00:04:30,895","00:04:37,484",0,1,57,0.8333333333333334,0.0,0.0,1.0,2
+2276,"I did! But the store wouldnt take her back! So then I took her to the shelter, and you know what I found out?",Chandler,anger,negative,231,7,3,21,"00:17:16,493","00:17:22,123",0,1,58,0.0,0.0,1.0,1.0,1
+2277,"If they cant find a home for her, they kill her! And Im not gonna let that happen to little Yasmine!",Chandler,anger,negative,231,8,3,21,"00:17:28,130","00:17:34,135",0,1,58,0.8333333333333334,0.0,0.0,1.0,2
+2279,Okay. And its not just chicks y'know? Its all kinds of other animals!,Chandler,disgust,negative,231,10,3,21,"00:17:40,559","00:17:44,479",0,1,58,0.8333333333333334,0.0,0.0,1.0,3
+2281,"Thanks, Im glad you see it that way.",Chandler,joy,positive,231,12,3,21,"00:17:47,483","00:17:49,442",1,1,58,0.8333333333333334,0.0,0.0,1.0,1
+2282,"Ohhh-hoo, funny story!",Chandler,joy,positive,231,13,3,21,"00:18:01,622","00:18:03,581",1,1,58,0.0,0.15686274509803924,1.0,0.6666666666666666,2
+2291,Because I'm very happy for him!  And,Chandler,joy,positive,232,8,5,4,"00:06:31,599","00:06:34,434",1,1,59,0.0,0.0,1.0,1.0,1
+2331,"Ohh, thats a good one.",Chandler,joy,positive,234,14,3,22,"00:16:35,703","00:16:37,578",1,1,60,0.0,0.0,1.0,1.0,1
+2339,"Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn?",Chandler,disgust,negative,237,5,1,15,"00:07:32,785","00:07:40,333",0,1,61,0.0,0.0,1.0,1.0,1
+2340,"""You are ideally suited for a career in data processing for a large multinational corporation.""",Chandler,anger,negative,237,6,1,15,"00:07:40,918","00:07:45,714",0,1,61,0.8333333333333334,0.0,0.0,1.0,2
+2342,"Can you believe it? I mean, don't I seem like somebody who should be doing something really",Chandler,anger,negative,237,8,1,15,"00:07:50,970","00:07:56,475",0,1,61,0.8333333333333334,0.0,0.0,1.0,3
+2352,No. This is just part of a dare devil game that I play called wait until the last moment before I burst and die.,Chandler,anger,negative,239,1,3,14,"00:03:55,318","00:04:01,657",0,1,62,0.0,0.0,1.0,1.0,1
+2402,It's been fourteen and a half minutes and you still have not said one word.,Chandler,anger,negative,242,1,1,7,"0:04:00,616","0:04:00,756",0,1,63,0.0,0.0,1.0,1.0,1
+2403,"Oh God, do something.",Chandler,anger,negative,242,2,1,7,"0:04:00,756","0:04:01,892",0,1,63,0.8333333333333334,0.0,0.0,1.0,2
+2404,"Just make contact, smile!",Chandler,anger,negative,242,3,1,7,"0:04:01,892","0:04:04,761",0,1,63,0.8333333333333334,0.0,0.0,1.0,3
+2405,There you go!,Chandler,joy,positive,242,4,1,7,"00:04:08,331","00:04:09,831",1,1,63,0.8333333333333334,0.0,0.0,1.0,1
+2419,"Im never gonna find a roommate, ever.",Chandler,sadness,negative,244,4,3,6,"00:02:41,119","00:02:43,829",0,0,64,0.0,0.0,1.0,1.0,1
+2421,"Well lets see, there was the guy with the ferrets, thats plural.",Chandler,disgust,negative,244,6,3,6,"00:02:45,248","00:02:53,881",0,1,64,0.8333333333333334,0.0,0.0,1.0,2
+2422,The spitter.,Chandler,disgust,negative,244,7,3,6,"0:02:50,545","0:02:53,590",0,1,64,0.8333333333333334,0.0,0.0,1.0,3
+2423,"Oh-ho, and yes, the guy that enjoyed my name so much he felt the need to make a little noise every time he said it.",Chandler,anger,negative,244,8,3,6,"0:02:53,590","0:02:56,831",0,1,64,0.8333333333333334,0.0,0.0,1.0,4
+2486,"Oh my God! If you say that one more time,",Chandler,anger,negative,252,0,4,1,"00:11:43,536","00:11:47,664",0,1,65,0.0,0.0,1.0,1.0,1
+2516,"Oh well, thats uh, a little later than I uh, generally care to stay, but sure!",Chandler,joy,positive,253,10,4,10,"00:06:09,452","00:06:13,622",1,1,66,0.0,0.0,1.0,1.0,1
+2530,"Okay, hating this.",Chandler,disgust,negative,254,11,1,22,"00:22:04,698","00:22:07,992",0,1,67,0.0,0.0,1.0,1.0,1
+2537,WHAT IS IT?!,Chandler,anger,negative,255,0,1,8,"00:02:52,000","00:02:53,672",0,1,68,0.0,0.0,1.0,1.0,1
+2565,"Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof.",Chandler,joy,positive,258,12,1,21,"0:04:00,377","0:04:05,757",1,1,69,0.0,0.0,1.0,1.0,1
+2581,Is not.,Chandler,anger,negative,259,15,6,12,"0:17:33,657","0:17:34,806",0,1,70,0.0,0.0,1.0,1.0,1
+2623,"She's not gonna make you wear one of those big plastic cones, is she?",Chandler,fear,negative,263,4,1,21,"00:07:55,975","00:07:59,603",0,1,71,0.0,0.0,1.0,1.0,1
+2630,Hang on buddy!,Chandler,anger,negative,264,1,4,7,"00:14:01,465","00:14:03,299",0,1,72,0.0,0.0,1.0,1.0,1
+2679,"Oh, DAMN IT!",Chandler,anger,negative,268,10,9,22,"00:03:29,292","00:03:31,335",0,1,73,0.0,0.0,1.0,1.0,1
+2706,I'm trppd... in an ATM vstbl... wth,Chandler,fear,negative,271,3,1,7,"00:05:09,225","00:05:15,188",0,1,74,0.0,0.0,1.0,1.0,1
+2723,Yeah! You wanna come?,Chandler,joy,positive,274,3,3,15,"0:01:37,680","0:01:38,765",1,1,75,0.0,0.0,1.0,1.0,1
+2732,Someone on the subway licked my neck! Licked my neck!!,Chandler,disgust,negative,278,0,7,5,"0:00:07,382","0:00:11,014",0,1,76,0.0,0.0,1.0,1.0,1
+2740,"I dont know what it is, I just cant take a good picture.",Chandler,sadness,negative,278,8,7,5,"00:00:35,368","00:00:38,078",0,0,76,0.8333333333333334,0.0,0.0,1.0,2

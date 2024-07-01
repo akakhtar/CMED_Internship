@@ -1,0 +1,623 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal,Scene_ID,Influence_0,Influence_1,ElapsedTime_0,ElapsedTime_1,Sequence_Length
+139,I love your place! Where is this guy from?,Mona,joy,positive,13,0,8,8,"00:10:36,844","00:10:40,930",1,1,1,0.0,0.0,1.0,1.0,1
+152,"Uh, well... Joey and I broke up.",Charlie,sadness,negative,15,3,9,23,"00:42:26,126","00:42:29,754",0,0,2,0.0,0.0,1.0,1.0,1
+154,"Joey is a great guy, but we're just... so different! I mean, during your speech he kept laughing at homo erectus!",Charlie,sadness,negative,15,5,9,23,"00:42:36,053","00:42:44,561",0,0,2,0.3645833333333333,0.0,0.0,1.0,2
+156,"Anyway I just, uh, I think it's for the best.",Charlie,sadness,negative,15,7,9,23,"00:42:46,313","00:42:50,108",0,0,2,0.3645833333333333,0.0,0.0,1.0,3
+158,I guess.,Charlie,sadness,negative,15,9,9,23,"0:42:52,950","0:42:55,208",0,0,2,0.3645833333333333,0.0,0.0,1.0,4
+164,Or we could throw you both in,Professore Clerk,joy,positive,15,15,9,23,"0:43:24,905","0:43:27,073",1,1,2,0.3645833333333333,0.0,0.0,1.0,1
+186,Pizza delivery!,Caitlin,joy,positive,17,7,5,19,"0:06:47,281","0:06:49,793",1,1,3,0.0,0.0,1.0,1.0,1
+188,Hi!,Caitlin,joy,positive,17,9,5,19,"0:06:53,538","0:06:54,665",1,1,3,0.0,0.8838095238095238,1.0,0.0,2
+256,": I know, we did it!! Hey, that was incredible, huh?!",Mr. Treeger,joy,positive,25,0,4,4,"00:20:36,693","00:20:40,321",1,1,4,0.0,0.0,1.0,1.0,1
+258,": Thank you, listen, thanks a lot Tribbiani, . Oh my God, look at the time, I gotta catch the bus to the ball.",Mr. Treeger,joy,positive,25,2,4,4,"00:20:44,284","00:20:51,916",1,1,4,0.0,0.8838095238095238,1.0,0.0,2
+290,I think youve got concussion.,Emily,fear,negative,28,4,4,15,"00:19:30,085","00:19:34,839",0,1,5,0.0,0.0,1.0,1.0,1
+292,Youre welcome.  Im sorry. Did I hurt you?,Emily,fear,negative,28,6,4,15,"00:19:38,802","00:19:46,142",0,1,5,0.0,0.8838095238095238,1.0,0.0,2
+312,"So Ross, what your problem?",Paul,anger,negative,30,4,6,21,"00:04:33,189","00:04:37,901",0,1,6,0.0,0.0,1.0,1.0,1
+314,Why cant you get a girlfriend your own age?,Paul,anger,negative,30,6,6,21,"00:04:41,281","00:04:43,282",0,1,6,0.0,0.8838095238095238,1.0,0.0,2
+322,Okay. Ill give you one chance to change my mind.  You got one minute.,Paul,anger,negative,30,14,6,21,"00:05:03,594","00:05:09,057",0,1,6,0.0,0.8838095238095238,1.0,0.0,3
+407,Happy?! Is that what Im supposed to be Vic? Happy?,Kate,anger,negative,39,0,3,19,"00:11:00,868","00:11:03,912",0,1,7,0.0,0.0,1.0,1.0,1
+414,"Tasty! Im really starting to feel like you guys have a history, its-its nice.",The Director,joy,positive,39,7,3,19,"00:11:23,057","00:11:30,021",1,1,7,0.0,0.8838095238095238,1.0,0.0,2
+417,"Well, I dont understand why Adriennes attracted to Victor.",Kate,disgust,negative,39,10,3,19,"00:11:32,692","00:11:37,112",0,1,7,0.0,0.8838095238095238,1.0,0.0,3
+424,It doesnt say that in the script.,Kate,anger,negative,39,17,3,19,"0:12:00,177","0:12:02,529",0,1,7,0.0,0.8838095238095238,1.0,0.0,4
+441,"Gotta go. I miss you too, I love you, but it's getting real late now",Mr. Tribbiani,sadness,negative,41,0,1,13,"00:04:41,281","00:04:49,162",0,0,8,0.0,0.0,1.0,1.0,1
+533,Dont touch him!,Wayne,anger,negative,50,1,6,21,"0:14:15,604","0:14:18,816",0,1,9,0.0,0.0,1.0,1.0,1
+573,Hi!,Richard,joy,positive,53,0,6,24,"00:20:42,741","00:20:45,159",1,1,10,0.0,0.0,1.0,1.0,1
+579,"Well, it was great seeing you the other night.",Richard,joy,positive,53,6,6,24,"00:20:58,674","00:21:01,384",1,1,10,0.0,0.8838095238095238,1.0,0.0,2
+581,No! I came here to tell you something else.  I came here  to tell you I still love you.,Richard,joy,positive,53,8,6,24,"00:21:06,932","00:21:15,481",1,1,10,0.0,0.8838095238095238,1.0,0.0,3
+585,"Joey, I am scared to death about this.",Dina,fear,negative,54,3,8,10,"00:19:40,971","00:19:43,764",0,1,11,0.0,0.0,1.0,1.0,1
+586,"But I really think I can do it, Im just gonna need some help.",Dina,fear,negative,54,4,8,10,"00:19:43,932","00:19:46,642",0,1,11,0.0,0.8838095238095238,1.0,0.0,2
+588,"You bet I am!  And to answer your earlier question, were straight-up gangster rap.",Bobby,joy,positive,54,6,8,10,"00:19:50,939","00:19:55,943",1,1,11,0.0,0.8838095238095238,1.0,0.0,3
+589,"Look, Rachels told me how much easier youve made all this on her. Why cant you do that for me?",Dina,anger,negative,54,7,8,10,"00:19:59,698","00:20:07,445",0,1,11,0.0,0.8838095238095238,1.0,0.0,4
+591,And youre my big brother!,Dina,joy,positive,54,9,8,10,"00:20:09,750","00:20:11,250",1,1,11,0.0,0.8838095238095238,1.0,0.0,5
+594,I was scared of telling you.,Dina,fear,negative,54,12,8,10,"0:20:17,174","0:20:20,476",0,1,11,0.0,0.8838095238095238,1.0,0.0,6
+596,"Joey, I cant stand the thought of having this baby with you mad at me.",Dina,sadness,negative,54,14,8,10,"00:20:24,306","00:20:28,809",0,0,11,0.0,0.8838095238095238,1.0,0.0,1
+597,I want him to have his uncle.,Dina,sadness,negative,54,15,8,10,"00:20:28,977","00:20:31,938",0,0,11,0.23200757575757575,0.0,0.36363636363636365,1.0,2
+598,Is my baby gonna have his Uncle Joey?,Dina,sadness,negative,54,16,8,10,"00:20:32,105","00:20:34,523",0,0,11,0.2673611111111111,0.0,0.26666666666666666,1.0,3
+600,"Were gonna be all right. I mean, even if were not married this baby is gonna be so loved. Not just by us.",Dina,joy,positive,54,18,8,10,"00:20:41,281","00:20:56,712",1,1,11,0.22786458333333331,0.0,0.375,1.0,1
+602,And by you.,Bobby,joy,positive,54,20,8,10,"0:20:52,460","0:20:56,763",1,1,11,0.0,0.3977142857142857,1.0,0.55,2
+606,I had a really nice time tonight.,Danny,joy,positive,55,0,5,10,"00:10:50,608","00:10:53,443",1,1,12,0.0,0.0,1.0,1.0,1
+614,You are so bad!,Krista,joy,positive,55,8,5,10,"0:11:32,441","0:11:34,331",1,1,12,0.0,0.8838095238095238,1.0,0.0,2
+615,You are!,Danny,joy,positive,55,9,5,10,"0:11:34,443","0:11:35,194",1,1,12,0.0,0.8838095238095238,1.0,0.0,3
+616,You are!,Krista,joy,positive,55,10,5,10,"0:11:35,194","0:11:35,754",1,1,12,0.0,0.8838095238095238,1.0,0.0,4
+617,You are!,Danny,joy,positive,55,11,5,10,"0:11:35,861","0:11:36,373",1,1,12,0.0,0.8838095238095238,1.0,0.0,5
+618,You are!,Krista,joy,positive,55,12,5,10,"0:11:36,373","0:11:37,005",1,1,12,0.0,0.8838095238095238,1.0,0.0,6
+619,You are!,Danny,joy,positive,55,13,5,10,"0:11:37,005","0:11:37,527",1,1,12,0.0,0.8838095238095238,1.0,0.0,7
+620,You are!,Krista,joy,positive,55,14,5,10,"0:11:37,527","0:11:38,371",1,1,12,0.0,0.8838095238095238,1.0,0.0,8
+621,You are so dead! I'm gonna get you.,Danny,joy,positive,55,15,5,10,"00:11:38,406","00:11:39,989",1,1,12,0.0,0.8838095238095238,1.0,0.0,9
+645,Great job team!,Doug,joy,positive,59,1,3,24,"0:21:04,429","0:21:05,361",1,1,13,0.0,0.0,1.0,1.0,1
+647,Phil!,Doug,joy,positive,59,3,3,24,"0:21:07,349","0:21:07,901",1,1,13,0.0,0.8838095238095238,1.0,0.0,2
+648,Nice job.,Doug,joy,positive,59,4,3,24,"0:21:07,901","0:21:08,653",1,1,13,0.0,0.8838095238095238,1.0,0.0,3
+649,Stevens!,Doug,joy,positive,59,5,3,24,"0:21:08,653","0:21:09,780",1,1,13,0.0,0.8838095238095238,1.0,0.0,4
+650,Way to go!,Doug,joy,positive,59,6,3,24,"0:21:09,780","0:21:10,558",1,1,13,0.0,0.8838095238095238,1.0,0.0,5
+651,"Joel-burg, you maniac!",Doug,joy,positive,59,7,3,24,"00:21:10,644","00:21:12,853",1,1,13,0.0,0.8838095238095238,1.0,0.0,6
+652,I love ya!,Doug,joy,positive,59,8,3,24,"00:21:13,105","00:21:14,689",1,1,13,0.0,0.8838095238095238,1.0,0.0,7
+653,Bing!,Doug,joy,positive,59,9,3,24,"00:21:17,109","00:21:20,695",1,1,13,0.0,0.8838095238095238,1.0,0.0,8
+657,"Of course, you did.",Doug,joy,positive,61,1,3,24,"0:21:26,493","0:21:27,295",1,1,14,0.0,0.0,1.0,1.0,1
+658,Forgot something else too ya bastard!,Doug,joy,positive,61,2,3,24,"0:21:27,295","0:21:28,713",1,1,14,0.0,0.8838095238095238,1.0,0.0,2
+662,"Everybody else got one, and you want one too. Dont you?",Doug,joy,positive,61,6,3,24,"00:21:41,675","00:21:44,885",1,1,14,0.0,0.8838095238095238,1.0,0.0,3
+664,"Now get on out of here, you!",Doug,joy,positive,61,8,3,24,"00:21:49,850","00:21:51,976",1,1,14,0.0,0.8838095238095238,1.0,0.0,4
+666,Hey! Hows my pal Toby doing today?,Bob,joy,positive,62,1,8,5,"00:07:23,484","00:07:26,736",1,1,15,0.0,0.0,1.0,1.0,1
+668,Toby!,Bob,joy,positive,62,3,8,5,"00:07:29,532","00:07:32,033",1,1,15,0.0,0.8838095238095238,1.0,0.0,2
+744,"...Dammit, hire the girl!  Okay, everybody ready?",Director,anger,negative,68,0,1,6,"00:13:34,730","00:13:39,317",0,1,16,0.0,0.0,1.0,1.0,1
+755,"Wow! Thats ah, thats pretty nice!",Tony,joy,positive,70,0,4,2,"00:10:11,611","00:10:14,404",1,1,17,0.0,0.0,1.0,1.0,1
+760,You gotta take the canoe!,Tony,anger,negative,70,5,4,2,"00:10:35,885","00:10:37,260",0,1,17,0.0,0.8838095238095238,1.0,0.0,2
+762,Were not throwing it away! I built that canoe!,Peter,anger,negative,70,7,4,2,"00:10:46,520","00:10:49,564",0,1,17,0.0,0.8838095238095238,1.0,0.0,3
+862,Who in the hell are you?,Charlton Heston,anger,negative,83,2,4,14,"00:15:52,576","00:15:54,577",0,1,18,0.0,0.0,1.0,1.0,1
+937,Wait-wait-wait-wait-wait-wait-wait-wait!!,Joanna,fear,negative,94,5,4,9,"00:11:54,964","00:11:58,299",0,1,19,0.0,0.0,1.0,1.0,1
+938,If youre gonna get all sensitive about it!,Joanna,anger,negative,94,6,4,9,"00:11:58,467","00:12:01,386",0,1,19,0.0,0.8838095238095238,1.0,0.0,2
+939,I dont want to lose you.,Joanna,sadness,negative,94,7,4,9,"00:12:01,554","00:12:02,929",0,0,19,0.0,0.8838095238095238,1.0,0.0,1
+943,"You can have your own office, and a raise! Effective tomorrow.",Joanna,joy,positive,94,11,4,9,"00:12:13,524","00:12:16,526",1,1,19,0.07291666666666664,0.0,0.8,1.0,1
+945,Done!,Joanna,joy,positive,94,13,4,9,"0:12:18,779","0:12:19,983",1,1,19,0.0,0.6238655462184873,1.0,0.29411764705882354,2
+947,"Sophie, get in here!",Joanna,joy,positive,94,15,4,9,"0:12:21,491","0:12:23,063",1,1,19,0.0,0.7512380952380953,1.0,0.15,3
+1011,"Umm, this is great wine.",Kristen,joy,positive,103,0,8,4,"00:09:13,386","00:09:16,805",1,1,20,0.0,0.0,1.0,1.0,1
+1017,I love hiking!,Kristen,joy,positive,103,6,8,4,"0:09:52,634","0:09:52,774",1,1,20,0.0,0.8838095238095238,1.0,0.0,2
+1029,"Uh-oh, I feel another one coming.",Janice,fear,negative,106,5,8,23,"00:21:41,455","00:21:43,707",0,1,21,0.0,0.0,1.0,1.0,1
+1125,Nobody sees the king!,Jester,anger,negative,115,4,3,7,"00:21:40,882","00:21:42,842",0,1,22,0.0,0.0,1.0,1.0,1
+1131,"Well, I kinda wanted to sell the cookies. The girl who sells the most wins a trip to Spacecamp, and gets to sit in a",Sarah,sadness,negative,116,2,3,10,"00:04:42,282","00:04:49,788",0,0,23,0.0,0.0,1.0,1.0,1
+1136,"No. The one in Atlantic City, Dad loves the slots. He says hes gonna double the college money my Grandma left me.",Sarah,sadness,negative,116,7,3,10,"00:05:08,516","00:05:17,232",0,0,23,0.3645833333333333,0.0,0.0,1.0,2
+1192,"Well, if that were true, Id dating my Aunt Ruth.",Pete,joy,positive,122,8,3,18,"00:07:15,643","00:07:18,228",1,1,24,0.0,0.0,1.0,1.0,1
+1193,And the two times we went out were just plain awkward.,Pete,disgust,negative,122,9,3,18,"00:07:20,064","00:07:26,111",0,1,24,0.0,0.8838095238095238,1.0,0.0,2
+1224,"I left a bra drying on the shower rod, you dont think your son will think its yours and be horribly traumatised?",Emily,joy,positive,125,0,4,18,"00:02:30,400","00:02:35,445",1,1,25,0.0,0.0,1.0,1.0,1
+1233,"Mornings here! Sunshine is here! The sky is clear, the mornings here! The mornings here!",The Singing Man,joy,positive,126,0,4,19,"00:00:06,756","00:00:22,271",1,1,26,0.0,0.0,1.0,1.0,1
+1235,Oh come on! Mornings here!  Mornings here! The morning is here! Sunshine is here!,The Singing Man,joy,positive,126,2,4,19,"00:00:29,029","00:00:36,160",1,1,26,0.0,0.8838095238095238,1.0,0.0,2
+1267,Become a drama critic!,Kate,joy,positive,129,0,3,22,"00:10:00,933","00:10:03,226",1,1,27,0.0,0.0,1.0,1.0,1
+1268,I am hurt!  A plague on both your houses!,The Director,sadness,negative,129,1,3,22,"00:10:08,149","00:10:17,198",0,0,27,0.0,0.8838095238095238,1.0,0.0,1
+1269,"By the way, he dumped me tonight after he read my review.",Kate,sadness,negative,129,2,3,22,"00:10:19,076","00:10:22,746",0,0,27,0.15350877192982454,0.0,0.5789473684210527,1.0,2
+1271,"Yep! I sure know how to pick em, huh? Y'know I gave up a part on a soap for this!",Kate,sadness,negative,129,4,3,22,"00:10:25,291","00:10:32,589",0,0,27,0.27708333333333335,0.0,0.24,1.0,3
+1377,"Hi, Julie!",All,joy,positive,142,1,2,5,"00:03:14,360","00:03:16,820",1,1,28,0.0,0.0,1.0,1.0,1
+1458,Absolutely.  I love the way you kiss.,Eric,joy,positive,149,3,8,7,"00:14:13,978","00:14:16,020",1,1,29,0.0,0.0,1.0,1.0,1
+1459,Oh my God! Oh my God! Im so sorry!,Mona,fear,negative,150,0,8,8,"00:10:59,659","00:11:01,785",0,1,30,0.0,0.0,1.0,1.0,1
+1461,You think you can knock up my daughter and then not marry her?! Im gonna kill you!!,Dr. Green,anger,negative,150,2,8,8,"00:11:14,382","00:11:20,553",0,1,30,0.0,0.8838095238095238,1.0,0.0,2
+1482,"I know, I know, I'm such an idiot.",Paul,joy,positive,152,1,1,1,"00:10:24,498","00:10:28,793",1,1,31,0.0,0.0,1.0,1.0,1
+1505,Youre disturbing my oboe practice.,Mr. Heckles,anger,negative,153,10,3,6,"00:10:00,558","00:10:02,934",0,1,32,0.0,0.0,1.0,1.0,1
+1507,I could play the oboe!,Mr. Heckles,anger,negative,153,12,3,6,"0:10:04,523","0:10:06,491",0,1,32,0.0,0.8838095238095238,1.0,0.0,2
+1509,"Okay, okay look, I know I'm being Mr. Inappropriate today, but it's just so tough, I mean see you walking around and I just wanna touch you and hold you, come on no one's around, just, just kiss me.",Mark,joy,positive,154,1,3,12,"00:14:03,759","00:14:14,018",1,1,33,0.0,0.0,1.0,1.0,1
+1519,Hey its Mona! From the wedding.,Mona,joy,positive,155,2,8,5,"00:20:40,572","00:20:43,074",1,1,34,0.0,0.0,1.0,1.0,1
+1521,Hi!,Mona,joy,positive,155,4,8,5,"0:20:44,953","0:20:45,907",1,1,34,0.0,0.8838095238095238,1.0,0.0,2
+1556,Chandler is fantastic!!,Joanna,joy,positive,159,0,3,20,"00:09:36,284","00:09:38,660",1,1,35,0.0,0.0,1.0,1.0,1
+1559,Yknow how people just click?,Joanna,joy,positive,159,2,3,20,"0:09:41,122","0:09:41,903",1,1,35,0.0,0.8838095238095238,1.0,0.0,2
+1560,"Like he came by to pick me up, and I opened the door, and it was just like, click!",Joanna,joy,positive,159,3,3,20,"00:09:41,998","00:09:46,293",1,1,35,0.0,0.8838095238095238,1.0,0.0,3
+1563,"Oh, and hes got such a good heart! Doesnt he have a good heart?",Joanna,joy,positive,159,5,3,20,"00:09:48,170","00:09:50,922",1,1,35,0.0,0.8838095238095238,1.0,0.0,4
+1565,"Oh, I know and hes soo sweet! Listen, he said he was going to call, so put him straight through.",Joanna,joy,positive,159,7,3,20,"00:09:51,090","00:09:55,010",1,1,35,0.0,0.8838095238095238,1.0,0.0,5
+1566,Isnt this great?!,Sophie,joy,positive,159,8,3,20,"0:09:55,177","0:09:56,512",1,1,35,0.0,0.8838095238095238,1.0,0.0,6
+1584,"Yeah, me too.",Mark,sadness,negative,160,16,3,14,"00:06:13,456","00:06:15,207",0,0,36,0.0,0.0,1.0,1.0,1
+1635,"Cause every time I see your face, I cant help but fall from grace. I know.....",Singer,joy,positive,167,0,3,14,"00:00:10,135","00:00:18,100",1,1,37,0.0,0.0,1.0,1.0,1
+1694,It's brilliant!,David,joy,positive,172,3,9,23,"0:06:20,762","0:06:21,796",1,1,38,0.0,0.0,1.0,1.0,1
+1695,"Goodbye Mike, we'll see you at the wedding, fella!",David,joy,positive,172,4,9,23,"00:06:21,881","00:06:25,008",1,1,38,0.0,0.8838095238095238,1.0,0.0,2
+1712,Morning!,Hitchhiker,joy,positive,173,10,6,1,"00:11:42,410","00:11:43,702",1,1,39,0.0,0.0,1.0,1.0,1
+1713,Everything was delicious!,1st Customer,joy,positive,174,0,9,19,"0:05:55,731","0:05:57,443",1,1,40,0.0,0.0,1.0,1.0,1
+1715,It was. The duck in particular was superb.,2nd Customer,joy,positive,174,2,9,19,"00:05:57,900","00:06:00,444",1,1,40,0.0,0.8838095238095238,1.0,0.0,2
+1719,The musician right outside the restaurant...it's kind    of a mood-killer!,3rd Customer,sadness,negative,174,6,9,19,"00:06:16,168","00:06:19,463",0,0,40,0.0,0.8838095238095238,1.0,0.0,1
+1745,"So, whats this about?",Tag,joy,positive,177,0,8,2,"00:15:57,122","00:15:58,790",1,1,41,0.0,0.0,1.0,1.0,1
+1749,Whats going on Rach?,Tag,joy,positive,177,4,8,2,"00:16:25,359","00:16:27,235",1,1,41,0.0,0.8838095238095238,1.0,0.0,2
+1751,"Yknow, Im actually glad Phoebe called.",Tag,joy,positive,177,6,8,2,"00:16:37,663","00:16:40,331",1,1,41,0.0,0.8838095238095238,1.0,0.0,3
+1752,"I know we broke up because you thought I wasnt mature enough, but Ive really grown up and think we should get back together.",Tag,joy,positive,177,7,8,2,"00:16:45,838","00:16:52,468",1,1,41,0.0,0.8838095238095238,1.0,0.0,4
+1754,It is the right time.,Tag,joy,positive,177,9,8,2,"0:16:55,014","0:16:56,266",1,1,41,0.0,0.8838095238095238,1.0,0.0,5
+1795,Look how nervous he gets! We havent slept together in years!,Janice,joy,positive,180,14,8,24,"00:03:21,564","00:03:25,234",1,1,42,0.0,0.0,1.0,1.0,1
+1824,"Ahh, look at you, you look great.",Duncan,joy,positive,183,5,2,4,"00:09:59,098","00:10:01,308",1,1,43,0.0,0.0,1.0,1.0,1
+1831,You always said I'd make it.,Duncan,joy,positive,183,12,2,4,"00:10:23,080","00:10:24,789",1,1,43,0.0,0.8838095238095238,1.0,0.0,2
+1839,"Hi Joey it's Jane Rogers, can't wait    for your party tonight.",Jane,joy,positive,184,0,9,20,"00:05:46,751","00:05:49,462",1,1,44,0.0,0.0,1.0,1.0,1
+1848,"""Hi Joey, it's Jane Rogers can't wait for your party tonight""",Message,joy,positive,184,9,9,20,"00:06:11,943","00:06:15,488",1,1,44,0.0,0.8838095238095238,1.0,0.0,2
+1875,I really like waking up with you.,Gary,joy,positive,186,0,5,21,"00:19:59,698","00:20:01,282",1,1,45,0.0,0.0,1.0,1.0,1
+1877,That would be great!,Gary,joy,positive,186,2,5,21,"00:20:09,166","00:20:10,917",1,1,45,0.0,0.8838095238095238,1.0,0.0,2
+1883,Hi!,Bonnie,joy,positive,187,2,3,24,"00:08:27,423","00:08:28,507",1,1,46,0.0,0.0,1.0,1.0,1
+1890,Thanks! You too.,Bonnie,joy,positive,187,9,3,24,"00:08:48,945","00:08:50,153",1,1,46,0.0,0.8838095238095238,1.0,0.0,2
+1927,He has the most amazing Porsche under there!,Woman,joy,positive,191,3,6,5,"00:21:29,788","00:21:32,373",1,1,47,0.0,0.0,1.0,1.0,1
+1940,"Wow, thats great.",Leslie,joy,positive,193,1,3,14,"00:13:53,707","00:13:54,999",1,1,48,0.0,0.0,1.0,1.0,1
+2015,Oh good.,Elizabeth,joy,positive,201,2,6,19,"00:10:08,941","00:10:10,650",1,1,49,0.0,0.0,1.0,1.0,1
+2021,You are so adorable.,Elizabeth,joy,positive,201,8,6,19,"00:10:51,150","00:10:53,985",1,1,49,0.0,0.8838095238095238,1.0,0.0,2
+2073,"Ow, ow, ow, ow, leg cramp, leg cramp, leg cramp.",Carol,anger,negative,206,4,1,23,"00:08:22,335","00:08:25,212",0,1,50,0.0,0.0,1.0,1.0,1
+2078,"All right, that's it. I want both of you out.",Carol,anger,negative,206,9,1,23,"00:08:31,511","00:08:33,803",0,1,50,0.0,0.8838095238095238,1.0,0.0,2
+2080,He started it!,Susan,anger,negative,206,11,1,23,"0:08:33,971","0:08:34,973",0,1,50,0.0,0.8838095238095238,1.0,0.0,3
+2083,"I don't care. I am trying to get a person out of my body here, and you're not making it any easier.",Carol,anger,negative,206,13,1,23,"00:08:35,598","00:08:42,687",0,1,50,0.0,0.8838095238095238,1.0,0.0,4
+2085,Now go!,Carol,anger,negative,206,14,1,23,"00:08:39,227","00:08:42,687",0,1,50,0.0,0.8838095238095238,1.0,0.0,5
+2087,See what you did.,Susan,anger,negative,206,16,1,23,"0:08:45,983","0:08:46,669",0,1,50,0.0,0.8838095238095238,1.0,0.0,6
+2089,Out,Carol,anger,negative,206,18,1,23,"0:08:47,694","0:08:49,225",0,1,50,0.0,0.8838095238095238,1.0,0.0,7
+2101,"Eh, he said, thank you very much, he thinks you look very pretty tonight, your hair, golden like the sun.",Mischa,joy,positive,207,11,3,15,"00:15:22,838","00:15:28,343",1,1,51,0.0,0.0,1.0,1.0,1
+2110,so we finally get to the top of the mountain and airhead here  forgets the camera!,Danny,disgust,negative,208,0,5,10,"00:15:09,575","00:15:15,496",0,1,52,0.0,0.0,1.0,1.0,1
+2115,"Oh, this is so good  you have got to try it.",Krista,joy,positive,208,5,5,10,"00:15:34,725","00:15:38,019",1,1,52,0.0,0.8838095238095238,1.0,0.0,2
+2116,"Oh, damn! I got it on my pants.",Danny,anger,negative,208,6,5,10,"0:15:49,031","0:15:51,242",0,1,52,0.0,0.8838095238095238,1.0,0.0,3
+2119,Yep.  I'm gonna wear these on our date tonight.,Danny,joy,positive,208,9,5,10,"0:16:03,754","0:16:05,506",1,1,52,0.0,0.8838095238095238,1.0,0.0,4
+2128,I found the picture!,Richard,anger,negative,210,0,7,23,"00:18:11,006","00:18:12,799",0,1,53,0.0,0.0,1.0,1.0,1
+2130,The picture of my wife! In your pack!,Richard,anger,negative,210,2,7,23,"00:18:16,553","00:18:19,597",0,1,53,0.0,0.8838095238095238,1.0,0.0,2
+2132,Why do have a picture of Paulette in your pack?!,Richard,anger,negative,210,4,7,23,"00:18:24,311","00:18:27,814",0,1,53,0.0,0.8838095238095238,1.0,0.0,3
+2134,Cut! Wonderful!,The Director,joy,positive,210,6,7,23,"00:18:37,741","00:18:40,451",1,1,53,0.0,0.8838095238095238,1.0,0.0,4
+2136,"Oh youre awesome! And, in that last speech? You soaked me.",Richard,joy,positive,210,8,7,23,"00:18:44,957","00:18:48,584",1,1,53,0.0,0.8838095238095238,1.0,0.0,5
+2140,"So Chandler, your parents mustve been thrilled when you told them you were engaged.",Mrs. Geller,joy,positive,211,0,7,2,"00:09:26,023","00:09:29,734",1,1,54,0.0,0.0,1.0,1.0,1
+2142,I remember when we first got engaged.,Mr. Geller,joy,positive,211,2,7,2,"00:09:33,239","00:09:35,490",1,1,54,0.0,0.8838095238095238,1.0,0.0,2
+2145,"Well, Id gotten Judy pregnant. I still dont know how that happened.",Mr. Geller,joy,positive,211,5,7,2,"00:09:38,077","00:09:43,999",1,1,54,0.0,0.8838095238095238,1.0,0.0,3
+2146,You dont know how that happened?! Your dog thought my diaphragm was a chew toy!,Mrs. Geller,disgust,negative,211,6,7,2,"00:09:44,166","00:09:48,503",0,1,54,0.0,0.8838095238095238,1.0,0.0,4
+2152,"You tell her Jack, I cant do it.",Mrs. Geller,fear,negative,211,12,7,2,"0:10:13,154","0:10:14,981",0,1,54,0.0,0.8838095238095238,1.0,0.0,5
+2230,They-they-they can smell fear.,Joshua,fear,negative,221,5,4,18,"00:12:04,682","00:12:06,015",0,1,55,0.0,0.0,1.0,1.0,1
+2231,Bing! Ho! And the Bing-ette!,Doug,joy,positive,222,0,8,11,"00:03:38,593","00:03:41,970",1,1,56,0.0,0.0,1.0,1.0,1
+2234,"Hi. So good news, the divorce is final. I signed the papers this A.M.",Doug,joy,positive,222,3,8,11,"00:03:44,974","00:03:49,394",1,1,56,0.0,0.8838095238095238,1.0,0.0,2
+2236,"Sorry? Finally chewed my leg out of that bear trap. Hey, congratulations to you guys though!",Doug,joy,positive,222,5,8,11,"00:03:52,190","00:04:01,365",1,1,56,0.0,0.8838095238095238,1.0,0.0,3
+2239,"So the divorce, the marriage, weve got a lot to celebrate.",Doug,joy,positive,222,8,8,11,"00:04:04,452","00:04:08,622",1,1,56,0.0,0.8838095238095238,1.0,0.0,4
+2242,"Tomorrow night it is then, I should be out of court by six.",Doug,joy,positive,222,11,8,11,"00:04:17,548","00:04:25,847",1,1,56,0.0,0.8838095238095238,1.0,0.0,5
+2243,They keep throwing these sexual harassment cases at me and I keep knocking them out of the park!,Doug,joy,positive,222,12,8,11,"00:04:20,551","00:04:25,847",1,1,56,0.0,0.8838095238095238,1.0,0.0,6
+2271,Yeah that would be great! Let me make sure Im not doing anything Tuesday.,Jake,joy,positive,224,5,7,22,"00:05:48,556","00:06:05,739",1,1,57,0.0,0.0,1.0,1.0,1
+2272,Ugh.  Ross!,Carol,disgust,negative,225,0,3,17,"00:21:58,608","00:22:00,735",0,1,58,0.0,0.0,1.0,1.0,1
+2274,"Ahh, nooo!!",Carol,joy,positive,225,2,3,17,"00:22:02,000","00:22:03,446",1,1,58,0.0,0.8838095238095238,1.0,0.0,2
+2278,"Youre a genius, Ross.",Carol,joy,positive,225,6,3,17,"00:22:11,705","00:22:12,830",1,1,58,0.0,0.8838095238095238,1.0,0.0,3
+2287,"Oh wow, you look great! Glad you could make it.",Danny,joy,positive,226,1,5,7,"00:18:33,403","00:18:35,530",1,1,59,0.0,0.0,1.0,1.0,1
+2295,You two could really hit it off! I'm gonna go mingle.,Danny,joy,positive,226,9,5,7,"00:19:08,147","00:19:12,859",1,1,59,0.0,0.8838095238095238,1.0,0.0,2
+2304,"I'm gonna go talk to uh, a friend.",Tom,sadness,negative,226,17,5,7,"00:19:41,805","00:19:44,473",0,0,59,0.0,0.8838095238095238,1.0,0.0,1
+2364,"Yes! Yes! Please, just give it to me!",The Woman,joy,positive,234,1,7,9,"00:11:30,648","00:11:33,900",1,1,60,0.0,0.0,1.0,1.0,1
+2399,Good choice.,The Vendor,anger,negative,236,13,4,23,"0:10:04,478","0:10:05,104",0,1,61,0.0,0.0,1.0,1.0,1
+2410,"The Empty Vase is not about you. My baby, you make me so sad that you would think this.",Julio,sadness,negative,237,8,3,12,"00:16:44,795","00:16:53,094",0,0,62,0.0,0.0,1.0,1.0,1
+2430,...and live forever as a machine!,Janine,joy,positive,239,2,6,7,"00:21:21,780","00:21:24,198",1,1,63,0.0,0.0,1.0,1.0,1
+2433,"Yeah, I gotta go.",Janine,fear,negative,239,5,6,7,"00:21:37,546","00:21:39,297",0,1,63,0.0,0.8838095238095238,1.0,0.0,2
+2481,"Oh good, youre here. Yeah, and I was worried that it was going to be uncomfortable.",Mona,sadness,negative,246,1,8,8,"00:17:21,582","00:17:26,377",0,0,64,0.0,0.0,1.0,1.0,1
+2547,You're making a big mistake here.,Dr. Baldhara,disgust,negative,252,18,1,21,"00:15:19,752","00:15:22,879",0,1,65,0.0,0.0,1.0,1.0,1
+2555,I don't allow porn at home so    this is like a vacation for him.,Janice,joy,positive,253,5,9,21,"00:17:46,398","00:17:50,777",1,1,66,0.0,0.0,1.0,1.0,1
+2559,"That's not the hard part honey! The hard part is what comes    next, I mean aren't you worried about the results?",Janice,fear,negative,253,9,9,21,"00:17:59,620","00:18:04,165",0,1,66,0.0,0.8838095238095238,1.0,0.0,2
+2577,I wasn't thinking. I was too busy fallin'...,Young Ethan,joy,positive,255,5,1,22,"00:12:56,442","00:12:59,527",1,1,67,0.0,0.0,1.0,1.0,1
+2579,...in love with you.,Young Ethan,joy,positive,255,7,1,22,"0:13:00,747","0:13:01,829",1,1,67,0.0,0.8838095238095238,1.0,0.0,2
+2581,Sorry.,Young Ethan,sadness,negative,255,9,1,22,"00:13:04,950","00:13:06,951",0,0,67,0.0,0.8838095238095238,1.0,0.0,1
+2619,"Well, it was quite large. I-I-I-I-I had to throw most of it away.",Dr. Leedbetter,fear,negative,259,0,5,9,"00:13:22,676","00:13:26,095",0,1,68,0.0,0.0,1.0,1.0,1
+2638,"Ohh, so cute.",Phoebe Sr.,joy,positive,261,3,4,1,"00:19:12,276","00:19:14,318",1,1,69,0.0,0.0,1.0,1.0,1
+2640,I know. Im mad at me too.,Phoebe Sr.,anger,negative,261,5,4,1,"00:19:20,242","00:19:24,579",0,1,69,0.0,0.8838095238095238,1.0,0.0,2
+2648,"All right. Well, there you go.  Stop it, stop it, stop it.",Janice,anger,negative,262,4,1,5,"0:15:42,448","0:15:42,793",0,1,70,0.0,0.0,1.0,1.0,1
+2681,Oh. Oh I just cannot believe Clark stood me up!,Janice,anger,negative,265,0,7,7,"00:11:43,703","00:11:47,372",0,1,71,0.0,0.0,1.0,1.0,1
+2683,"Oh, what are you, stupid? Its been three hours.",Janice,anger,negative,265,2,7,7,"00:11:49,291","00:11:55,338",0,1,71,0.0,0.8838095238095238,1.0,0.0,2
+2685,"I should just go on to happier things, okay? Umm, why dont you tell about your lovely wedding?",Janice,sadness,negative,265,4,7,7,"00:11:56,298","00:12:02,679",0,0,71,0.0,0.8838095238095238,1.0,0.0,1
+2697,"Ohh, Joey has the nicest friends!",Katie,joy,positive,271,1,5,15,"00:15:06,322","00:15:08,656",1,1,72,0.0,0.0,1.0,1.0,1
+2699,You're so sweet!,Katie,joy,positive,271,3,5,15,"0:15:13,871","0:15:14,343",1,1,72,0.0,0.8838095238095238,1.0,0.0,2
+2705,"You'd better do something, or I'm gonna walk out that door right now! Well? Are you gonna?",Katie,anger,negative,271,9,5,15,"00:15:36,769","00:15:43,483",0,1,72,0.0,0.8838095238095238,1.0,0.0,3
+2710,No!,Hitchhiker,anger,negative,272,3,6,1,"00:14:43,132","00:14:45,592",0,1,73,0.0,0.0,1.0,1.0,1
+2891,"Its just that I uh, have been working for ten years now at this meaningless, dead-end job and nobody here even knows I exist!",Earl,sadness,negative,289,4,7,13,"00:09:50,006","00:09:55,218",0,0,74,0.0,0.0,1.0,1.0,1
+2893,I-Im sorry?,Earl,sadness,negative,290,0,6,7,"00:10:02,476","00:10:04,603",0,0,75,0.0,0.0,1.0,1.0,1
+2895,Oh yeah?,Earl,sadness,negative,291,1,6,1,"00:10:10,693","00:10:14,154",0,0,76,0.0,0.0,1.0,1.0,1
+2897,Ive been talking to you for five minutes now about killing myself and no ones even looked up from their desk.,Earl,sadness,negative,292,1,7,13,"00:10:14,905","00:10:22,579",0,0,77,0.0,0.0,1.0,1.0,1
+2900,"Uh, Im gonna kill myself!",Earl,sadness,negative,292,4,7,13,"00:10:24,749","00:10:26,875",0,0,77,0.3645833333333333,0.0,0.0,1.0,2
+2921,Why are you yelling?,Paul,joy,positive,294,0,6,22,"0:12:39,216","0:12:40,259",1,1,78,0.0,0.0,1.0,1.0,1
+2992,"Oh, boy, do they suck.",Lydia,anger,negative,300,3,1,23,"0:03:44,474","0:03:46,566",0,1,79,0.0,0.0,1.0,1.0,1
+2994,"Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.",Lydia,disgust,negative,300,5,1,23,"00:03:50,480","00:03:56,443",0,1,79,0.0,0.8838095238095238,1.0,0.0,2
+2998,"Oh, shut up. You know, it's a rebuilding year. You... waah!",Lydia,anger,negative,300,9,1,23,"00:04:08,081","00:04:11,875",0,1,79,0.0,0.8838095238095238,1.0,0.0,3
+3005,"Sweetheart, just gimme- gimme another chance, okay, we'll start all over again. We'll go back to Aruba.",Barry,fear,negative,301,0,1,20,"00:19:25,164","00:19:32,128",0,1,80,0.0,0.0,1.0,1.0,1
+3006,"Dr. Farber, we've got a bit of an emergency here...Jason Costalano is choking on his retainer.",Bernice,fear,negative,301,1,1,20,"00:19:35,465","00:19:41,220",0,1,80,0.0,0.8838095238095238,1.0,0.0,2
+3007,Oh God...,Barry,fear,negative,301,2,1,20,"00:19:41,388","00:19:43,141",0,1,80,0.0,0.8838095238095238,1.0,0.0,3
+3009,"Look, please, please don't go anywhere, okay?",Barry,fear,negative,301,4,1,20,"00:19:44,433","00:19:46,726",0,1,80,0.0,0.8838095238095238,1.0,0.0,4
+3016,Yeah... I'm pretty sure I'm still gonna marry him.,Mindy,joy,positive,301,11,1,20,"00:20:03,744","00:20:07,622",1,1,80,0.0,0.8838095238095238,1.0,0.0,5
+3020,I hope you can find some way to be happy for me. And I hope you'll still be my maid of honor...?,Mindy,fear,negative,301,15,1,20,"00:20:36,360","00:20:42,365",0,1,80,0.0,0.8838095238095238,1.0,0.0,6
+3059,"Great. Ill ah, see ya then.",Chloe,joy,positive,305,13,3,15,"00:03:26,164","00:03:28,457",1,1,81,0.0,0.0,1.0,1.0,1
+3064,"Oh God, Ross I am so sorry.",Carol,joy,positive,306,3,3,17,"00:13:01,238","00:13:03,782",1,1,82,0.0,0.0,1.0,1.0,1
+3068,"Oh, great! Me too.",Carol,joy,positive,306,6,3,17,"00:13:13,751","00:13:14,751",1,1,82,0.0,0.8838095238095238,1.0,0.0,2
+3161,Yay!!,All,joy,positive,315,6,4,9,"00:02:04,124","00:02:05,290",1,1,83,0.0,0.0,1.0,1.0,1
+3172,"Hey! Hey! Hey! This is 92.3, WXRK, K-Rock for our $1,000 daily challenge.",Voice,joy,positive,316,6,4,8,"00:00:27,277","00:00:34,283",1,1,84,0.0,0.0,1.0,1.0,1
+3202,"And I feel like Ive conquered the business world, and I feel like Ive conquered the intellectual world, and now I-I have the most beautiful woman in the world.",Pete,anger,negative,319,6,3,23,"00:17:59,661","00:18:10,630",0,1,85,0.0,0.0,1.0,1.0,1
+3204,Theres one thing missing.,Pete,sadness,negative,319,8,3,23,"00:18:14,676","00:18:16,385",0,0,85,0.0,0.8838095238095238,1.0,0.0,1
+3210,"I want to become the Ultimate Fighting Champion! Its the most intense physical competition in the world, its banned in 49 states!",Pete,joy,positive,319,14,3,23,"00:18:39,034","00:18:45,957",1,1,85,0.13671875,0.0,0.625,1.0,1
+3215,"Monica, I want you there in the front row when I win.",Pete,joy,positive,319,19,3,23,"00:19:02,307","00:19:05,810",1,1,85,0.0,0.46031746031746024,1.0,0.4791666666666667,2
+3216,I want you close enough to smell the blood.,Pete,joy,positive,319,20,3,23,"00:19:05,978","00:19:08,479",1,1,85,0.0,0.8318207282913165,1.0,0.058823529411764705,3
+3240,Welcome back!,Eric,joy,positive,321,1,8,7,"0:16:34,301","0:16:36,092",1,1,86,0.0,0.0,1.0,1.0,1
+3246,Our sex.,Eric,joy,positive,321,7,8,7,"0:16:46,339","0:16:47,400",1,1,86,0.0,0.8838095238095238,1.0,0.0,2
+3250,Oh no! Oh no! Oh no! Oh no! No! No! No!,Eric,disgust,negative,321,11,8,7,"0:16:59,226","0:17:00,332",0,1,86,0.0,0.8838095238095238,1.0,0.0,3
+3281,"All right, Im leaving!",Jill,anger,negative,328,0,6,14,"00:21:20,279","00:21:22,989",0,1,87,0.0,0.0,1.0,1.0,1
+3282,Because Im not going to spend one more day with someone whose out to sabotage my every move.,Jill,anger,negative,328,1,6,14,"00:21:20,279","00:21:25,658",0,1,87,0.0,0.8838095238095238,1.0,0.0,2
+3283,Thats you Rachel!,Jill,anger,negative,328,2,6,14,"00:21:25,867","00:21:27,076",0,1,87,0.0,0.8838095238095238,1.0,0.0,3
+3285,"And you! I throw myself at you and you say no, how gay are you?",Jill,anger,negative,328,4,6,14,"00:21:29,955","00:21:34,458",0,1,87,0.0,0.8838095238095238,1.0,0.0,4
+3287,"Okay, see ya!",Jill,joy,positive,328,6,6,14,"0:21:42,217","0:21:42,968",1,1,87,0.0,0.8838095238095238,1.0,0.0,5
+3304,"Oh great!  Wow! Yeah, its comfortable.",Joshua,joy,positive,330,2,4,14,"0:04:31,855","0:04:31,993",1,1,88,0.0,0.0,1.0,1.0,1
+3317,Get out!,Gunther,joy,positive,331,9,5,2,"00:08:18,664","00:08:19,706",1,1,89,0.0,0.0,1.0,1.0,1
+3323,That is so sweet!,Mona,joy,positive,332,5,8,1,"0:21:51,898","0:21:53,282",1,1,90,0.0,0.0,1.0,1.0,1
+3325,"No, I mean it. There are so few genuinely nice guys out there.",Mona,anger,negative,332,7,8,1,"00:21:53,395","00:21:57,732",0,1,90,0.0,0.8838095238095238,1.0,0.0,2
+3355,I must say it's nice to see you back on your feet.,Dr. Ledbetter,joy,positive,335,1,5,14,"00:21:35,836","00:21:37,962",1,1,91,0.0,0.0,1.0,1.0,1
+3492,So we never got to hear about your wedding!,Man,joy,positive,348,2,8,18,"00:08:56,273","00:09:00,152",1,1,92,0.0,0.0,1.0,1.0,1
+3516,So? Come on! Explain yourself Geller! First you get my Rachel pregnant!,Dr. Green,anger,negative,351,0,8,8,"00:11:31,982","00:11:38,863",0,1,93,0.0,0.0,1.0,1.0,1
+3519,You did!,Dr. Green,anger,negative,351,3,8,8,"0:11:39,797","0:11:40,204",0,1,93,0.0,0.8838095238095238,1.0,0.0,2
+3521,Oh? Really? Thats what my daughter means to you? Nothing?,Dr. Green,anger,negative,351,5,8,8,"00:11:46,706","00:11:50,583",0,1,93,0.0,0.8838095238095238,1.0,0.0,3
+3525,Oh really? Thats how treat a friend? You get her in trouble and then refuse to marry her?,Dr. Green,anger,negative,351,9,8,8,"00:12:02,221","00:12:04,389",0,1,93,0.0,0.8838095238095238,1.0,0.0,4
+3527,Wh,Mona,joy,positive,351,11,8,8,"0:12:06,480","0:12:06,732",1,1,93,0.0,0.8838095238095238,1.0,0.0,5
+3529,Well why not? So you can spend your time with this tramp?!,Dr. Green,anger,negative,351,13,8,8,"0:12:10,563","0:12:13,405",0,1,93,0.0,0.8838095238095238,1.0,0.0,6
+3614,It was dreadful. I felt terrible about how I acted when you said those wonderful things.,Emily,sadness,negative,359,3,4,17,"00:14:38,711","00:14:44,632",0,0,94,0.0,0.0,1.0,1.0,1
+3616,"Ross umm, theres something that Ive got to tell you, theres-theres someone else.",Emily,joy,positive,359,5,4,17,"00:14:51,307","00:14:59,063",1,1,94,0.3645833333333333,0.0,0.0,1.0,1
+3658,No no no! Federal regulations!,Flight Attendant,anger,negative,365,6,1,24,"00:12:14,692","00:12:16,651",0,1,95,0.0,0.0,1.0,1.0,1
+3666,There's no Rachel!,Man,anger,negative,365,14,1,24,"00:12:45,264","00:12:46,765",0,1,95,0.0,0.8838095238095238,1.0,0.0,2
+3674,"Ow. Um, it's just my lens. It's just my lens. I'll be right back.",Janice,sadness,negative,366,6,1,5,"00:19:34,840","00:19:39,135",0,0,96,0.0,0.0,1.0,1.0,1
+3724,"Aaaah, what's wrong, c'mon.",Roger,joy,positive,372,2,1,13,"00:19:09,731","00:19:12,150",1,1,97,0.0,0.0,1.0,1.0,1
+3756,Were here to celebrate our love together.,Woman,anger,negative,374,12,8,3,"0:15:55,245","0:15:57,177",0,1,98,0.0,0.0,1.0,1.0,1
+3757,We dont have to get free stuff.,Woman,anger,negative,374,13,8,3,"0:15:57,177","0:15:59,641",0,1,98,0.0,0.8838095238095238,1.0,0.0,2
+3758,We just want to be together.,Woman,joy,positive,374,14,8,3,"00:15:59,792","00:16:02,043",1,1,98,0.0,0.8838095238095238,1.0,0.0,3
+3760,Yes!,Mr. Zelner,joy,positive,375,0,5,17,"00:17:52,696","00:17:53,863",1,1,99,0.0,0.0,1.0,1.0,1
+3782,"Yep. Yep, thats what I didnt want to know.",Mark,sadness,negative,379,2,3,19,"00:15:02,026","00:15:04,569",0,0,100,0.0,0.0,1.0,1.0,1
+3792,Right here!,Mark,anger,negative,380,1,6,10,"00:15:28,594","00:15:29,594",0,1,101,0.0,0.0,1.0,1.0,1
+3853,Hey!,All,joy,positive,389,2,4,2,"0:11:59,151","0:12:00,299",1,1,102,0.0,0.0,1.0,1.0,1
+3886,"Good luck, babe.",Emily,joy,positive,393,4,4,15,"00:12:41,969","00:12:43,845",1,1,103,0.0,0.0,1.0,1.0,1
+3887,Ross! Ross! Come on! Get in here!  Ross! Come on!,Liam,joy,positive,393,5,4,15,"00:12:44,013","00:12:46,389",1,1,103,0.0,0.8838095238095238,1.0,0.0,2
+3888,"Ross, come on! Get in the bloody scrum! Ross, get in!",Liam,anger,negative,393,6,4,15,"00:12:44,013","00:12:50,351",0,1,103,0.0,0.8838095238095238,1.0,0.0,3
+3982,"Hey, no way, I'm in the shot man.",PBS Volunteer,anger,negative,407,6,5,4,"00:14:16,355","00:14:18,648",0,1,104,0.0,0.0,1.0,1.0,1
+4004,"I'm just sayin', if I see one more picture of Ed Begley, Jr. in that",Carl,disgust,negative,410,0,1,24,"00:18:46,917","00:18:52,547",0,1,105,0.0,0.0,1.0,1.0,1
+4038,Oh no.,Phoebe and Rachel,disgust,negative,412,10,4,2,"00:04:42,448","00:04:44,199",0,1,106,0.0,0.0,1.0,1.0,1
+4090,Cant you figure that out based on my date of birth?,Cliff,anger,negative,418,10,8,23,"0:18:05,239","0:18:07,742",0,1,107,0.0,0.0,1.0,1.0,1
+4098,Well uh if you must know Im a widower.,Cliff,sadness,negative,418,18,8,23,"00:18:32,015","00:18:35,269",0,0,107,0.0,0.8838095238095238,1.0,0.0,1
+4193,"Hi, Joey. Well well, look what you brought. Very nice.",Lorraine,joy,positive,429,4,1,14,"00:03:33,713","00:03:41,511",1,1,108,0.0,0.0,1.0,1.0,1
+4210,Pheebs! Hey Pheebs!,All,joy,positive,431,0,5,2,"00:14:17,189","00:14:18,898",1,1,109,0.0,0.0,1.0,1.0,1
+4256,Congratulations you two!,an,joy,positive,435,6,8,18,"0:05:29,567","0:05:31,789",1,1,110,0.0,0.0,1.0,1.0,1
+4258,"And also, congratulations on your wedding.",an,joy,positive,435,8,8,18,"00:05:34,155","00:05:36,574",1,1,110,0.0,0.8838095238095238,1.0,0.0,2
+4280,"Yeah, but I didnt get to see it.",Richards Date,sadness,negative,438,10,3,13,"00:19:09,648","00:19:11,065",0,0,111,0.0,0.0,1.0,1.0,1
+4304,Eww!,Rachel and Phoebe,disgust,negative,440,11,1,14,"0:13:35,981","0:13:37,458",0,1,112,0.0,0.0,1.0,1.0,1
+4308,I am so sorry I spilled wine all over your shirt.,Mona,sadness,negative,441,1,8,17,"00:11:10,086","00:11:13,505",0,0,113,0.0,0.0,1.0,1.0,1
+4310,"No, its still wet.",Mona,joy,positive,441,3,8,17,"0:11:15,345","0:11:16,682",1,1,113,0.3645833333333333,0.0,0.0,1.0,1
+4315,"Oh umm, I-I dont know if I want to wear a womans shirt.",Mona's Date,sadness,negative,441,7,8,17,"00:11:26,977","00:11:28,853",0,0,113,0.0,0.2761904761904762,1.0,0.6875,1
+4348,What is it sweetie?,Dr. Green,joy,positive,445,8,8,8,"00:08:33,846","00:08:37,724",1,1,114,0.0,0.0,1.0,1.0,1
+4354,Stay calm?!!,Dr. Green,anger,negative,445,13,8,8,"0:08:46,331","0:08:46,537",0,1,114,0.0,0.8838095238095238,1.0,0.0,2
+4355,How do you expect me to stay calm?!,Dr. Green,anger,negative,445,14,8,8,"00:08:46,651","00:08:48,777",0,1,114,0.0,0.8838095238095238,1.0,0.0,3
+4356,This is unacceptable Rachel!,Dr. Green,anger,negative,445,15,8,8,"0:08:48,945","0:08:50,697",0,1,114,0.0,0.8838095238095238,1.0,0.0,4
+4357,And I wanna know why?!!,Dr. Green,anger,negative,445,16,8,8,"0:08:50,697","0:08:52,914",0,1,114,0.0,0.8838095238095238,1.0,0.0,5
+4358,Is it because that punk Ross wont marry you?!,Dr. Green,anger,negative,445,17,8,8,"00:08:53,074","00:08:55,450",0,1,114,0.0,0.8838095238095238,1.0,0.0,6
+4359,Thats it!,Dr. Green,anger,negative,445,18,8,8,"0:08:55,618","0:08:56,286",0,1,114,0.0,0.8838095238095238,1.0,0.0,7
+4360,Is that it?,Dr. Green,anger,negative,445,19,8,8,"0:08:56,286","0:08:58,975",0,1,114,0.0,0.8838095238095238,1.0,0.0,8
+4406,"Yeah, you still have feelings for me.",Mona,sadness,negative,449,7,8,17,"0:21:03,929","0:21:06,071",0,0,115,0.0,0.0,1.0,1.0,1
+4407,"And-and to be honest, I-I still have feelings for you.",Mona,joy,positive,449,8,8,17,"00:21:06,181","00:21:10,268",1,1,115,0.3645833333333333,0.0,0.0,1.0,1
+4408,"And I wish that we can work it out Ross, but we cant.",Mona,sadness,negative,449,9,8,17,"00:21:10,435","00:21:12,895",0,0,115,0.0,0.3787755102040817,1.0,0.5714285714285714,1
+4409,"Its too complicated with you and Rachel and the baby, I-I just It just wasnt meant to be.",Mona,sadness,negative,449,10,8,17,"00:21:13,063","00:21:20,444",0,0,115,0.20833333333333331,0.0,0.42857142857142855,1.0,2
+4411,"Ross, wewe have to be strong. Okay, I-Im gonna go.  Can I? To remember you?",Mona,sadness,negative,449,12,8,17,"00:21:31,623","00:21:39,797",0,0,115,0.10208333333333333,0.0,0.72,1.0,3
+4462,"I know, I probably shouldn't even tell you this, but I'm pretty much totally intimidated by you.",Julie,fear,negative,455,5,2,2,"00:20:08,790","00:20:17,632",0,1,116,0.0,0.0,1.0,1.0,1
+4466,"Ross is so crazy about you, and I really wanted you to like me, and, it's probably me being totally paranoid, but I kinda got the feeling that maybe you don't.",Julie,anger,negative,455,8,2,2,"00:20:23,347","00:20:31,604",0,1,116,0.0,0.8838095238095238,1.0,0.0,2
+4468,Oy.,Julie,joy,positive,455,10,2,2,"00:20:47,996","00:20:50,414",1,1,116,0.0,0.8838095238095238,1.0,0.0,3
+4494,"We can, we can go to Aruba!",Barry,joy,positive,457,6,1,20,"00:07:05,508","00:07:07,134",1,1,117,0.0,0.0,1.0,1.0,1
+4495,"When I went there on what would have been our honeymoon, it was, uh... it was really nice.",Barry,sadness,negative,457,7,1,20,"00:07:07,969","00:07:14,266",0,0,117,0.0,0.8838095238095238,1.0,0.0,1
+4496,You would've liked it.,Barry,sadness,negative,457,8,1,20,"00:07:11,264","00:07:14,266",0,0,117,0.12152777777777779,0.0,0.6666666666666666,1.0,2
+4501,"I'm twelve, I'm not stupid.",Bobby,fear,negative,457,13,1,20,"0:07:42,211","0:07:44,949",0,1,117,0.05912162162162162,0.0,0.8378378378378378,1.0,1
+4592,Hey! Hey! No rough holding in my ER!,Receptionist,anger,negative,466,13,1,4,"00:21:09,017","00:21:10,977",0,1,118,0.0,0.0,1.0,1.0,1
+4604,Try. Theres my little girl.,Mrs. Green,joy,positive,468,6,8,20,"00:04:57,910","00:05:02,457",1,1,119,0.0,0.0,1.0,1.0,1
+4609,"Julies cervix is dilated a seven centimeters, thats about four fingers. The doctor let me feel it myself.",Marc,joy,positive,469,1,8,23,"00:06:14,445","00:06:24,205",1,1,120,0.0,0.0,1.0,1.0,1
+4716,"Yeah, he-he-he calls me up and asks me if he can edit my new movie.",Dana,anger,negative,479,4,6,18,"00:08:17,330","00:08:21,625",0,1,121,0.0,0.0,1.0,1.0,1
+4720,"No, no ""How you doing?"" Man, I mean not even a cup of coffee first!",Dana,disgust,negative,479,8,6,18,"00:08:34,680","00:08:40,393",0,1,121,0.0,0.8838095238095238,1.0,0.0,2
+4722,Yeah!,Dana,disgust,negative,479,10,6,18,"0:08:41,743","0:08:42,439",0,1,121,0.0,0.8838095238095238,1.0,0.0,3
+4725,"Good! Good, long time no see.",Tag,joy,positive,480,1,8,2,"0:21:21,113","0:21:23,504",1,1,122,0.0,0.0,1.0,1.0,1
+4752,We found your fire alarm in the trash chute.,The Fireman,anger,negative,482,2,7,12,"0:18:20,850","0:18:22,910",0,1,123,0.0,0.0,1.0,1.0,1
+4756,"The next time you want to dump a fire alarm in a trash chute, dont wrap it in a blanket that says, ""Property of Phoebe Buffay not Monica.""",The Fireman,disgust,negative,482,6,7,12,"00:18:29,483","00:18:32,401",0,1,123,0.0,0.8838095238095238,1.0,0.0,2
+4905,Oh yeah! We went to the Knicks game.,Tag,joy,positive,501,2,7,5,"00:11:37,530","00:11:39,197",1,1,124,0.0,0.0,1.0,1.0,1
+4907,Then we went to this bar and he hooked us up with all these women!,Tag,joy,positive,501,4,7,5,"00:11:41,283","00:11:44,828",1,1,124,0.0,0.8838095238095238,1.0,0.0,2
+5020,COME ON!!!!,Raymond,anger,negative,508,20,5,18,"00:17:35,846","00:17:36,846",0,1,125,0.0,0.0,1.0,1.0,1
+5021,Y'know what? We need to move on.,The Casting Director,anger,negative,508,21,5,18,"00:17:39,725","00:17:42,018",0,1,125,0.0,0.8838095238095238,1.0,0.0,2
+5043,That's funny. Who are they?,Kristin,joy,positive,510,1,1,14,"00:11:36,153","00:11:56,256",1,1,126,0.0,0.0,1.0,1.0,1
+5074,Fine.,Tag,anger,negative,513,4,7,12,"00:13:24,178","00:13:26,054",0,1,127,0.0,0.0,1.0,1.0,1
+5110,Happy?! Is that what Im supposed to be Vic? Happy?,Kate,anger,negative,518,0,3,19,"00:19:15,821","00:19:19,866",0,1,128,0.0,0.0,1.0,1.0,1
+5117,"You guys make me fly! High! Okay, were gonna pick it up here, tomorrow.",The Director,joy,positive,518,7,3,19,"00:19:47,477","00:19:58,946",1,1,128,0.0,0.8838095238095238,1.0,0.0,2
+5190,Shut up!,Monica and Phoebe,anger,negative,525,4,1,4,"00:16:49,133","00:16:50,633",0,1,129,0.0,0.0,1.0,1.0,1
+5208,Come on!,Isabella,joy,positive,526,12,3,5,"0:20:52,877","0:20:53,349",1,1,130,0.0,0.0,1.0,1.0,1
+5212,Its laminated!,Isabella,anger,negative,526,16,3,5,"00:21:00,342","00:21:02,301",0,1,130,0.0,0.8838095238095238,1.0,0.0,2
+5259,"And Im very sorry, but I dont know where your Father is, and thats the truth.",Phoebe Sr,sadness,negative,530,16,3,25,"00:19:49,605","00:19:55,735",0,0,131,0.0,0.0,1.0,1.0,1
+5266,"Y'know I wanted to tell you yesterday, but I just, I kinda felt all floopy, and...",Phoebe Sr,sadness,negative,530,23,3,25,"00:20:22,512","00:20:27,642",0,0,131,0.3645833333333333,0.0,0.0,1.0,2
+5301,Thats kinda sad.,Tag,sadness,negative,533,2,7,9,"00:16:23,148","00:16:26,401",0,0,132,0.0,0.0,1.0,1.0,1
+5303,Got it!,Tag,joy,positive,533,4,7,9,"0:16:34,410","0:16:34,962",1,1,132,0.3645833333333333,0.0,0.0,1.0,1
+5314,You are steel!,Hoshi,joy,positive,535,1,3,24,"0:07:01,337","0:07:03,186",1,1,133,0.0,0.0,1.0,1.0,1
+5315,"Let me ask you something, how come when I call your computer support line, I have to wait an hour and a half?",Hoshi,anger,negative,535,2,3,24,"00:07:03,840","00:07:09,678",0,1,133,0.0,0.8838095238095238,1.0,0.0,2
+5365,Yeah! And maybe someday we could get a place with two bathrooms.,Carol,joy,positive,541,1,6,15,"00:13:54,625","00:13:58,336",1,1,134,0.0,0.0,1.0,1.0,1
+5374,Yay!,Ben,joy,positive,541,9,6,15,"0:14:21,485","0:14:22,237",1,1,134,0.0,0.8838095238095238,1.0,0.0,2
+5385,I love that idea!,Carol,joy,positive,541,19,6,15,"0:15:08,658","0:15:10,008",1,1,134,0.0,0.8838095238095238,1.0,0.0,3
+5436,People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!,Teacher,anger,negative,546,9,1,21,"00:05:42,967","00:05:49,598",0,1,135,0.0,0.0,1.0,1.0,1
+5467,Sorry.,Receptionist,sadness,negative,549,7,6,17,"00:07:35,955","00:07:38,248",0,0,136,0.0,0.0,1.0,1.0,1
+5469,"We already got the results back on that on, and theyre not good.",Receptionist,joy,positive,549,9,6,17,"00:07:47,592","00:07:51,386",1,1,136,0.3645833333333333,0.0,0.0,1.0,1
+5507,"Really, ythink so? I dont..",Director,anger,negative,553,20,6,10,"00:09:36,284","00:09:38,410",0,1,137,0.0,0.0,1.0,1.0,1
+5521,Ross! Wait!,Elizabeth,sadness,negative,555,0,6,24,"00:18:58,512","00:19:00,096",0,0,138,0.0,0.0,1.0,1.0,1
+5523,You suck!!,Elizabeth,anger,negative,555,2,6,24,"00:19:03,892","00:19:05,935",0,1,138,0.3645833333333333,0.0,0.0,1.0,1
+5537,Oh uhI actually came here to ask you out.,Katie,fear,negative,557,4,8,21,"00:10:26,668","00:10:31,340",0,1,139,0.0,0.0,1.0,1.0,1
+5539,Sure!,Katie,joy,positive,557,6,8,21,"00:10:45,479","00:10:48,732",1,1,139,0.0,0.8838095238095238,1.0,0.0,2
+5607,Oh! Thank you! Thank you! Thank you! Yes! Thank you!,Kathy,joy,positive,563,8,4,11,"00:21:54,396","00:22:00,693",1,1,140,0.0,0.0,1.0,1.0,1
+5623,"Oh! Okay!  You, Mister Right Place at the Right Time, call me!",Janice,joy,positive,565,4,5,12,"00:10:53,361","00:11:01,701",1,1,141,0.0,0.0,1.0,1.0,1
+5639,"Ross, umm, you've been in there for a long time. I'm starting to get kinda freaked out.",Elizabeth,fear,negative,569,0,5,11,"00:16:07,925","00:16:13,096",0,1,142,0.0,0.0,1.0,1.0,1
+5669,Are you looking at her?!,Evil Bitch,anger,negative,572,6,8,23,"0:09:28,723","0:09:29,905",0,1,143,0.0,0.0,1.0,1.0,1
+5670,No!,Sick Bastard,anger,negative,572,7,8,23,"0:09:29,905","0:09:30,772",0,1,143,0.0,0.8838095238095238,1.0,0.0,2
+5671,Dont you look at her you sick bastard!,Evil Bitch,anger,negative,572,8,8,23,"0:09:30,933","0:09:32,644",0,1,143,0.0,0.8838095238095238,1.0,0.0,3
+5672,Honey I swear! I wasnt looking at her!,Sick Bastard,fear,negative,572,9,8,23,"0:09:32,644","0:09:36,213",0,1,143,0.0,0.8838095238095238,1.0,0.0,4
+5673,Shes in labor! You like that you sick son of a bitch!,Evil Bitch,anger,negative,572,10,8,23,"00:09:36,397","00:09:40,067",0,1,143,0.0,0.8838095238095238,1.0,0.0,5
+5675,See? See? It was because you were looking fat pervert!,Evil Bitch,anger,negative,572,12,8,23,"00:09:45,781","00:09:48,993",0,1,143,0.0,0.8838095238095238,1.0,0.0,6
+5683,Dont you talk to my husband like that you stupid bastard!,Evil Bitch,anger,negative,572,20,8,23,"00:10:18,439","00:10:21,859",0,1,143,0.0,0.8838095238095238,1.0,0.0,7
+5748,"Well, Im going to go into my new apartment now.  Ehh!",Mr. Heckles,joy,positive,578,9,3,6,"00:10:31,714","00:10:46,728",1,1,144,0.0,0.0,1.0,1.0,1
+5773,"This is your grandmothers engagement ring, I want you to give it to Rachel.",Mrs. Geller,joy,positive,584,7,8,23,"00:07:09,750","00:07:14,130",1,1,145,0.0,0.0,1.0,1.0,1
+5775,Just hear me out!,Mrs. Geller,fear,negative,584,9,8,23,"0:07:16,972","0:07:17,902",0,1,145,0.0,0.8838095238095238,1.0,0.0,2
+5794,"Hi. I just talked to Joanna, and she loves you. You got it, you got the job.",Mark,joy,positive,587,1,3,11,"00:20:58,799","00:21:02,134",1,1,146,0.0,0.0,1.0,1.0,1
+5796,Yes.,Mark,joy,positive,587,3,3,11,"00:21:03,845","00:21:04,929",1,1,146,0.0,0.8838095238095238,1.0,0.0,2
+5813,I dont need you guys to care about me!,Earl,anger,negative,589,7,7,13,"00:19:25,414","00:19:27,874",0,1,147,0.0,0.0,1.0,1.0,1
+5814,Because the universe cares!,Earl,joy,positive,589,8,7,13,"0:19:28,041","0:19:29,960",1,1,147,0.0,0.8838095238095238,1.0,0.0,2
+5815,The whole universe!,Earl,joy,positive,589,9,7,13,"0:19:29,960","0:19:30,396",1,1,147,0.0,0.8838095238095238,1.0,0.0,3
+5816,I really wished theyd care just a little bit though.,Earl,sadness,negative,589,10,7,13,"00:19:38,135","00:19:40,553",0,0,147,0.0,0.8838095238095238,1.0,0.0,1
+5828,Me too! Im sorry that guy in the subway licked your neck.,Kyle,sadness,negative,590,5,7,5,"00:08:21,542","00:08:28,173",0,0,148,0.0,0.0,1.0,1.0,1
+5830,"Hey uh, I dont mean to be presumptuous but I have these two tickets to the ballroom dancing finals tomorrow night if you want to go?",Kyle,fear,negative,590,7,7,5,"00:08:28,633","00:08:33,803",0,1,148,0.3645833333333333,0.0,0.0,1.0,1
+5834,"No its Uh, my ex-wife Whitney is out there. I cannot deal with her right now. That woman is crazy!",Kyle,anger,negative,590,11,7,5,"00:08:50,196","00:08:56,743",0,1,148,0.0,0.21333333333333337,1.0,0.7586206896551724,2
+5864,Oh God!,Robert,sadness,negative,593,3,3,13,"0:17:50,152","0:17:51,534",0,0,149,0.0,0.0,1.0,1.0,1
+5865,Here we go again.,Robert,sadness,negative,593,4,3,13,"0:17:51,534","0:17:53,545",0,0,149,0.3645833333333333,0.0,0.0,1.0,2
+5866,Why does this keep happening to me?,Robert,anger,negative,593,5,3,13,"0:17:53,655","0:17:55,617",0,1,149,0.3645833333333333,0.0,0.0,1.0,1
+5867,Is it something Im putting out there?,Robert,sadness,negative,593,6,3,13,"0:17:55,617","0:17:58,264",0,0,149,0.0,0.4419047619047619,1.0,0.5,1
+5868,Is this my fault?,Robert,sadness,negative,593,7,3,13,"0:18:00,412","0:18:01,497",0,0,149,0.10416666666666666,0.0,0.7142857142857143,1.0,2
+5869,Or am I just nuts?,Robert,sadness,negative,593,8,3,13,"0:18:01,497","0:18:04,149",0,0,149,0.31901041666666663,0.0,0.125,1.0,3
+5871,"Hey buddy, this is a family place, put the mouse back in the house.",Gunther,disgust,negative,593,10,3,13,"00:18:11,048","00:18:15,802",0,1,149,0.162037037037037,0.0,0.5555555555555556,1.0,1
+5879,This poor guys been in a coma for five years. Its hopeless.,Nurse #1,sadness,negative,594,7,7,4,"00:18:55,467","00:18:58,803",0,0,150,0.0,0.0,1.0,1.0,1
+5880,"Its not hopeless! Dr. Stryker Ramorays a miracle worker. Look, here he comes.",Nurse #2,joy,positive,594,8,7,4,"00:18:59,054","00:19:03,349",1,1,150,0.3645833333333333,0.0,0.0,1.0,1
+5954,"Yeah, drop it! Drop the towel! Please drop thewowww.",All,joy,positive,601,5,1,4,"00:19:49,688","00:20:01,991",1,1,151,0.0,0.0,1.0,1.0,1
+5956,"Yeah, isn't he?",Angela,joy,positive,602,1,1,5,"00:14:52,057","00:14:53,349",1,1,152,0.0,0.0,1.0,1.0,1
+5958,You know what else? He's unbelievable in bed.,Angela,joy,positive,602,3,1,5,"00:14:59,315","00:15:02,817",1,1,152,0.0,0.8838095238095238,1.0,0.0,2
+5964,Awesome!,Ben,joy,positive,603,3,7,10,"0:20:21,011","0:20:21,804",1,1,153,0.0,0.0,1.0,1.0,1
+5976,"Yeah, sure. Good luck!",Pete,joy,positive,604,0,3,21,"00:07:04,882","00:07:10,637",1,1,154,0.0,0.0,1.0,1.0,1
+5984,Youre good. Youre good!,Pete,joy,positive,604,8,3,21,"00:07:40,877","00:07:42,878",1,1,154,0.0,0.8838095238095238,1.0,0.0,2
+5986,"Listen, can you promise me that you wont tell her though?",Pete,fear,negative,604,10,3,21,"00:07:50,553","00:07:53,054",0,1,154,0.0,0.8838095238095238,1.0,0.0,3
+5991,"For God's sake, will you let it go? There's no Rachel!",Man,anger,negative,605,1,1,24,"00:21:20,988","00:21:25,783",0,1,155,0.0,0.0,1.0,1.0,1
+5993,"Oh, thanks, sweetie.",Julie,joy,positive,605,3,1,24,"00:21:34,001","00:21:36,502",1,1,155,0.0,0.8838095238095238,1.0,0.0,2
+5997,You don't think they'll judge and ridicule me?,Julie,fear,negative,605,6,1,24,"00:21:44,970","00:21:47,513",0,1,155,0.0,0.8838095238095238,1.0,0.0,3
+6004,"Listen, it was nice to see you. I gotta run backstage.",Steve,joy,positive,606,4,2,5,"00:18:34,988","00:18:37,406",1,1,156,0.0,0.0,1.0,1.0,1
+6061,You blew them away!,Charlie,joy,positive,610,0,9,23,"00:30:41,798","00:30:42,840",1,1,157,0.0,0.0,1.0,1.0,1
+6107,Absolutely!,Nancy,joy,positive,614,1,5,18,"00:14:34,582","00:14:36,082",1,1,158,0.0,0.0,1.0,1.0,1
+6112,"Oh sure, every Sunday night I'm telling myself I'm quitting but every Monday morning it's like",Kim,disgust,negative,614,6,5,18,"00:14:57,021","00:14:59,022",0,1,158,0.0,0.8838095238095238,1.0,0.0,2
+6116,"Oh, I never could do it.",Nancy,joy,positive,614,10,5,18,"0:15:05,112","0:15:06,572",1,1,158,0.0,0.8838095238095238,1.0,0.0,3
+6123,"Oh y'know, we really should quit. Okay, let's quit!",Kim,joy,positive,614,17,5,18,"00:15:13,787","00:15:17,332",1,1,158,0.0,0.8838095238095238,1.0,0.0,4
+6125,My late husband gave me that lighter.  I'm not kidding.,Kim,sadness,negative,614,19,5,18,"00:15:24,506","00:15:30,345",0,0,158,0.0,0.8838095238095238,1.0,0.0,1
+6130,Nooo..,All,disgust,negative,615,2,1,3,"00:14:19,358","00:14:20,775",0,1,159,0.0,0.0,1.0,1.0,1
+6131,"Oh, hey, don't do that! Cut it out!",All,anger,negative,615,3,1,3,"00:14:21,777","00:14:24,237",0,1,159,0.0,0.8838095238095238,1.0,0.0,2
+6168,Yoo-hoo! Aaron Litman-Neurolic would like to say hello to his future bride.,Janice,joy,positive,618,0,6,20,"00:14:03,706","00:14:11,130",1,1,160,0.0,0.0,1.0,1.0,1
+6178,"Oh well thats what I thought about my first husband, now Im lucky if my kid gets to spend the weekend with her father and the twins and little Ms. New Boobs.",Janice,disgust,negative,619,8,8,24,"00:15:06,518","00:15:12,983",0,1,161,0.0,0.0,1.0,1.0,1
+6266,"Yeah, thats what I drive. I make four bucks an hour, I saved up for 350 years!",Gunther,disgust,negative,628,4,6,5,"00:01:47,982","00:01:55,614",0,1,162,0.0,0.0,1.0,1.0,1
+6282,"Honey, relax. Ross is great with him.  Don't look so surprised. I'm a lovely person.",Susan,joy,positive,629,5,2,2,"00:07:52,680","00:07:59,853",1,1,163,0.0,0.0,1.0,1.0,1
+6330,Here comes the bride.,Mrs. Geller,joy,positive,633,1,7,24,"00:07:58,102","00:08:00,700",1,1,164,0.0,0.0,1.0,1.0,1
+6350,Crap!!,Ben,anger,negative,634,7,7,16,"0:18:05,876","0:18:06,298",0,1,165,0.0,0.0,1.0,1.0,1
+6390,"Hi. God, it seems like just yesterday you guys used to come out to watch me work.",Mr. Geller,joy,positive,638,3,7,13,"00:06:01,986","00:06:06,323",1,1,166,0.0,0.0,1.0,1.0,1
+6394,Im sorry we cant store your childhood things anymore.,Mr. Geller,sadness,negative,638,7,7,13,"00:06:22,757","00:06:25,342",0,0,166,0.0,0.8838095238095238,1.0,0.0,1
+6411,"You have a very impressive resume, Ms. Green. I especially like what I see here about implementing a new filing system.",Mr. Posner,joy,positive,640,0,4,9,"00:06:24,842","00:06:32,307",1,1,167,0.0,0.0,1.0,1.0,1
+6416,It certainly did brighten up the inside of the filing cabinets.,Joanna,joy,positive,640,5,4,9,"00:06:38,272","00:06:41,650",1,1,167,0.0,0.8838095238095238,1.0,0.0,2
+6420,Oh. And Rachel has been really incredible in getting my morning bagel for me. Its amazing how she gets it right almost,Joanna,joy,positive,640,9,4,9,"00:06:55,331","00:07:01,920",1,1,167,0.0,0.8838095238095238,1.0,0.0,3
+6422,"Oh yes, well theres the coffee too.  Rachel can carry two things at once!",Joanna,joy,positive,640,11,4,9,"00:07:06,551","00:07:12,139",1,1,167,0.0,0.8838095238095238,1.0,0.0,4
+6454,Of course I am!,Mrs. Green,joy,positive,645,1,8,20,"0:14:03,706","0:14:05,128",1,1,168,0.0,0.0,1.0,1.0,1
+6585,For what its worth I did appreciate you standing up for me. It felt really nice. It kinda made me like you even more.,Elizabeth,joy,positive,655,4,6,18,"00:20:22,930","00:20:32,480",1,1,169,0.0,0.0,1.0,1.0,1
+6589,"Just hearing you describe it as forbidden, its really hot.",Elizabeth,joy,positive,655,8,6,18,"00:20:42,074","00:20:49,247",1,1,169,0.0,0.8838095238095238,1.0,0.0,2
+6593,Stop it!,Elizabeth,joy,positive,655,12,6,18,"00:21:01,260","00:21:05,221",1,1,169,0.0,0.8838095238095238,1.0,0.0,3
+6595,Shut the book!,Elizabeth,joy,positive,655,14,6,18,"00:21:12,479","00:21:14,355",1,1,169,0.0,0.8838095238095238,1.0,0.0,4
+6601,Im just kidding. Im getting married July 25,Megan,joy,positive,657,3,7,17,"00:04:17,632","00:04:21,510",1,1,170,0.0,0.0,1.0,1.0,1
+6605,Oooh its getting close!,Megan,joy,positive,657,7,7,17,"00:04:32,146","00:04:34,731",1,1,170,0.0,0.8838095238095238,1.0,0.0,2
+6611,"I know! I almost called off my wedding. Oh, whos your band?!",Megan,joy,positive,657,12,7,17,"00:04:42,448","00:04:49,204",1,1,170,0.0,0.8838095238095238,1.0,0.0,3
+6613,"Oh, youre so lucky. My fiancee wants the heavy metal band Carcass.",Megan,sadness,negative,657,14,7,17,"00:04:49,414","00:04:53,542",0,0,170,0.0,0.8838095238095238,1.0,0.0,1
+6644,I thought they could...I'll try to get back as soon as I can. I'm sorry.,Susan,sadness,negative,659,3,1,14,"00:14:52,182","00:15:02,942",0,0,171,0.0,0.0,1.0,1.0,1
+6666,And instead my parents got me this little plastic chicken that you hop around on.,Paul,anger,negative,660,4,6,23,"00:05:05,471","00:05:12,311",0,1,172,0.0,0.0,1.0,1.0,1
+6667,"It was embarrassing, kids made fun of me.",Paul,sadness,negative,660,5,6,23,"00:05:12,979","00:05:15,105",0,0,172,0.0,0.8838095238095238,1.0,0.0,1
+6668,That was a pretty tough year.,Paul,sadness,negative,660,6,6,23,"00:05:15,273","00:05:17,107",0,0,172,0.2552083333333333,0.0,0.3,1.0,2
+6676,It was horrible. They called me chicken boy.,Paul,sadness,negative,660,14,6,23,"00:05:30,163","00:05:36,752",0,0,172,0.14583333333333334,0.0,0.6,1.0,3
+6733,I know! Why dont you get drunk! That worked for a lot of girls in my high school.,Frank,anger,negative,665,18,4,12,"00:07:03,923","00:07:08,677",0,1,173,0.0,0.0,1.0,1.0,1
+6774,"Oh, that's great.",Barry,joy,positive,669,2,1,2,"00:17:38,599","00:17:41,392",1,1,174,0.0,0.0,1.0,1.0,1
+6863,Great!,Julie,joy,positive,675,1,2,1,"0:21:30,376","0:21:31,308",1,1,175,0.0,0.0,1.0,1.0,1
+6899,"Hey, how do you guys get anything done?",Frank,joy,positive,678,12,3,5,"00:04:34,023","00:04:37,025",1,1,176,0.0,0.0,1.0,1.0,1
+7019,I like her. She sees smart.,Mr. Burgin,joy,positive,691,0,4,18,"00:15:32,014","00:15:34,766",1,1,177,0.0,0.0,1.0,1.0,1
+7024,"Ive been a nice guy up until now, but uh, I dont need this grief.",Mr. Treeger,anger,negative,693,2,4,4,"00:04:46,077","00:04:49,479",0,1,178,0.0,0.0,1.0,1.0,1
+7025,Im gonna call the landlord and tell him that Monica is illegally subletting here grandmothers apartment.,Mr. Treeger,anger,negative,693,3,4,4,"00:04:49,789","00:04:54,835",0,1,178,0.0,0.8838095238095238,1.0,0.0,2
+7026,Your friends are outta here pal.,Mr. Treeger,anger,negative,693,4,4,4,"00:04:55,044","00:04:57,337",0,1,178,0.0,0.8838095238095238,1.0,0.0,3
+7032,Oh damnit!,Ben,disgust,negative,695,0,7,16,"00:09:15,888","00:09:18,014",0,1,179,0.0,0.0,1.0,1.0,1
+7034,Damn it!,Ben,joy,positive,695,2,7,16,"0:09:20,685","0:09:21,707",1,1,179,0.0,0.8838095238095238,1.0,0.0,2
+7035,Damn it!,Ben,joy,positive,695,4,7,16,"0:09:22,375","0:09:22,513",1,1,179,0.0,0.8838095238095238,1.0,0.0,3
+7038,Oh crap!,Ben,joy,positive,695,6,7,16,"00:09:24,355","00:09:26,606",1,1,179,0.0,0.8838095238095238,1.0,0.0,4
+7065,I won! That was my quarter!,The Lurker,anger,negative,699,1,5,24,"00:17:04,898","00:17:06,649",0,1,180,0.0,0.0,1.0,1.0,1
+7067,"Excuse me, sir! This lady played my quarter, this is my money.",The Lurker,anger,negative,699,3,5,24,"00:17:10,487","00:17:14,782",0,1,180,0.0,0.8838095238095238,1.0,0.0,2
+7072,It was my quarter!,The Lurker,anger,negative,699,8,5,24,"0:17:24,918","0:17:26,520",0,1,180,0.0,0.8838095238095238,1.0,0.0,3
+7075,"Okay lady, you're out of here.",The Security Guard,disgust,negative,699,11,5,24,"00:17:31,967","00:17:35,720",0,1,180,0.0,0.8838095238095238,1.0,0.0,4
+7077,I'm just taking you outside!,The Security Guard,anger,negative,699,13,5,24,"00:17:39,767","00:17:42,268",0,1,180,0.0,0.8838095238095238,1.0,0.0,5
+7173,Look at this!  There we go!,Marc,joy,positive,713,2,8,23,"00:04:26,337","00:04:31,092",1,1,181,0.0,0.0,1.0,1.0,1
+7175,"Well, yes! Just give me five minutes, I just have to find someone to cover my shift.",The Librarian,joy,positive,714,1,7,7,"00:09:51,757","00:09:58,138",1,1,182,0.0,0.0,1.0,1.0,1
+7182,"I, I cant help you.",The Head Librarian,sadness,negative,716,1,7,7,"00:10:37,303","00:10:39,721",0,0,183,0.0,0.0,1.0,1.0,1
+7206,"Oh, like Id give up that job! Free popcorn and candy, anytime I want. I can get you free posters for your room.",Chip,joy,positive,718,4,4,2,"00:17:01,437","00:17:11,946",1,1,184,0.0,0.0,1.0,1.0,1
+7209,Nice car!,Guy #1,joy,positive,719,0,6,5,"00:03:18,072","00:03:19,114",1,1,185,0.0,0.0,1.0,1.0,1
+7211,I love your car.,Woman,joy,positive,719,2,6,5,"0:03:23,453","0:03:24,255",1,1,185,0.0,0.8838095238095238,1.0,0.0,2
+7215,Yeah!,Woman,joy,positive,719,6,6,5,"00:03:33,171","00:03:35,964",1,1,185,0.0,0.8838095238095238,1.0,0.0,3
+7277,"Ah yeah, sorry about that.",Cassie,sadness,negative,726,0,7,19,"0:12:34,670","0:12:36,672",0,0,186,0.0,0.0,1.0,1.0,1
+7279,"Thanks for letting me stay here! I mean Monicas place was nice, but her fiancée sure stares a lot.",Cassie,joy,positive,726,2,7,19,"00:12:38,382","00:12:46,055",1,1,186,0.3645833333333333,0.0,0.0,1.0,1
+7283,"Well, maybe after we get reacquainted uh, you can do me.",Cassie,joy,positive,726,6,7,19,"00:13:18,297","00:13:21,424",1,1,186,0.0,0.08034632034632037,1.0,0.9090909090909091,2
+7309,Yep. Pretty much.,Bob,joy,positive,729,1,1,5,"00:14:09,306","00:14:11,516",1,1,187,0.0,0.0,1.0,1.0,1
+7341,Fabulous.,Kate,joy,positive,734,1,3,22,"00:09:54,510","00:09:55,510",1,1,188,0.0,0.0,1.0,1.0,1
+7346,You dog!,Issac,joy,positive,735,3,3,16,"00:08:47,485","00:08:49,110",1,1,189,0.0,0.0,1.0,1.0,1
+7366,You are so sweet.,Emily,joy,positive,736,3,4,17,"00:08:58,913","00:09:00,956",1,1,190,0.0,0.0,1.0,1.0,1
+7419,"Well, shell understand right? Its not like I did it on purpose.",Mr. Geller,sadness,negative,740,0,7,13,"00:12:04,056","00:12:07,100",0,0,191,0.0,0.0,1.0,1.0,1
+7425,"Well I dont know, I-I suppose we may have favored you unconsciously, you were a medical marvel! The doctor said your mother could",Mr. Geller,joy,positive,740,6,7,13,"00:12:25,411","00:12:33,293",1,1,191,0.3645833333333333,0.0,0.0,1.0,1
+7455,...Oh God.,Shelley,fear,negative,744,8,1,8,"00:00:38,663","00:00:41,206",0,1,192,0.0,0.0,1.0,1.0,1
+7456,"I- just- I thought- Good, Shelley.",Shelley,anger,negative,744,9,1,8,"00:00:38,663","00:00:47,671",0,1,192,0.0,0.8838095238095238,1.0,0.0,2
+7457,I'm just gonna go flush myself down the toilet now...,Shelley,disgust,negative,744,10,1,8,"00:00:43,960","00:00:47,671",0,1,192,0.0,0.8838095238095238,1.0,0.0,3
+7458,"Okay, goodbye...",Shelley,disgust,negative,744,11,1,8,"00:00:47,922","00:00:49,048",0,1,192,0.0,0.8838095238095238,1.0,0.0,4
+7504,Ill be here.,Richard,sadness,negative,750,3,6,25,"0:15:02,151","0:15:02,944",0,0,193,0.0,0.0,1.0,1.0,1
+7505,Not smoking.,Richard,sadness,negative,750,4,6,25,"0:15:02,944","0:15:04,936",0,0,193,0.3645833333333333,0.0,0.0,1.0,2
+7509,I got it!,Carol,joy,positive,752,2,6,16,"0:04:47,412","0:04:48,084",1,1,194,0.0,0.0,1.0,1.0,1
+7511,Susan! Hi!,Carol,joy,positive,752,4,6,16,"0:04:50,039","0:04:51,791",1,1,194,0.0,0.8838095238095238,1.0,0.0,2
+7512,Hey!,Susan,joy,positive,752,5,6,16,"0:04:51,791","0:04:52,823",1,1,194,0.0,0.8838095238095238,1.0,0.0,3
+7513,Thank you so much for coming.,Carol,joy,positive,752,6,6,16,"0:04:53,835","0:04:55,557",1,1,194,0.0,0.8838095238095238,1.0,0.0,4
+7514,"Oh, I wouldnt miss it for the world.",Susan,joy,positive,752,7,6,16,"0:04:55,557","0:04:57,313",1,1,194,0.0,0.8838095238095238,1.0,0.0,5
+7516,Hello Ross.  I love what youve done with this space.,Susan,joy,positive,752,9,6,16,"00:05:01,884","00:05:08,640",1,1,194,0.0,0.8838095238095238,1.0,0.0,6
+7517,Thank you so much.,Carol,joy,positive,752,10,6,16,"00:05:05,221","00:05:08,640",1,1,194,0.0,0.8838095238095238,1.0,0.0,7
+7528,Im not gonna tell you! Youre the bad man who broke Sarahs leg.,Girl,anger,negative,755,1,3,10,"00:16:42,251","00:16:46,838",0,1,195,0.0,0.0,1.0,1.0,1
+7530,Youre a big scrud.,Girl,anger,negative,755,3,3,10,"0:16:50,968","0:16:52,053",0,1,195,0.0,0.8838095238095238,1.0,0.0,2
+7532,"Why dont you look in the mirror, scrud.",Girl,anger,negative,755,5,3,10,"00:16:56,056","00:16:58,141",0,1,195,0.0,0.8838095238095238,1.0,0.0,3
+7534,"All right girls, and man. Lets see your final tallies.  Ohhhh, Debbie,  321 boxes of cookies,  Very nice.",Leader,joy,positive,755,7,3,10,"00:17:05,065","00:17:12,155",1,1,195,0.0,0.8838095238095238,1.0,0.0,4
+7559,"Ow!-Ow!-Ow! Ow! Ow! Ow! Ow! Ow! Ow! Y'know, ow!",Frank,anger,negative,758,0,3,5,"00:14:39,461","00:14:47,635",0,1,196,0.0,0.0,1.0,1.0,1
+7561,She broke my arm.,Frank,anger,negative,758,2,3,5,"0:14:46,776","0:14:47,695",0,1,196,0.0,0.8838095238095238,1.0,0.0,2
+7562,He touched my fanny.,Girl,anger,negative,758,3,3,5,"0:14:47,803","0:14:49,347",0,1,196,0.0,0.8838095238095238,1.0,0.0,3
+7563,"No, she touched mine first!",Frank,anger,negative,758,4,3,5,"0:14:49,347","0:14:50,537",0,1,196,0.0,0.8838095238095238,1.0,0.0,4
+7564,Thats my job!,Girl,anger,negative,758,5,3,5,"00:14:50,639","00:14:52,223",0,1,196,0.0,0.8838095238095238,1.0,0.0,5
+7569,Barley? What kind of party serves barley?,Janice,anger,negative,759,4,3,4,"00:17:04,606","00:17:08,693",0,1,197,0.0,0.0,1.0,1.0,1
+7573,Who's party is it?,Janice,anger,negative,759,8,3,4,"00:17:16,493","00:17:17,910",0,1,197,0.0,0.8838095238095238,1.0,0.0,2
+7575,What woman?!,Janice,anger,negative,759,10,3,4,"0:17:19,012","0:17:20,510",0,1,197,0.0,0.8838095238095238,1.0,0.0,3
+7578,"Either you're seeing somebody behind my back, which would make you the biggest jerk on the planet.",Janice,disgust,negative,759,12,3,4,"00:17:25,085","00:17:31,257",0,1,197,0.0,0.8838095238095238,1.0,0.0,4
+7579,"Or, else you're pretending that you're seeing somebody, which just makes you so pathetic that I could start crying right here in the cereal aisle.",Janice,disgust,negative,759,13,3,4,"00:17:31,425","00:17:37,513",0,1,197,0.0,0.8838095238095238,1.0,0.0,5
+7580,So like which of these two guys do you want to be?,Janice,sadness,negative,759,14,3,4,"00:17:37,681","00:17:41,267",0,0,197,0.0,0.8838095238095238,1.0,0.0,1
+7583,"Yknow uh, actually I-I-I should get going.",Dana,anger,negative,760,1,6,18,"00:14:15,479","00:14:18,523",0,1,198,0.0,0.0,1.0,1.0,1
+7638,"Well, Sid and I are trying again and we had trouble last time    because apparently we...",Janice,sadness,negative,768,1,9,21,"00:13:55,251","00:13:58,545",0,0,199,0.0,0.0,1.0,1.0,1
+7640,Oh! Someone's a little cranky today cuz they have to do it in    a cup!  Oh! They gave you the kiddy size .,Janice,anger,negative,768,3,9,21,"00:14:02,925","00:14:10,181",0,1,199,0.3645833333333333,0.0,0.0,1.0,1
+7686,Not so fast Wesley!,Dr. Drake Remoray,anger,negative,772,1,6,15,"00:20:16,465","00:20:18,257",0,1,200,0.0,0.0,1.0,1.0,1
+7687,Ramoray!,Dr. Wesley,sadness,negative,772,2,6,15,"00:20:20,052","00:20:23,763",0,0,200,0.0,0.8838095238095238,1.0,0.0,1
+7688,"Thats right Wesley! I just stopped by to say that, youre not a real doctor! And that womans brain, is fine!",Dr. Drake Remoray,anger,negative,772,3,6,15,"00:20:20,052","00:20:32,188",0,1,200,0.3645833333333333,0.0,0.0,1.0,1
+7690,Hope! Hope!,Dr. Drake Remoray,joy,positive,772,5,6,15,"0:20:42,658","0:20:44,830",1,1,200,0.0,0.0,1.0,1.0,2
+7691,Drake!,Hope,joy,positive,772,6,6,15,"0:20:44,830","0:20:46,840",1,1,200,0.0,0.8101587301587302,1.0,0.08333333333333333,3
+7692,"Youre not dying Hope, youre gonna live a long, healthy life. With me.",Dr. Drake Remoray,joy,positive,772,7,6,15,"00:20:47,037","00:20:52,583",1,1,200,0.0,0.7856084656084655,1.0,0.1111111111111111,4
+7693,Oh Drake.,Hope,joy,positive,772,8,6,15,"00:20:52,751","00:20:54,377",1,1,200,0.0,0.7457142857142858,1.0,0.15625,5
+7739,"Would you mind spending some time on my siadic area, its been killing me today.",Rick,anger,negative,778,2,4,4,"00:09:17,807","00:09:21,685",0,1,201,0.0,0.0,1.0,1.0,1
+7757,"You wouldn't return my calls, you sent back my letters....",Guy,sadness,negative,780,4,3,3,"00:02:53,131","00:02:55,883",0,0,202,0.0,0.0,1.0,1.0,1
+7759,"One more chance Ursula, please?",Guy,sadness,negative,780,6,3,3,"0:02:56,482","0:02:58,931",0,0,202,0.3645833333333333,0.0,0.0,1.0,2
+7762,Good deal.,Vince,joy,positive,781,1,3,23,"00:02:18,555","00:02:20,556",1,1,203,0.0,0.0,1.0,1.0,1
+7765,Hi!,Mark,joy,positive,782,2,3,19,"00:00:26,151","00:00:27,609",1,1,204,0.0,0.0,1.0,1.0,1
+7767,"Um, y'know, before we go ah, theres something I need to say.",Mark,fear,negative,782,4,3,19,"00:00:29,821","00:00:32,406",0,1,204,0.0,0.8838095238095238,1.0,0.0,2
+7769,"Ive kinda of had this ah, this crush on you.",Mark,fear,negative,782,6,3,19,"00:00:38,121","00:00:40,622",0,1,204,0.0,0.8838095238095238,1.0,0.0,3
+7770,"But since you were with Ross, I-I didnt do anything about it.",Mark,joy,positive,782,7,3,19,"00:00:41,791","00:00:44,668",1,1,204,0.0,0.8838095238095238,1.0,0.0,4
+7771,"But, now that youre not, Id really like to ask you out sometime.",Mark,fear,negative,782,8,3,19,"00:00:44,836","00:00:48,797",0,1,204,0.0,0.8838095238095238,1.0,0.0,5
+7772,"So-so thats-thats what Im doing, now.",Mark,fear,negative,782,9,3,19,"00:00:49,466","00:00:53,343",0,1,204,0.0,0.8838095238095238,1.0,0.0,6
+7787,What about my children Drake?! Huh!?  No!! No!! No! God!,Phoebe/Waitress,anger,negative,785,1,9,11,"00:22:53,121","00:23:03,756",0,1,205,0.0,0.0,1.0,1.0,1
+7809,You were so funny with that waiter! You're such a nut!,Katie,joy,positive,789,0,5,15,"00:08:43,814","00:08:47,901",1,1,206,0.0,0.0,1.0,1.0,1
+7811,"No, you make them funny. You're the funny one!",Katie,joy,positive,789,2,5,15,"00:08:56,994","00:09:00,080",1,1,206,0.0,0.8838095238095238,1.0,0.0,2
+7854,But what choice did I have. He was keeping my sister    in a,Rachel/actress,anger,negative,792,12,9,19,"00:10:03,520","00:10:06,815",0,1,207,0.0,0.0,1.0,1.0,1
+7855,So what about us? Everything we feel for each other.,Joey/Drake,sadness,negative,792,13,9,19,"00:10:09,443","00:10:12,696",0,0,207,0.0,0.8838095238095238,1.0,0.0,1
+7856,It's over! You,Rachel/actress,joy,positive,792,14,9,19,"00:10:12,904","00:10:15,365",1,1,207,0.24305555555555558,0.0,0.3333333333333333,1.0,1
+7858,"Knowing I'll never hold you in my arms again,    or touch your skin, or feel your lips, knowing I'll never make love to you?",Joey/Drake,sadness,negative,792,16,9,19,"00:10:15,532","00:10:27,961",0,0,207,0.0,0.4419047619047619,1.0,0.5,1
+7859,How can I accept that...,Joey/Drake,sadness,negative,792,17,9,19,"00:10:28,128","00:10:31,131",0,0,207,0.068359375,0.0,0.8125,1.0,2
+7860,I can never kiss you again when it's all I can do not    to kiss you right now.,Joey/Drake,sadness,negative,792,18,9,19,"00:10:31,298","00:10:34,301",0,0,207,0.3070175438596491,0.0,0.15789473684210525,1.0,3
+7870,That's so sweet.,All,joy,positive,793,7,1,9,"00:21:54,980","00:21:56,480",1,1,208,0.0,0.0,1.0,1.0,1
+7882,"All right, Ill tell her.  Come on bugger face!",Mr. Waltham,anger,negative,794,8,5,1,"00:14:23,988","00:14:28,074",0,1,209,0.0,0.0,1.0,1.0,1
+7884,"You spend half your life in the bathroom, why dont you ever go out the bloody window!",Mr. Waltham,anger,negative,794,10,5,1,"00:14:30,953","00:14:35,540",0,1,209,0.0,0.8838095238095238,1.0,0.0,2
+7907,"Chandler, I…",Ms. McKenna,joy,positive,796,13,9,2,"0:14:11,183","0:14:12,155",1,1,210,0.0,0.0,1.0,1.0,1
+7932,Oh no.,Mindy,fear,negative,798,3,1,20,"0:16:00,048","0:16:01,770",0,1,211,0.0,0.0,1.0,1.0,1
+7934,"No me, I am so sorry...",Mindy,sadness,negative,798,5,1,20,"00:16:05,965","00:16:08,341",0,0,211,0.0,0.8838095238095238,1.0,0.0,1
+7961,Youre a mean old woman.,Boy in the Cape,anger,negative,803,0,8,6,"00:14:48,888","00:14:50,722",0,1,212,0.0,0.0,1.0,1.0,1
+7972,: No! Youre clogging up the chute that I spent a half-hour unclogging!,Mr. Treeger,anger,negative,804,3,4,4,"00:01:15,158","00:01:18,285",0,1,213,0.0,0.0,1.0,1.0,1
+7974,": Oh yeah, of course you dont!",Mr. Treeger,anger,negative,804,5,4,4,"00:01:21,748","00:01:25,501",0,1,213,0.0,0.8838095238095238,1.0,0.0,2
+7976,": Cause youre a little princess! ""Daddy, buy me a pizza. Daddy, buy me a candy factory. Daddy, make the cast of",Mr. Treeger,disgust,negative,804,6,4,4,"00:01:21,748","00:01:34,510",0,1,213,0.0,0.8838095238095238,1.0,0.0,3
+7978,": You think you could make a mess and the big man in coveralls will come in here and clean it up, huh?",Mr. Treeger,anger,negative,804,7,4,4,"00:01:35,595","00:01:41,517",0,1,213,0.0,0.8838095238095238,1.0,0.0,4
+7979,"Well, why dont think of someone else for a change?",Mr. Treeger,anger,negative,804,8,4,4,"00:01:41,726","00:01:44,812",0,1,213,0.0,0.8838095238095238,1.0,0.0,5
+8040,Hi!,Gary,joy,positive,810,6,7,9,"00:06:39,899","00:06:41,191",1,1,214,0.0,0.0,1.0,1.0,1
+8042,Its candy time! My roommate says that they taste like little drops of heaven.,Gary,joy,positive,810,8,7,9,"00:06:45,446","00:06:48,573",1,1,214,0.0,0.8838095238095238,1.0,0.0,2
+8062,"Oh, thank you. Youre welcome.",Richard,joy,positive,811,8,7,24,"00:12:57,234","00:12:59,778",1,1,215,0.0,0.0,1.0,1.0,1
+8064,Is that my ass?,Richard,joy,positive,811,10,7,24,"00:13:06,076","00:13:08,328",1,1,215,0.0,0.8838095238095238,1.0,0.0,2
+8102,"Oh?my Gawd, I-I understand.",Janice,sadness,negative,816,1,7,7,"00:20:49,039","00:20:55,711",0,0,216,0.0,0.0,1.0,1.0,1
+8103,"I-I am so sorry, Ill go.",Janice,sadness,negative,816,2,7,7,"00:20:52,084","00:20:57,421",0,0,216,0.3645833333333333,0.0,0.0,1.0,2
+8104,"Good-bye Monica , I wish you a lifetime of happiness with him.",Janice,sadness,negative,816,3,7,7,"00:21:02,511","00:21:08,516",0,0,216,0.3645833333333333,0.0,0.0,1.0,3
+8173,Oh please! It was such a big class! You never even noticed me!,Elizabeth,joy,positive,821,0,6,18,"00:09:47,253","00:09:51,923",1,1,217,0.0,0.0,1.0,1.0,1
+8182,Ohh thats so sweet!,Elizabeth,joy,positive,821,9,6,18,"00:10:21,037","00:10:24,873",1,1,217,0.0,0.8838095238095238,1.0,0.0,2
+8186,Dr. Geller!,Burt,joy,positive,821,13,6,18,"0:10:42,058","0:10:42,980",1,1,217,0.0,0.8838095238095238,1.0,0.0,3
+8240,"Comin' through. Move, move.",Woman,anger,negative,828,0,1,5,"00:10:37,720","00:10:40,055",0,1,218,0.0,0.0,1.0,1.0,1
+8242,"Yeah, well, now you're kinda not.",Woman,disgust,negative,828,2,1,5,"00:10:48,898","00:10:51,316",0,1,218,0.0,0.8838095238095238,1.0,0.0,2
+8244,"Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.",Woman,anger,negative,828,4,1,5,"00:10:55,655","00:11:01,368",0,1,218,0.0,0.8838095238095238,1.0,0.0,3
+8246,"No suds, no save. Ok?",Woman,anger,negative,828,6,1,5,"00:11:06,123","00:11:09,292",0,1,218,0.0,0.8838095238095238,1.0,0.0,4
+8257,"Well, I think this is a great place to work!",Receptionist,joy,positive,829,1,9,21,"00:09:42,832","00:09:46,001",1,1,219,0.0,0.0,1.0,1.0,1
+8341,Hey!,Ursula,joy,positive,837,2,6,14,"00:16:21,855","00:16:24,315",1,1,220,0.0,0.0,1.0,1.0,1
+8343,No Im not.,Ursula,anger,negative,839,0,6,14,"00:16:26,860","00:16:30,446",0,1,221,0.0,0.0,1.0,1.0,1
+8448,"Im Ted, and I just moved here a month ago, and New York really scares me.",Another Tour Guide,anger,negative,844,11,4,11,"00:18:04,458","00:18:09,587",0,1,222,0.0,0.0,1.0,1.0,1
+8457,And I need to flip the light switch on and off 17 times before I leave a room or my family will die.,Another Scientist,fear,negative,844,20,4,11,"00:18:39,076","00:18:45,248",0,1,222,0.0,0.8838095238095238,1.0,0.0,2
+8459,"Its good to have you guys on my team, and I come to play.",Doug,joy,positive,845,1,3,24,"0:04:04,327","0:04:07,539",1,1,223,0.0,0.0,1.0,1.0,1
+8461,"Now, lets go out there and get em!",Doug,joy,positive,845,3,3,24,"00:04:08,957","00:04:11,416",1,1,223,0.0,0.8838095238095238,1.0,0.0,2
+8468,I like funny.,Doug,joy,positive,845,9,3,24,"0:04:26,308","0:04:28,332",1,1,223,0.0,0.8838095238095238,1.0,0.0,3
+8469,"This team is about hard work, but its also about having fun.",Doug,joy,positive,845,10,3,24,"00:04:28,559","00:04:31,436",1,1,223,0.0,0.8838095238095238,1.0,0.0,4
+8470,Good to have you aboard Bing!,Doug,joy,positive,845,11,3,24,"00:04:31,688","00:04:33,689",1,1,223,0.0,0.8838095238095238,1.0,0.0,5
+8507,"Y'know, I don't really know you well enough for you to do that.",Carol,joy,positive,849,11,5,18,"00:04:43,950","00:04:47,327",1,1,224,0.0,0.0,1.0,1.0,1
+8561,How could you have kept all of this from me?,Mona,fear,negative,854,0,8,8,"00:13:19,465","00:13:21,341",0,1,225,0.0,0.0,1.0,1.0,1
+8563,But what?! You figured youd get what you wanted and then dump her like you dumped Rachel!,Dr. Green,anger,negative,854,2,8,8,"00:13:24,428","00:13:27,222",0,1,225,0.0,0.8838095238095238,1.0,0.0,2
+8624,"Yeah,  a Pretty Huge",Jim,joy,positive,860,14,8,17,"0:13:55,185","0:13:57,257",1,1,226,0.0,0.0,1.0,1.0,1
+8627,The doctor says it's a matter of hours.,Aunt Lillian,sadness,negative,861,1,1,8,"00:04:07,080","00:04:09,498",0,0,227,0.0,0.0,1.0,1.0,1
+8629,"Me? I'm fine, fine. I'm glad you're here. ...What's with your hair?",Mrs. Geller,anger,negative,861,3,1,8,"00:04:13,127","00:04:19,424",0,1,227,0.3645833333333333,0.0,0.0,1.0,1
+8653,That's a good one!,Ronni,joy,positive,863,4,1,13,"0:11:01,702","0:11:03,084",1,1,228,0.0,0.0,1.0,1.0,1
+8671,"I tell you, this wedding is not going to happen.",Emily,joy,positive,866,2,4,23,"00:19:28,500","00:19:31,460",1,1,229,0.0,0.0,1.0,1.0,1
+8677,Its perfect.,Emily,joy,positive,866,7,4,23,"00:20:01,200","00:20:02,742",1,1,229,0.0,0.8838095238095238,1.0,0.0,2
+8679,Well then well get wet.,Emily,anger,negative,866,9,4,23,"0:20:05,589","0:20:07,211",0,1,229,0.0,0.8838095238095238,1.0,0.0,3
+8689,Yknow what? It doesnt matter! Because it is not true!,Cecilia,anger,negative,868,0,7,15,"00:05:44,510","00:05:47,679",0,1,230,0.0,0.0,1.0,1.0,1
+8731,"What that Rachel did to her life.... We ran into her parents at the club, they were not playing very well.",Mrs. Geller,sadness,negative,872,0,1,2,"00:09:26,816","00:09:32,821",0,0,231,0.0,0.0,1.0,1.0,1
+8733,"Well, at least she had the chance to leave a man at the altar...",Mrs. Geller,joy,positive,872,2,1,2,"00:09:40,997","00:09:44,666",1,1,231,0.3645833333333333,0.0,0.0,1.0,1
+8772,Our last ocean view room was unacceptable to you.,Hotel Clerk,joy,positive,875,7,5,5,"00:07:55,808","00:08:00,979",1,1,232,0.0,0.0,1.0,1.0,1
+8782,"Well, Im very glad youre here.",David,joy,positive,877,3,7,11,"00:14:50,431","00:14:52,390",1,1,233,0.0,0.0,1.0,1.0,1
+8794,But Im not gay. And I especially wouldnt want you to think I was gay.,Tag,joy,positive,881,0,7,4,"00:21:11,478","00:21:16,190",1,1,234,0.0,0.0,1.0,1.0,1
+8806,Great!,Casey,joy,positive,884,2,4,7,"00:01:44,938","00:01:45,979",1,1,235,0.0,0.0,1.0,1.0,1
+8856,"Let me get this straight man, you attacked your ex-wife?!",The Instructor,anger,negative,887,6,6,17,"00:19:42,472","00:19:44,849",0,1,236,0.0,0.0,1.0,1.0,1
+8867,"All right, all right, if you insist on doing this, at least let me help you.",Emily,anger,negative,888,3,4,15,"00:16:23,565","00:16:26,567",0,1,237,0.0,0.0,1.0,1.0,1
+8881,I dont care! You just get him!,Emily,anger,negative,888,17,4,15,"00:17:05,232","00:17:08,276",0,1,237,0.0,0.8838095238095238,1.0,0.0,2
+8950,Come on!,Mr. Treeger,anger,negative,895,8,8,3,"0:08:03,733","0:08:04,285",0,1,238,0.0,0.0,1.0,1.0,1
+8951,Hurry up.,Mr. Treeger,sadness,negative,895,9,8,3,"0:08:04,285","0:08:05,377",0,0,238,0.0,0.8838095238095238,1.0,0.0,1
+8986,Your eyes are very pretty.,Mischa,joy,positive,900,7,3,15,"00:04:22,512","00:04:25,138",1,1,239,0.0,0.0,1.0,1.0,1
+9027,Speech! Come on Monica!,Mrs. Geller,joy,positive,902,12,7,14,"0:15:04,194","0:15:05,416",1,1,240,0.0,0.0,1.0,1.0,1
+9029,Come on! Speech!,All,joy,positive,902,14,7,14,"0:15:05,708","0:15:06,195",1,1,240,0.0,0.8838095238095238,1.0,0.0,2
+9030,"Hey Chandler, you cant keep your hands off her for one second!",Mr. Geller,anger,negative,902,15,7,14,"00:15:09,700","00:15:12,994",0,1,240,0.0,0.8838095238095238,1.0,0.0,3
+9031,"Oh-ho, I think its nice.",Mrs. Geller,joy,positive,902,16,7,14,"00:15:13,162","00:15:14,829",1,1,240,0.0,0.8838095238095238,1.0,0.0,4
+9071,I won't!  Until I have my next cigarette.,The Smoking Woman,anger,negative,907,4,5,16,"00:06:45,947","00:06:48,865",0,1,241,0.0,0.0,1.0,1.0,1
+9079,I-I'm sorry! Sorry.,The Smoking Woman,fear,negative,907,12,5,16,"00:07:19,480","00:07:21,189",0,1,241,0.0,0.8838095238095238,1.0,0.0,2
+9110,WE WON!! Thank you! Yes!,All,joy,positive,910,2,1,3,"00:11:01,327","00:11:03,870",1,1,242,0.0,0.0,1.0,1.0,1
+9162,But they're not here yet!,Carol,fear,negative,915,7,1,23,"0:16:08,684","0:16:09,982",0,1,243,0.0,0.0,1.0,1.0,1
+9164,"Oh, god.",Carol,fear,negative,915,9,1,23,"00:16:12,805","00:16:15,223",0,1,243,0.0,0.8838095238095238,1.0,0.0,2
+9178,"Im sorry, so umm, so where are we?",Mona,sadness,negative,916,13,8,11,"00:13:38,734","00:13:41,945",0,0,244,0.0,0.0,1.0,1.0,1
+9200,"Look, I just saw my best friends brains smeared across the canvas, thats not gonna be me, not me.",Student,sadness,negative,920,0,3,7,"00:16:48,215","00:16:56,472",0,0,245,0.0,0.0,1.0,1.0,1
+9207,"Uh, a little bit. She-she-she walked in and I thought she was you and I kissed her and",Eric,fear,negative,921,1,8,7,"00:17:04,523","00:17:07,068",0,1,246,0.0,0.0,1.0,1.0,1
+9209,Well I was just so excited to see you.,Eric,sadness,negative,921,3,8,7,"00:17:09,903","00:17:13,489",0,0,246,0.0,0.8838095238095238,1.0,0.0,1
+9211,No-no its not!,Eric,sadness,negative,921,5,8,7,"0:17:18,912","0:17:19,634",0,0,246,0.13020833333333331,0.0,0.6428571428571429,1.0,2
+9212,I dont want to lose you!,Eric,fear,negative,921,6,8,7,"0:17:19,634","0:17:22,049",0,1,246,0.3402777777777778,0.0,0.06666666666666667,1.0,1
+9213,Its-its like I was saying to Ursula when I was making love to her and I thought she was youYeah it is too weird.,Eric,sadness,negative,921,7,8,7,"00:17:18,912","00:17:26,919",0,0,246,0.11619047619047619,1.7676190476190476,0.0,-1.0,1
+9215,Yeah.  Maybe its for the best. You smell just like her.,Eric,sadness,negative,921,9,8,7,"00:17:34,762","00:17:40,475",0,0,246,0.0,0.039713541666666664,1.0,0.9375,2
+9228,"I know! And Im just getting out of a marriage, I mean talk about meant to be!",Janice,fear,negative,923,2,4,15,"00:05:55,730","00:06:01,818",0,1,247,0.0,0.0,1.0,1.0,1
+9230,"Oh, too soon, too schmoon. Face it honey, I am not letting you get away this time.",Janice,sadness,negative,923,4,4,15,"00:06:06,491","00:06:13,288",0,0,247,0.0,0.8838095238095238,1.0,0.0,1
+9234,"Too London? No-no, Rome? Vienna? Ooh-ooh, Barcelona?",Janice,joy,positive,923,8,4,15,"00:06:35,853","00:06:39,773",1,1,247,0.10026041666666667,0.0,0.725,1.0,1
+9236,When?,Janice,anger,negative,923,10,4,15,"0:06:52,703","0:06:55,415",0,1,247,0.0,0.557184265010352,1.0,0.3695652173913043,2
+9238,"Ugh, well I will just have to soak up every once of Chandler Bing until that moment comes.",Janice,sadness,negative,923,12,4,15,"00:06:57,166","00:07:06,174",0,0,247,0.0,0.7971615312791783,1.0,0.09803921568627451,1
+9284,I missed this.,Richard,joy,positive,928,3,3,13,"0:02:19,148","0:02:19,932",1,1,248,0.0,0.0,1.0,1.0,1
+9287,Yes! Yes! Yes! Yes! Awww!,The Guys,joy,positive,929,0,3,9,"00:00:03,795","00:00:06,672",1,1,249,0.0,0.0,1.0,1.0,1
+9310,I know you botched that operation on purpose.,Joey/Drake,joy,positive,931,0,9,11,"00:22:41,360","00:22:43,694",1,1,250,0.0,0.0,1.0,1.0,1
+9311,"I can't prove    it yet, but when I do, you'll be going to jail for murder.",Joey/Drake,anger,negative,931,1,9,11,"00:22:43,862","00:22:48,074",0,1,250,0.0,0.8838095238095238,1.0,0.0,2
+9312,I don't care if you    are my brother.,Joey/Drake,disgust,negative,931,2,9,11,"00:22:48,241","00:22:49,909",0,1,250,0.0,0.8838095238095238,1.0,0.0,3
+9331,"Yeah, that-that Chandler cracks me up.",Gunther,joy,positive,933,1,6,12,"00:09:57,179","00:09:59,681",1,1,251,0.0,0.0,1.0,1.0,1
+9344,Dont wink at me. And put on your apron.,Gunther,anger,negative,933,14,6,12,"00:10:34,508","00:10:39,304",0,1,251,0.0,0.8838095238095238,1.0,0.0,2
+9367,Comin' out. Place your bet.  Dice are out.  Double or nothin'! Pay the front line!,The Croupier,joy,positive,935,12,5,23,"00:17:04,273","00:17:12,405",1,1,252,0.0,0.0,1.0,1.0,1
+9451,I can write an epic poem about this lip.,Julio,joy,positive,941,13,3,12,"00:06:48,950","00:06:53,453",1,1,253,0.0,0.0,1.0,1.0,1
+9478,"Im sorry, I wa, I wa, I was just ah....",Guy,fear,negative,945,7,3,11,"00:05:19,902","00:05:22,779",0,1,254,0.0,0.0,1.0,1.0,1
+9507,I dont see any reason why I would do that to myself again.,The Food Critic,joy,positive,947,3,8,21,"00:08:46,443","00:08:49,404",1,1,255,0.0,0.0,1.0,1.0,1
+9510,"Im torn, between my integrity and my desire to avoid a beating. But I must be honest, your soap is abysmal.",The Food Critic,disgust,negative,947,6,8,21,"00:09:02,459","00:09:11,426",0,1,255,0.0,0.8838095238095238,1.0,0.0,2
+9553,"No. No, you're not a loser.",All,sadness,negative,950,4,5,11,"00:18:13,675","00:18:16,302",0,0,256,0.0,0.0,1.0,1.0,1
+9617,Oh great! That,Danny,anger,negative,956,4,5,10,"00:17:52,738","00:17:56,324",0,1,257,0.0,0.0,1.0,1.0,1
+9650,"Hey! Im proud of that sauce, its delicious.",Allesandro,anger,negative,960,6,4,9,"00:09:36,033","00:09:38,368",0,1,258,0.0,0.0,1.0,1.0,1
+9718,"Hey, Rach! How ya doin?",Chip,joy,positive,965,2,4,2,"0:13:00,071","0:13:00,943",1,1,259,0.0,0.0,1.0,1.0,1
+9770,"Ill always remember that summer, because its when I got all of these freckles.",Cassie,joy,positive,972,8,7,19,"00:14:02,800","00:14:07,637",1,1,260,0.0,0.0,1.0,1.0,1
+9811,"Rachel, it's not that your friend is bad, it's that she's so bad, she makes me want to put my finger through my eye into my brain and swirl it around.",Terry,disgust,negative,976,9,2,6,"00:05:23,448","00:05:36,626",0,1,261,0.0,0.0,1.0,1.0,1
+9834,Rachel! Rachel!,Friend No. 2,joy,positive,978,4,3,6,"00:22:14,916","00:22:16,000",1,1,262,0.0,0.0,1.0,1.0,1
+9840,Awwwww,Her-Friends,joy,positive,978,10,3,6,"00:22:31,224","00:22:32,725",1,1,262,0.0,0.8838095238095238,1.0,0.0,2
+9883,"Well, I think uhh, someone out there may have been bad mouthing you all over town.",Estelle,sadness,negative,985,3,6,4,"00:09:30,486","00:09:39,494",0,0,263,0.0,0.0,1.0,1.0,1
+9956,"Well, hats off to the chef.",The Cooking Teacher,joy,positive,991,11,8,21,"00:13:38,151","00:13:39,986",1,1,264,0.0,0.0,1.0,1.0,1
+9958,The chef!,The Cooking Teacher,joy,positive,991,13,8,21,"00:13:43,365","00:13:45,450",1,1,264,0.0,0.8838095238095238,1.0,0.0,2
+9969,Yeah. Hate him.,All,disgust,negative,992,9,1,13,"00:16:17,559","00:16:18,726",0,1,265,0.0,0.0,1.0,1.0,1
+9974,"...No, we hate him.",All,disgust,negative,992,14,1,13,"00:16:27,653","00:16:29,445",0,1,265,0.0,0.8838095238095238,1.0,0.0,2
+9996,"I realize that people are going to be disappointed. But, Im sure theyll come back when we can do it right.",Emily,sadness,negative,996,6,4,23,"00:11:17,134","00:11:23,014",0,0,266,0.0,0.0,1.0,1.0,1
+9998,Dont you point your pants at me!,Emily,anger,negative,996,8,4,23,"00:11:26,852","00:11:28,436",0,1,266,0.3645833333333333,0.0,0.0,1.0,1
+9999,We have no choice!,Emily,anger,negative,996,9,4,23,"00:11:30,481","00:11:31,981",0,1,266,0.0,0.6118681318681318,1.0,0.3076923076923077,2
+10000,"Anywhere thats half-decent wouldve be booked months ago, Ross dont you understand?",Emily,anger,negative,996,10,4,23,"00:11:32,141","00:11:37,779",0,1,266,0.0,0.765968253968254,1.0,0.13333333333333333,3
+10001,This is our wedding Im talking about.,Emily,anger,negative,996,11,4,23,"00:11:35,236","00:11:37,779",0,1,266,0.0,0.7365079365079366,1.0,0.16666666666666666,4
+10003,So what are you saying? Its now or never?,Emily,anger,negative,996,13,4,23,"0:11:42,827","0:11:44,709",0,1,266,0.0,0.6363428571428571,1.0,0.28,5
+10005,Or?,Emily,anger,negative,996,15,4,23,"0:11:45,891","0:11:46,033",0,1,266,0.0,0.7891156462585035,1.0,0.10714285714285714,6
+10007,Its not the pants.,Emily,anger,negative,996,17,4,23,"0:11:53,003","0:11:55,685",0,1,266,0.0,0.6874074074074075,1.0,0.2222222222222222,7
+10008,Its you that is backwards.,Emily,anger,negative,996,18,4,23,"0:11:55,685","0:11:55,841",0,1,266,0.0,0.8372932330827069,1.0,0.05263157894736842,8
+10009,"And if, and if you dont understand how important this is to me, well then, perhaps we shouldnt get married at all!",Emily,anger,negative,996,19,4,23,"00:11:55,965","00:12:01,594",0,1,266,0.0,0.8838095238095238,1.0,0.0,9
+10069,Great! How about you wanted to go the Italian place down on Bleaker Street right?,Larry,joy,positive,1005,2,5,7,"00:14:45,926","00:14:50,388",1,1,267,0.0,0.0,1.0,1.0,1
+10073,I wonder how long that milk  has been setting out.,Larry,disgust,negative,1005,6,5,7,"00:15:00,482","00:15:03,318",0,1,267,0.0,0.8838095238095238,1.0,0.0,2
+10078,"Hey, buddy!  Are you familiar with Section 11-B of the Health Code that requires all refuse material out the",Larry,anger,negative,1005,11,5,7,"00:15:21,045","00:15:27,675",0,1,267,0.0,0.8838095238095238,1.0,0.0,3
+10080,"Oh, so you're saying you'd choose convenience over health?!",Larry,disgust,negative,1005,13,5,7,"00:15:30,387","00:15:33,097",0,1,267,0.0,0.8838095238095238,1.0,0.0,4
+10144,"No, no!",All,disgust,negative,1010,3,3,25,"0:07:11,097","0:07:12,109",0,1,268,0.0,0.0,1.0,1.0,1
+10168,"Umm, I'm actually a first year resident, but I get that a lot, you see, I-I graduated early",Dr. Oberman,joy,positive,1012,2,5,3,"00:08:11,824","00:08:15,410",1,1,269,0.0,0.0,1.0,1.0,1
+10170,"Oh no, I'm fully qualified to",Dr. Oberman,joy,positive,1012,4,5,3,"00:08:22,376","00:08:24,044",1,1,269,0.0,0.8838095238095238,1.0,0.0,2
+10177,Oh cool! You made him cry!,Frank,joy,positive,1012,11,5,3,"00:08:38,684","00:08:41,019",1,1,269,0.0,0.8838095238095238,1.0,0.0,3
+10189,Loved your Stevie Wonder last night.,Petrie,joy,positive,1015,2,1,22,"00:19:47,811","00:19:50,271",1,1,270,0.0,0.0,1.0,1.0,1
+10201,"Ah, Susan will be so pleased.",Carol,joy,positive,1016,4,3,17,"00:14:58,898","00:15:01,149",1,1,271,0.0,0.0,1.0,1.0,1
+10216,"So you can either sulk here for a half hour and then go pick them up, or save us both time and sulk in the car.",Carol,anger,negative,1016,18,3,17,"00:15:59,917","00:16:06,047",0,1,271,0.0,0.8838095238095238,1.0,0.0,2
+10317,Hi!,The Potential Roommate,joy,positive,1024,1,6,3,"0:21:00,348","0:21:00,805",1,1,272,0.0,0.0,1.0,1.0,1
+10320,Great!,The Potential Roommate,joy,positive,1024,4,6,3,"00:21:09,476","00:21:11,978",1,1,272,0.0,0.8838095238095238,1.0,0.0,2
+10383,Thats a good one.,Ben,joy,positive,1029,2,7,16,"00:04:08,498","00:04:09,623",1,1,273,0.0,0.0,1.0,1.0,1
+10385,"Yeah, youre funny.",Ben,joy,positive,1029,4,7,16,"0:04:12,877","0:04:13,473",1,1,273,0.0,0.8838095238095238,1.0,0.0,2
+10398,Is this about me taking your watch?,Chloe,sadness,negative,1030,1,3,16,"00:08:20,625","00:08:22,709",0,0,274,0.0,0.0,1.0,1.0,1
+10400,"Im sorry, I do that.",Chloe,sadness,negative,1030,3,3,16,"0:08:24,885","0:08:26,933",0,0,274,0.3645833333333333,0.0,0.0,1.0,2
+10406,Bing! You got those numbers for me?,Doug,joy,positive,1031,3,3,24,"00:15:29,511","00:15:31,971",1,1,275,0.0,0.0,1.0,1.0,1
+10414,"Ehh, y'know after high school, you just kinda lose touch. Oh yeah! I ran into Richard Dorfman.",Chip,joy,positive,1032,7,4,2,"00:15:22,630","00:15:29,010",1,1,276,0.0,0.0,1.0,1.0,1
+10438,"Umm, slight change of plans. We've shut down.",Stanley,sadness,negative,1036,1,5,22,"00:19:21,201","00:19:25,371",0,0,277,0.0,0.0,1.0,1.0,1
+10440,"It's a money thing, we don't have any.",Stanley,sadness,negative,1036,3,5,22,"00:19:27,666","00:19:30,001",0,0,277,0.3645833333333333,0.0,0.0,1.0,2
+10447,A week?,Stanley,anger,negative,1036,10,5,22,"0:19:45,700","0:19:46,118",0,1,277,0.3645833333333333,0.0,0.0,1.0,1
+10462,Hey!,All,joy,positive,1038,1,2,3,"0:00:05,673","0:00:06,967",1,1,278,0.0,0.0,1.0,1.0,1

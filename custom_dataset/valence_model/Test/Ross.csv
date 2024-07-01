@@ -1,0 +1,155 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal,Scene_ID,Influence_0,Influence_1,ElapsedTime_0,ElapsedTime_1,Sequence_Length
+29,"Uhh, yes I did but there isn't. Okay, here we go.",Ross,sadness,negative,2,2,5,16,"00:07:30,741","00:07:34,119",0,0,1,0.0,0.0,1.0,1.0,1
+32,"Oh okay, lift it straight up over your head!",Ross,anger,negative,2,5,5,16,"00:07:43,963","00:07:46,047",0,1,1,0.7216494845360825,0.0,0.0,1.0,2
+33,Straight up over your head!,Ross,anger,negative,2,6,5,16,"0:07:46,215","0:07:47,777",0,1,1,0.7216494845360825,0.0,0.0,1.0,3
+34,You can do it!,Ross,joy,positive,2,7,5,16,"0:07:47,777","0:07:48,648",1,1,1,0.7216494845360825,0.0,0.0,1.0,1
+35,You can do it!,Ross,joy,positive,2,8,5,16,"00:07:48,759","00:07:50,010",1,1,1,0.0,0.25892857142857145,1.0,0.5,2
+39,"No wait, look. Look! I'm sorry, it's just I've never even",Ross,fear,negative,3,1,5,15,"00:06:02,153","00:06:06,823",0,1,2,0.0,0.0,1.0,1.0,1
+43,"Ugh, can you believe that guy!",Ross,disgust,negative,3,5,5,15,"00:06:26,177","00:06:28,178",0,1,2,0.7216494845360825,0.0,0.0,1.0,2
+111,"Whats all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!",Ross,anger,negative,12,0,6,3,"00:12:31,167","00:12:39,966",0,1,3,0.0,0.0,1.0,1.0,1
+113,"Well, apparently not, and I cant just stand by and watch two people I care about very much be hurt over something that is so silly.",Ross,sadness,negative,12,2,6,3,"00:12:44,805","00:12:53,271",0,0,3,0.7216494845360825,0.0,0.0,1.0,2
+114,"I mean, enough of the silliness!",Ross,anger,negative,12,3,6,3,"0:12:55,691","0:12:58,073",0,1,3,0.7216494845360825,0.0,0.0,1.0,3
+116,Okay-okay!,Ross,anger,negative,12,5,6,3,"00:13:02,923","00:13:04,741",0,1,3,0.7216494845360825,0.0,0.0,1.0,4
+117,"Two very good points, look Ive known you both a long time, and Ive never seen either of you one/millionth as happy as youve been since youve got together.",Ross,sadness,negative,12,6,6,3,"00:13:06,243","00:13:19,464",0,0,3,0.7216494845360825,0.0,0.0,1.0,5
+118,Do you really want to throw that all away over a room?,Ross,sadness,negative,12,7,6,3,"00:13:20,633","00:13:24,385",0,0,3,0.7216494845360825,0.0,0.0,1.0,6
+119,That is so silly.,Ross,joy,positive,12,8,6,3,"00:13:24,553","00:13:26,846",1,1,3,0.7216494845360825,0.0,0.0,1.0,1
+130,Good! A verbal contract is binding in the state of New York!,Ross,joy,positive,12,19,6,3,"00:14:00,548","00:14:04,217",1,1,3,0.0,0.05178571428571428,1.0,0.9,2
+184,Four percent. Okay. I tip more than that when theres a bug in my food.,Ross,disgust,negative,17,12,3,7,"00:13:48,077","00:13:52,580",0,1,4,0.0,0.0,1.0,1.0,1
+186,"Yeah, Im gonna go to a doctor who went to school in a mini-mall.",Ross,disgust,negative,17,14,3,7,"00:13:58,796","00:14:02,882",0,1,4,0.7216494845360825,0.0,0.0,1.0,2
+196,"Look, honey, I have tried to make nice, it doesnt work.",Ross,anger,negative,17,24,3,7,"00:14:38,294","00:14:41,546",0,1,4,0.7216494845360825,0.0,0.0,1.0,3
+198,"Look sweetie, I could be the bigger man, I could be the biggest man, I could be a big, huge, giant man, and it still wouldnt make any difference, except that I could pick your Father up and say Like me!",Ross,anger,negative,17,26,3,7,"00:14:47,845","00:15:00,023",0,1,4,0.7216494845360825,0.0,0.0,1.0,4
+199,Like me tiny doctor!,Ross,anger,negative,17,27,3,7,"00:14:55,644","00:15:00,023",0,1,4,0.7216494845360825,0.0,0.0,1.0,5
+201,"Rachel one brunch is not gonna solve anything. You gotta face it, okay were never gonna get along.",Ross,anger,negative,17,29,3,7,"00:15:05,487","00:15:10,575",0,1,4,0.7216494845360825,0.0,0.0,1.0,6
+263,"Hey, you guys! Guess what?",Ross,joy,positive,25,6,3,21,"00:04:23,763","00:04:25,722",1,1,5,0.0,0.0,1.0,1.0,1
+265,"Y'know what I didnt wear this suit for a year because you hated it. Well, guess what? Youre not my girlfriend anymore so...",Ross,anger,negative,25,8,3,21,"00:04:33,564","00:04:38,902",0,1,5,0.0,0.5178571428571429,1.0,0.0,1
+274,"Okay, good bye!",Ross,anger,negative,25,16,3,21,"00:04:57,714","00:04:58,797",0,1,5,0.2122498483929654,0.0,0.7058823529411765,1.0,2
+304,"No, but I want...I want the pinecones!",Ross,joy,positive,29,7,9,19,"0:17:22,270","0:17:25,107",1,1,6,0.0,0.0,1.0,1.0,1
+308,Thank you for a delightful stay.,Ross,joy,positive,29,11,9,19,"00:17:39,350","00:17:42,145",1,1,6,0.0,0.5178571428571429,1.0,0.0,2
+309,"Oh, my maple candy!",Ross,joy,positive,29,12,9,19,"00:17:50,653","00:17:53,615",1,1,6,0.0,0.5178571428571429,1.0,0.0,3
+362,We're here!,Ross,joy,positive,35,1,1,23,"0:17:07,944","0:17:08,084",1,1,7,0.0,0.0,1.0,1.0,1
+412,"Thank you, thanks.",Ross,joy,positive,42,0,4,7,"00:21:19,569","00:21:21,779",1,1,8,0.0,0.0,1.0,1.0,1
+413,"Yeah, I lost it.",Ross,sadness,negative,42,1,4,7,"00:21:25,325","00:21:26,826",0,0,8,0.0,0.5178571428571429,1.0,0.0,1
+418,I played bad on purpose guys.,Ross,joy,positive,42,6,4,7,"0:21:51,071","0:21:54,251",1,1,8,0.13530927835051546,0.0,0.8125,1.0,1
+478,"Yeah, cheerie-o!",Ross,joy,positive,48,5,4,23,"0:02:12,048","0:02:14,134",1,1,9,0.0,0.0,1.0,1.0,1
+515,Ezel!  Hey Gunther! Youre an ezel!,Ross,anger,negative,52,10,8,7,"00:10:55,613","00:10:59,324",0,1,10,0.0,0.0,1.0,1.0,1
+516,Damnit!,Ross,anger,negative,52,11,8,7,"00:11:02,578","00:11:04,425",0,1,10,0.7216494845360825,0.0,0.0,1.0,2
+533,"Fine, Im mentally unstable.",Ross,anger,negative,54,3,6,5,"00:10:42,433","00:10:45,602",0,1,11,0.0,0.0,1.0,1.0,1
+537,Crack isnt even an intravenous drug!,Ross,anger,negative,54,7,6,5,"00:10:55,946","00:10:58,406",0,1,11,0.7216494845360825,0.0,0.0,1.0,2
+540,"Oh, come on!",Ross,sadness,negative,54,10,6,5,"0:11:07,792","0:11:09,127",0,0,11,0.7216494845360825,0.0,0.0,1.0,3
+551,"Come on! Come on! Here, okay-okay, you see this?  This tiny thing that looks like a peanut?",Ross,joy,positive,56,5,8,3,"00:20:37,861","00:20:43,199",1,1,12,0.0,0.0,1.0,1.0,1
+553,Sweetie thats it.,Ross,joy,positive,56,7,8,3,"00:20:45,994","00:20:47,787",1,1,12,0.0,0.5178571428571429,1.0,0.0,2
+557,"Yeah, thats our baby.",Ross,joy,positive,56,11,8,3,"0:21:08,396","0:21:08,907",1,1,12,0.0,0.5178571428571429,1.0,0.0,3
+601,"Oh, what are you going to do, follow me down there?",Ross,anger,negative,64,3,6,12,"00:05:56,022","00:05:57,481",0,1,13,0.0,0.0,1.0,1.0,1
+630,"Ohh, it was the best!",Ross,joy,positive,66,4,5,23,"0:22:00,867","0:22:03,853",1,1,14,0.0,0.0,1.0,1.0,1
+665,"What do you think you're gonna do, have sex with her right here    on my couch?",Ross,disgust,negative,70,9,9,12,"00:16:23,565","00:16:27,735",0,1,15,0.0,0.0,1.0,1.0,1
+719,"Okay, I know what I have to do. Ive got to go Red Ross.  Yknow, Red Ross!",Ross,anger,negative,73,8,4,15,"00:11:57,717","00:12:01,094",0,1,16,0.0,0.0,1.0,1.0,1
+721,Come on! The time we were all waiting in line for,Ross,anger,negative,73,10,4,15,"00:12:07,852","00:12:10,979",0,1,16,0.7216494845360825,0.0,0.0,1.0,2
+755,That cup is mine!,Ross,anger,negative,77,2,3,9,"00:12:19,155","00:12:20,280",0,1,17,0.0,0.0,1.0,1.0,1
+767,They published my paper.,Ross,joy,positive,78,7,3,1,"00:08:36,641","00:08:38,517",1,1,18,0.0,0.0,1.0,1.0,1
+783,"So, hes just a nice guy. You really think this Mark doesnt want anything in exchange for helping him?",Ross,joy,positive,81,0,3,11,"00:09:10,967","00:09:17,973",1,1,19,0.0,0.0,1.0,1.0,1
+796,You see what men do! Dont tell me men are not nice!  This is men!!,Ross,anger,negative,83,10,3,11,"00:10:05,104","00:10:09,566",0,1,20,0.0,0.0,1.0,1.0,1
+811,It tastes like feet!,Ross,disgust,negative,86,5,6,9,"00:17:20,539","00:17:22,582",0,1,21,0.0,0.0,1.0,1.0,1
+834,She is not  Shes gay. Oh my God. She is,Ross,anger,negative,90,1,6,16,"00:19:11,233","00:19:27,957",0,1,22,0.0,0.0,1.0,1.0,1
+836,Im sorry your husband cheated on you.,Ross,sadness,negative,90,3,6,16,"00:19:39,595","00:19:41,888",0,0,22,0.7216494845360825,0.0,0.0,1.0,2
+838,Try telling my wife that.,Ross,sadness,negative,90,5,6,16,"00:19:46,852","00:19:50,563",0,0,22,0.7216494845360825,0.0,0.0,1.0,3
+874,"Yeah, but you're making me look bad!",Ross,anger,negative,95,9,5,15,"00:13:30,309","00:13:32,435",0,1,23,0.0,0.0,1.0,1.0,1
+976,Hey!,Ross,joy,positive,103,0,8,4,"0:06:50,993","0:06:52,912",1,1,24,0.0,0.0,1.0,1.0,1
+978,"Do you have a minute? Id like to talk to you about something Im, Im really uncomfortable talking about.",Ross,fear,negative,103,2,8,4,"00:06:55,164","00:07:00,127",0,1,24,0.0,0.5178571428571429,1.0,0.0,1
+980,"I actually had a topic in mind! Im, Im kinda going through a dry spell, sex wise.",Ross,anger,negative,103,4,8,4,"00:07:08,553","00:07:20,355",0,1,24,0.2004581901489118,0.0,0.7222222222222222,1.0,2
+995,"Nooo, I had to return it to the costume place.",Ross,sadness,negative,107,3,3,1,"00:05:57,857","00:06:00,609",0,0,25,0.0,0.0,1.0,1.0,1
+997,I think I have an old band uniform from high school.,Ross,joy,positive,107,5,3,1,"00:06:02,070","00:06:04,196",1,1,25,0.7216494845360825,0.0,0.0,1.0,1
+999,Yeah.,Ross,sadness,negative,107,7,3,1,"00:06:07,492","00:06:09,368",0,0,25,0.0,0.25892857142857145,1.0,0.5,1
+1028,"Well, I think it's perfect.",Ross,joy,positive,110,4,1,19,"00:05:23,114","00:05:25,907",1,1,26,0.0,0.0,1.0,1.0,1
+1031,"Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.",Ross,joy,positive,110,7,1,19,"00:05:39,672","00:05:47,554",1,1,26,0.0,0.5178571428571429,1.0,0.0,2
+1071,Monica! Stop throwing it so hard! We're on the same team!,Ross,anger,negative,113,0,5,21,"00:11:29,939","00:11:35,902",0,1,27,0.0,0.0,1.0,1.0,1
+1097,Shielding your face and shrieking like a girl... is not a backhand.,Ross,disgust,negative,115,3,3,10,"00:01:49,901","00:01:55,364",0,1,28,0.0,0.0,1.0,1.0,1
+1113,Its a great class.,Ross,joy,positive,117,1,6,17,"0:19:02,933","0:19:03,855",1,1,29,0.0,0.0,1.0,1.0,1
+1117,"Umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do next?",Ross,fear,negative,117,5,6,17,"00:19:15,320","00:19:20,074",0,1,29,0.0,0.5178571428571429,1.0,0.0,1
+1119,No. No-no. No. What would,Ross,anger,negative,117,7,6,17,"00:19:22,953","00:19:25,997",0,1,29,0.4690721649484536,0.0,0.35,1.0,2
+1267,"Ohh, God, nobody likes him, and hes so cheap, hed never fly to London in a million years.",Ross,disgust,negative,130,1,4,21,"00:02:32,026","00:02:38,323",0,1,30,0.0,0.0,1.0,1.0,1
+1271,Yeah?,Ross,joy,positive,130,5,4,21,"0:02:46,255","0:02:46,751",1,1,30,0.7216494845360825,0.0,0.0,1.0,1
+1277,"Wait-wait-wait, do you, do you think, maybe we shouldnt invite her?",Ross,fear,negative,130,11,4,21,"00:03:02,140","00:03:04,808",0,1,30,0.0,0.2416666666666667,1.0,0.5333333333333333,1
+1315,Hi!,Ross,joy,positive,133,0,4,1,"00:00:45,670","00:00:46,795",1,1,31,0.0,0.0,1.0,1.0,1
+1318,Awww.,Ross,joy,positive,133,3,4,1,"00:00:53,094","00:00:54,470",1,1,31,0.0,0.5178571428571429,1.0,0.0,2
+1327,"Well, I-I gotta go break up with Bonnie.",Ross,sadness,negative,133,12,4,1,"00:01:24,042","00:01:26,919",0,0,31,0.0,0.5178571428571429,1.0,0.0,1
+1330,"I cant-I cant stay here all night, and if I go in there shes-shes gonna wanna... do stuff.",Ross,fear,negative,133,15,4,1,"0:01:29,767","0:01:31,517",0,1,31,0.6214203894616266,0.0,0.1388888888888889,1.0,2
+1333,"Ohh, man! Chicago, is sooo lucky!",Ross,joy,positive,134,2,4,9,"00:06:10,453","00:06:14,623",1,1,32,0.0,0.0,1.0,1.0,1
+1360,Who cares? I repel women.,Ross,disgust,negative,138,1,6,7,"00:15:16,081","00:15:18,708",0,1,33,0.0,0.0,1.0,1.0,1
+1366,Hi Jill!,Ross,joy,positive,139,3,6,13,"0:18:59,012","0:19:00,013",1,1,34,0.0,0.0,1.0,1.0,1
+1374,"I'm sorry, man.",Ross,sadness,negative,140,1,5,10,"00:05:51,559","00:05:53,643",0,0,35,0.0,0.0,1.0,1.0,1
+1378,Write a movie!,Ross,joy,positive,140,5,5,10,"0:06:00,985","0:06:02,367",1,1,35,0.7216494845360825,0.0,0.0,1.0,1
+1406,"Yes, yes it is. Its uh  Every time on the lips! Why?! Why on lips?!",Ross,anger,negative,144,0,7,11,"00:17:14,742","00:17:18,995",0,1,36,0.0,0.0,1.0,1.0,1
+1408,"Now wait a minute, you be nice! All right? I didnt bring you here so you can ambush her.",Ross,anger,negative,144,2,7,11,"00:17:25,127","00:17:29,547",0,1,36,0.7216494845360825,0.0,0.0,1.0,2
+1410,That bitch!,Ross,anger,negative,144,4,7,11,"00:17:33,093","00:17:34,302",0,1,36,0.7216494845360825,0.0,0.0,1.0,3
+1434,"Hey! Oh listen, I was just clearing some space for your stuff.",Ross,joy,positive,146,0,6,3,"00:12:00,928","00:12:03,304",1,1,37,0.0,0.0,1.0,1.0,1
+1440,"Oh no, yeah no, that parts great!",Ross,joy,positive,146,6,6,3,"00:12:26,287","00:12:28,913",1,1,37,0.0,0.5178571428571429,1.0,0.0,2
+1485,Hi!,Ross,joy,positive,154,1,8,11,"00:01:57,492","00:01:58,909",1,1,38,0.0,0.0,1.0,1.0,1
+1487,"Oh great! Hey-hey Joey, do you want to check out pictures of me and Mona ice skating?",Ross,joy,positive,154,3,8,11,"00:02:01,121","00:02:04,706",1,1,38,0.0,0.5178571428571429,1.0,0.0,2
+1494,Wow!,Ross,joy,positive,154,10,8,11,"0:02:39,039","0:02:40,641",1,1,38,0.0,0.5178571428571429,1.0,0.0,3
+1495,That is a good one!,Ross,joy,positive,154,11,8,11,"0:02:40,641","0:02:41,920",1,1,38,0.0,0.5178571428571429,1.0,0.0,4
+1496,"Wow, it looks like a, like a holiday card yknow, with the tree in the middle and the skaters and the snow.",Ross,joy,positive,154,12,8,11,"00:02:41,995","00:02:48,292",1,1,38,0.0,0.5178571428571429,1.0,0.0,5
+1501,Okay.,Ross,joy,positive,154,17,8,11,"00:03:05,727","00:03:08,353",1,1,38,0.0,0.5178571428571429,1.0,0.0,6
+1505,"I mean, I dont feel like I even have a girlfriend anymore.",Ross,anger,negative,155,0,3,15,"00:11:51,961","00:11:54,587",0,1,39,0.0,0.0,1.0,1.0,1
+1567,"Oh, I found it!",Ross,joy,positive,161,3,3,16,"00:04:06,162","00:04:07,204",1,1,40,0.0,0.0,1.0,1.0,1
+1572,"Oh, thank you.  Hey, hey.  Rachel!!!!",Ross,joy,positive,161,6,3,16,"0:04:18,091","0:04:25,406",1,1,40,0.0,0.5178571428571429,1.0,0.0,2
+1576,"Yes, you can, very much.",Ross,joy,positive,161,10,3,16,"00:04:34,357","00:04:35,941",1,1,40,0.0,0.5178571428571429,1.0,0.0,3
+1584,Yknow I dont understand why they didnt cry. It was a beautiful speech.,Ross,sadness,negative,163,0,8,18,"00:21:14,261","00:21:18,014",0,0,41,0.0,0.0,1.0,1.0,1
+1586,Hey!,Ross,sadness,negative,163,2,8,18,"0:21:19,105","0:21:21,360",0,0,41,0.7216494845360825,0.0,0.0,1.0,2
+1587,"All that stuff you said about true love, you were right, I mean, we did learn a lot from Mom and Dad!",Ross,joy,positive,163,3,8,18,"00:21:21,601","00:21:26,106",1,1,41,0.7216494845360825,0.0,0.0,1.0,1
+1590,"Ohh, yeah she really wouldve wanted to be there.",Ross,sadness,negative,163,6,8,18,"00:21:32,028","00:21:36,700",0,0,41,0.0,0.07967032967032968,1.0,0.8461538461538461,1
+1651,Wheres my ring? My dead grandmothers wedding ring? Where is it? Where is it?,Ross,fear,negative,168,8,4,22,"00:16:07,633","00:16:11,678",0,1,42,0.0,0.0,1.0,1.0,1
+1656,We know you took so just-just save yourself the time and confess!,Ross,anger,negative,168,13,4,22,"00:16:27,319","00:16:30,488",0,1,42,0.7216494845360825,0.0,0.0,1.0,2
+1691,No!,Ross,anger,negative,171,0,6,10,"00:15:34,934","00:15:36,517",0,1,43,0.0,0.0,1.0,1.0,1
+1726,Hi! Its me.,Ross,sadness,negative,174,4,3,15,"0:17:51,119","0:17:52,661",0,0,44,0.0,0.0,1.0,1.0,1
+1728,"Really? Ive been thinking, this is crazy, I mean dont, dont you think we can work on this?",Ross,sadness,negative,174,6,3,15,"00:17:56,658","00:17:59,994",0,0,44,0.7216494845360825,0.0,0.0,1.0,2
+1735,Yeah! Got it!,Ross,anger,negative,174,13,3,15,"0:18:15,553","0:18:17,109",0,1,44,0.7216494845360825,0.0,0.0,1.0,3
+1737,"Ah, thats okay, thanks.",Ross,sadness,negative,174,15,3,15,"00:18:25,270","00:18:28,022",0,0,44,0.7216494845360825,0.0,0.0,1.0,4
+1739,"Look, I dont feel like dancing, I feel like having a drink. Okay?",Ross,sadness,negative,174,17,3,15,"00:18:32,694","00:18:35,780",0,0,44,0.7216494845360825,0.0,0.0,1.0,5
+1789,Second date!,Ross,joy,positive,180,6,1,20,"00:22:20,213","00:22:22,006",1,1,45,0.0,0.0,1.0,1.0,1
+1860,Sweet!,Ross,joy,positive,185,6,8,7,"0:10:21,621","0:10:22,331",1,1,46,0.0,0.0,1.0,1.0,1
+1923,"Yes, I made it!",Ross,joy,positive,193,0,8,12,"0:17:21,248","0:17:22,250",1,1,47,0.0,0.0,1.0,1.0,1
+1924,Im on time!,Ross,joy,positive,193,1,8,12,"0:17:22,250","0:17:23,980",1,1,47,0.0,0.5178571428571429,1.0,0.0,2
+1946,"Okay, that's it. I cannot make this decision! It is",Ross,anger,negative,196,0,5,4,"00:14:47,720","00:14:51,848",0,1,48,0.0,0.0,1.0,1.0,1
+1949,"Well, I don't know what else to do.",Ross,sadness,negative,196,3,5,4,"00:15:05,863","00:15:08,406",0,0,48,0.7216494845360825,0.0,0.0,1.0,2
+1950,"I mean, I either keep my wife and lose one of my-my-my best friends or I keep my friend and get divorced the second time before I'm 30!",Ross,anger,negative,196,4,5,4,"00:15:08,574","00:15:16,873",0,1,48,0.7216494845360825,0.0,0.0,1.0,3
+1951,"So-so if anyone has-has a better suggestion, let's hear it!",Ross,anger,negative,196,5,5,4,"00:15:17,041","00:15:20,276",0,1,48,0.7216494845360825,0.0,0.0,1.0,4
+1952,'Cause I-I got nothing!,Ross,anger,negative,196,6,5,4,"0:15:20,544","0:15:22,129",0,1,48,0.7216494845360825,0.0,0.0,1.0,5
+1953,"All right, don't be shy, any suggestion will do.",Ross,anger,negative,196,7,5,4,"0:15:22,129","0:15:25,657",0,1,48,0.7216494845360825,0.0,0.0,1.0,6
+1958,Later is not good enough.,Ross,anger,negative,196,12,5,4,"00:15:50,157","00:15:53,660",0,1,48,0.7216494845360825,0.0,0.0,1.0,7
+1960,What the hell!,Ross,anger,negative,196,14,5,4,"00:16:00,668","00:16:01,709",0,1,48,0.7216494845360825,0.0,0.0,1.0,8
+1961,This is broken!,Ross,anger,negative,196,15,5,4,"0:16:01,877","0:16:04,859",0,1,48,0.7216494845360825,0.0,0.0,1.0,9
+1962,It-it is broken!,Ross,anger,negative,196,16,5,4,"0:16:04,859","0:16:05,227",0,1,48,0.7216494845360825,0.0,0.0,1.0,10
+1970,"Ah...ooh! Well, looks like, uh, we kicked your butts.",Ross,joy,positive,198,1,1,12,"00:17:08,402","00:17:11,279",1,1,49,0.0,0.0,1.0,1.0,1
+1997,Hey!,Ross,joy,positive,199,15,4,20,"00:19:04,977","00:19:06,018",1,1,50,0.0,0.0,1.0,1.0,1
+2073,"What. Oh no, you just rolled over the juice box.",Ross,sadness,negative,207,1,2,15,"00:20:53,418","00:20:58,673",0,0,51,0.0,0.0,1.0,1.0,1
+2166,"But we-we didnt havesex-uh, did we?",Ross,fear,negative,217,6,6,1,"00:03:02,974","00:03:08,770",0,1,52,0.0,0.0,1.0,1.0,1
+2292,Hi!,Ross,sadness,negative,232,9,5,4,"00:06:39,732","00:06:41,149",0,0,53,0.0,0.0,1.0,1.0,1
+2430,"Sure, your dresser is missing but this she notices.",Ross,anger,negative,244,15,3,6,"00:03:23,077","00:03:25,871",0,1,54,0.0,0.0,1.0,1.0,1
+2436,"Yeah, y'know how I have you guys, well she doesnt really have any close friends that are just hers, but last week she meet this woman at the gym, Susan something, and they really hit it off, and I-I-I think its gonna make a difference",Ross,joy,positive,244,21,3,6,"00:03:42,722","00:03:55,067",1,1,54,0.7216494845360825,0.0,0.0,1.0,1
+2487,Fine!,Ross,anger,negative,252,1,4,1,"0:11:48,290","0:11:49,417",0,1,55,0.0,0.0,1.0,1.0,1
+2488,Fine!,Ross,anger,negative,252,2,4,1,"0:11:49,417","0:11:49,555",0,1,55,0.7216494845360825,0.0,0.0,1.0,2
+2489,"But this break-up was not all my fault, and she, she says here,  If you accept full responsibility...  Full responsibility!",Ross,anger,negative,252,3,4,1,"00:11:49,667","00:11:56,715",0,1,55,0.7216494845360825,0.0,0.0,1.0,3
+2490,...I can begin to trust you again.,Ross,anger,negative,252,4,4,1,"00:11:56,882","00:11:58,842",0,1,55,0.7216494845360825,0.0,0.0,1.0,4
+2491,Does that seem like something you can do.,Ross,anger,negative,252,5,4,1,"0:11:59,009","0:12:01,137",0,1,55,0.7216494845360825,0.0,0.0,1.0,5
+2492,Does it?!,Ross,anger,negative,252,6,4,1,"0:12:01,137","0:12:02,579",0,1,55,0.7216494845360825,0.0,0.0,1.0,6
+2497,"Yeah, I know.",Ross,sadness,negative,252,10,4,1,"0:12:14,734","0:12:15,656",0,0,55,0.7216494845360825,0.0,0.0,1.0,7
+2498,"I mean, no, youre right.",Ross,sadness,negative,252,11,4,1,"0:12:15,656","0:12:17,871",0,0,55,0.7216494845360825,0.0,0.0,1.0,8
+2500,But you-you understand how-how hard it is to forget about this.,Ross,sadness,negative,252,13,4,1,"00:12:20,614","00:12:24,033",0,0,55,0.7216494845360825,0.0,0.0,1.0,9
+2521,"Yeah, save it for the cab, okay.",Ross,disgust,negative,254,2,1,22,"0:21:47,973","0:21:50,159",0,1,56,0.0,0.0,1.0,1.0,1
+2524,"Joey, get out of the fridge.",Ross,anger,negative,254,5,1,22,"0:21:56,732","0:21:58,109",0,1,56,0.7216494845360825,0.0,0.0,1.0,2
+2533,"That's nice. Get out Let's go, come on.",Ross,disgust,negative,254,14,1,22,"00:22:13,749","00:22:17,710",0,1,56,0.7216494845360825,0.0,0.0,1.0,3
+2568,I-I studied evolution.,Ross,joy,positive,259,2,6,12,"0:16:42,001","0:16:43,605",1,1,57,0.0,0.0,1.0,1.0,1
+2569,"Remember, evolution?",Ross,joy,positive,259,3,6,12,"00:16:43,794","00:16:45,211",1,1,57,0.0,0.5178571428571429,1.0,0.0,2
+2570,Monkey into man?,Ross,anger,negative,259,4,6,12,"00:16:45,462","00:16:47,005",0,1,57,0.0,0.5178571428571429,1.0,0.0,1
+2572,Im Doctor Monkey!,Ross,anger,negative,259,6,6,12,"00:16:54,346","00:16:56,264",0,1,57,0.13120899718837858,0.0,0.8181818181818182,1.0,2
+2594,Yeah!,Ross,joy,positive,261,1,5,10,"0:06:38,190","0:06:38,952",1,1,58,0.0,0.0,1.0,1.0,1
+2624,She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.,Ross,sadness,negative,263,5,1,21,"00:08:05,818","00:08:09,070",0,0,59,0.0,0.0,1.0,1.0,1
+2626,"She says as time goes on, he's gonna start getting agressive and violent.",Ross,sadness,negative,263,7,1,21,"00:08:15,912","00:08:20,916",0,0,59,0.7216494845360825,0.0,0.0,1.0,2
+2628,I'm gonna have to give him up.,Ross,sadness,negative,263,9,1,21,"00:08:24,962","00:08:26,421",0,0,59,0.7216494845360825,0.0,0.0,1.0,3
+2644,I just want this to be  about what it is!,Ross,joy,positive,266,8,5,23,"00:10:28,210","00:10:34,758",1,1,60,0.0,0.0,1.0,1.0,1
+2646,The physical act of love.,Ross,joy,positive,266,10,5,23,"00:10:42,391","00:10:45,018",1,1,60,0.0,0.5178571428571429,1.0,0.0,2
+2650,You weren't trying to entice me with your nakedness.,Ross,joy,positive,266,14,5,23,"00:11:02,119","00:11:06,289",1,1,60,0.0,0.5178571428571429,1.0,0.0,3
+2652,No! No!  No!  No-no-no-no.,Ross,joy,positive,266,16,5,23,"00:11:15,758","00:11:26,184",1,1,60,0.0,0.5178571428571429,1.0,0.0,4
+2684,"Fine. Fine, alright, now you'll never know.",Ross,anger,negative,269,1,1,6,"00:07:26,529","00:07:28,530",0,1,61,0.0,0.0,1.0,1.0,1
+2698,"Hey, hey, Yertle the Turtle. A classic.",Ross,joy,positive,270,10,1,9,"00:05:49,307","00:05:53,185",1,1,62,0.0,0.0,1.0,1.0,1
+2756,"Look, I really need some help, okay? Why? Why did I have to speak in a British accent?! What do I do?",Ross,anger,negative,279,7,6,4,"00:14:19,608","00:14:28,032",0,1,63,0.0,0.0,1.0,1.0,1

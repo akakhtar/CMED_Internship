@@ -1,0 +1,163 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal,Scene_ID,Influence_0,Influence_1,ElapsedTime_0,ElapsedTime_1,Sequence_Length
+51,"Oh wait, Joey, you cant go like that! You stink!",Monica,disgust,negative,4,6,4,14,"00:08:58,496","00:09:00,830",0,1,1,0.0,0.0,1.0,1.0,1
+89,Joey! Hes working!  You would look,Monica,anger,negative,9,7,6,18,"00:05:18,443","00:05:24,031",0,1,2,0.0,0.0,1.0,1.0,1
+122,Love is the best medicine.,Monica,joy,positive,12,11,6,3,"0:13:40,319","0:13:41,911",1,1,3,0.0,0.0,1.0,1.0,1
+170,Because your all gonna make up fake specials and make me cook them like you did the other night?,Monica,anger,negative,16,9,4,10,"00:12:15,151","00:12:19,195",0,1,4,0.0,0.0,1.0,1.0,1
+180,I know!,Monica,anger,negative,17,8,3,7,"00:02:47,250","00:02:51,420",0,1,5,0.0,0.0,1.0,1.0,1
+181,"And four ninety-nine for a pillow top queen set, who cares about the divorce, those babies will sell themselves.",Monica,anger,negative,17,9,3,7,"00:02:51,588","00:02:53,922",0,1,5,0.7619047619047619,0.0,0.0,1.0,2
+182,And Im appalled for you by the way.,Monica,anger,negative,17,10,3,7,"00:02:56,050","00:02:58,886",0,1,5,0.7619047619047619,0.0,0.0,1.0,3
+230,"Yeah, it did.",Monica,joy,positive,22,3,5,5,"00:18:31,902","00:18:33,111",1,1,6,0.0,0.0,1.0,1.0,1
+237,If you give up every time you'd have a fight with someone you'd never be with anyone longer thanOhhh!,Monica,anger,negative,22,10,5,5,"00:18:49,670","00:18:59,512",0,1,6,0.0,0.5535714285714286,1.0,0.0,1
+239,You are so cute!,Monica,joy,positive,22,12,5,5,"00:19:06,520","00:19:08,563",1,1,6,0.3918367346938775,0.0,0.4857142857142857,1.0,1
+240,No.,Monica,joy,positive,22,13,5,5,"0:19:10,941","0:19:12,653",1,1,6,0.0,0.4481292517006803,1.0,0.19047619047619047,2
+242,You deal with it and move on!,Monica,joy,positive,22,15,5,5,"0:19:13,819","0:19:16,113",1,1,6,0.0,0.484375,1.0,0.125,3
+245,"Ohh, welcome to an adult relationship!",Monica,joy,positive,22,18,5,5,"00:19:22,202","00:19:24,996",1,1,6,0.0,0.4025974025974026,1.0,0.2727272727272727,4
+259,"Oh God, Im so sorry.",Monica,sadness,negative,25,2,3,21,"0:04:18,967","0:04:20,279",0,0,7,0.0,0.0,1.0,1.0,1
+339,"Oh my god, I am losing my mind.",Monica,anger,negative,33,9,9,2,"00:08:08,154","00:08:11,573",0,1,8,0.0,0.0,1.0,1.0,1
+343,"Yeah I can!  And dont think I dont, because I do! I mean all the time, you betcha!",Monica,joy,positive,34,2,6,15,"00:17:52,071","00:17:58,868",1,1,9,0.0,0.0,1.0,1.0,1
+345,"Of course I have! What do you think, Im some 30 year old virgin?",Monica,anger,negative,34,4,6,15,"00:18:08,504","00:18:13,446",0,1,9,0.0,0.5535714285714286,1.0,0.0,1
+347,"Say it louder, I dont think the guy all the way in the back heard you!",Monica,disgust,negative,34,6,6,15,"00:18:19,181","00:18:21,516",0,1,9,0.4514991181657848,0.0,0.4074074074074074,1.0,2
+348,"Its not like, I havent any opportunities.",Monica,anger,negative,34,7,6,15,"00:18:25,979","00:18:28,689",0,1,9,0.6233766233766233,0.0,0.18181818181818182,1.0,3
+359,Rachel! Im never gonna think its okay for you to cheat on your husband!,Monica,anger,negative,34,17,6,15,"00:18:57,928","00:19:01,556",0,1,9,0.38681318681318677,0.0,0.49230769230769234,1.0,4
+367,Behind my brother's back?  ... is exactly the kind of crazy thing you won't be hearing from me.,Monica,anger,negative,36,1,1,24,"00:17:58,202","00:18:05,249",0,1,10,0.0,0.0,1.0,1.0,1
+395,Yeah baby!,Monica,joy,positive,40,0,7,16,"00:19:50,000","00:19:51,480",1,1,11,0.0,0.0,1.0,1.0,1
+436,Phoebe! Come on! Lets go!  Come on!  Why arent you dressed yet?!,Monica,anger,negative,45,0,7,1,"00:10:07,732","00:10:15,864",0,1,12,0.0,0.0,1.0,1.0,1
+480,Hi!,Monica,joy,positive,49,0,5,5,"0:00:12,804","0:00:13,726",1,1,13,0.0,0.0,1.0,1.0,1
+494,"Ohh, I've always wanted to go to this culinary fair that they have in Jersey!",Monica,joy,positive,49,14,5,5,"00:01:05,231","00:01:08,275",1,1,13,0.0,0.5535714285714286,1.0,0.0,2
+519,"Okay, look at this one. This is my favourite.",Monica,joy,positive,53,2,4,22,"00:06:13,790","00:06:19,461",1,1,14,0.0,0.0,1.0,1.0,1
+521,I know! Phoebe is gonna love dressing them in these!,Monica,joy,positive,53,4,4,22,"00:06:22,131","00:06:25,133",1,1,14,0.0,0.5535714285714286,1.0,0.0,2
+523,Because shes not gonna get to keep the babies.,Monica,sadness,negative,53,6,4,22,"00:06:32,475","00:06:34,810",0,0,14,0.0,0.5535714285714286,1.0,0.0,1
+526,"Unless, we give her all gifts she can use after shes done being pregnant.",Monica,joy,positive,53,9,4,22,"00:06:40,775","00:06:47,823",1,1,14,0.42328042328042326,0.0,0.4444444444444444,1.0,1
+529,"Oh, shes gonna love that!",Monica,joy,positive,53,12,4,22,"00:06:51,202","00:06:52,786",1,1,14,0.0,0.23308270676691728,1.0,0.5789473684210527,2
+560,Will you stop!,Monica,joy,positive,57,2,4,1,"00:22:15,417","00:22:18,085",1,1,15,0.0,0.0,1.0,1.0,1
+562,"Okay, all right, I think youre great, I think youre sweet, and youre smart, and I love you.",Monica,joy,positive,57,4,4,1,"00:22:18,253","00:22:27,887",1,1,15,0.0,0.5535714285714286,1.0,0.0,2
+563,But you will always be the guy who peed on me.,Monica,disgust,negative,57,5,4,1,"00:22:29,848","00:22:32,683",0,1,15,0.0,0.5535714285714286,1.0,0.0,1
+565,Hey!,Monica,joy,positive,58,1,6,16,"0:14:31,662","0:14:32,984",1,1,16,0.0,0.0,1.0,1.0,1
+567,"Hey, check me out, Im a slut!",Monica,joy,positive,58,3,6,16,"00:14:41,547","00:14:44,716",1,1,16,0.0,0.5535714285714286,1.0,0.0,2
+577,"Great! Its so amazing! I mean, last time Dr. Roger came over, I was",Monica,joy,positive,58,13,6,16,"00:15:07,656","00:15:13,077",1,1,16,0.0,0.5535714285714286,1.0,0.0,3
+592,"Look, not that I enjoy talking about people who I went to high school with, cause I do, but umm, maybe we could talk about something else?",Monica,disgust,negative,61,1,4,2,"00:16:43,919","00:16:52,176",0,1,17,0.0,0.0,1.0,1.0,1
+756,"No its not! You want it, youre gonna have to win it!",Monica,anger,negative,77,3,3,9,"00:12:20,448","00:12:23,575",0,1,18,0.0,0.0,1.0,1.0,1
+774,I told you not to go down there!,Monica,anger,negative,80,1,4,4,"0:06:55,749","0:06:55,892",0,1,19,0.0,0.0,1.0,1.0,1
+776,Rachel always cries!,Monica,anger,negative,80,3,4,4,"00:06:57,542","00:06:59,251",0,1,19,0.7619047619047619,0.0,0.0,1.0,2
+840,I can't wait to be with you!,Monica,joy,positive,92,0,5,11,"00:12:22,658","00:12:24,951",1,1,20,0.0,0.0,1.0,1.0,1
+844,"Awww, y'know what your nickname is, Mr. Big",Monica,joy,positive,92,4,5,11,"00:12:37,757","00:12:39,841",1,1,20,0.0,0.5535714285714286,1.0,0.0,2
+889,"Oh my God. Okay, go into the bathroom, use whatever you want, just don't ever tell me what you did in there.",Monica,disgust,negative,96,3,1,6,"00:12:17,820","00:12:23,575",0,1,21,0.0,0.0,1.0,1.0,1
+892,He's in the bathroom. I don't think you wanna go in there!,Monica,anger,negative,96,6,1,6,"0:12:30,040","0:12:30,182",0,1,21,0.7619047619047619,0.0,0.0,1.0,2
+909,"Hey Joey! Aww, you remembered even though you're a big star!",Monica,joy,positive,97,1,5,22,"00:20:45,244","00:20:50,414",1,1,22,0.0,0.0,1.0,1.0,1
+921,"Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.",Monica,anger,negative,98,1,1,7,"00:01:46,481","00:01:51,110",0,1,23,0.0,0.0,1.0,1.0,1
+923,Pants and a sweater?,Monica,anger,negative,98,3,1,7,"0:01:53,530","0:01:54,842",0,1,23,0.7619047619047619,0.0,0.0,1.0,2
+924,"Why, mom?",Monica,anger,negative,98,4,1,7,"0:01:54,842","0:01:55,878",0,1,23,0.7619047619047619,0.0,0.0,1.0,3
+925,Who am I gonna meet in a blackout?,Monica,anger,negative,98,5,1,7,"00:01:56,074","00:01:57,825",0,1,23,0.7619047619047619,0.0,0.0,1.0,4
+926,Power company guys?,Monica,anger,negative,98,6,1,7,"0:01:59,327","0:02:00,787",0,1,23,0.7619047619047619,0.0,0.0,1.0,5
+927,Eligible looters?,Monica,anger,negative,98,7,1,7,"0:02:00,787","0:02:02,771",0,1,23,0.7619047619047619,0.0,0.0,1.0,6
+928,Could we talk about this later?,Monica,anger,negative,98,8,1,7,"0:02:03,123","0:02:04,375",0,1,23,0.7619047619047619,0.0,0.0,1.0,7
+990,Then why are you smoking?,Monica,disgust,negative,106,2,3,17,"00:14:39,712","00:14:41,170",0,1,24,0.0,0.0,1.0,1.0,1
+1009,Not at these prices.,Monica,anger,negative,108,4,3,7,"00:05:01,884","00:05:04,052",0,1,25,0.0,0.0,1.0,1.0,1
+1011,"Oh! Ohhhhh! Oh! Phoebe, come here. Aw, this is my new bed. You gotta feel this bad boy.",Monica,joy,positive,108,6,3,7,"00:05:21,362","00:05:31,913",1,1,25,0.7619047619047619,0.0,0.0,1.0,1
+1059,Are you kidding? This is where they get out stains! Okay? This is like,Monica,joy,positive,112,11,8,17,"00:18:10,380","00:18:17,095",1,1,26,0.0,0.0,1.0,1.0,1
+1069,"Ooh, an ink stain! Hey, can I watch how you get this out?",Monica,joy,positive,112,20,8,17,"00:18:54,633","00:18:58,594",1,1,26,0.0,0.5535714285714286,1.0,0.0,2
+1075,No-no! Don't do it! Don't!,Monica,fear,negative,113,4,5,21,"0:11:43,377","0:11:45,224",0,1,27,0.0,0.0,1.0,1.0,1
+1077,He's a dropper!,Monica,anger,negative,113,6,5,21,"00:11:48,457","00:11:50,125",0,1,27,0.7619047619047619,0.0,0.0,1.0,2
+1138,But Ben is coming over tonight and he cant see this.,Monica,fear,negative,119,5,8,12,"00:16:59,852","00:17:02,228",0,1,28,0.0,0.0,1.0,1.0,1
+1142,With a mahogany sleigh bed and bedside tables with flowers on them all the time!,Monica,joy,positive,120,2,6,3,"00:04:01,574","00:04:05,327",1,1,29,0.0,0.0,1.0,1.0,1
+1143,And we could have a roll top desk with comment cards on them so people could say how much they loved staying here!!,Monica,joy,positive,120,3,6,3,"00:04:05,495","00:04:11,541",1,1,29,0.0,0.5535714285714286,1.0,0.0,2
+1149,No.,Monica,disgust,negative,120,9,6,3,"00:04:32,146","00:04:33,730",0,1,29,0.0,0.5535714285714286,1.0,0.0,1
+1151,"Oh, Im sorry. Of course I mean that. Interesting idea, umm, talk about it, but no.",Monica,disgust,negative,120,11,6,3,"00:04:41,864","00:04:48,745",0,1,29,0.5714285714285714,0.0,0.25,1.0,2
+1155,What do you have against the beautiful guest room?,Monica,anger,negative,120,15,6,3,"00:05:03,594","00:05:05,429",0,1,29,0.4729064039408867,0.0,0.3793103448275862,1.0,3
+1157,Are you mocking me?,Monica,anger,negative,120,17,6,3,"00:05:12,937","00:05:14,062",0,1,29,0.6595593461265103,0.0,0.13432835820895522,1.0,4
+1159,"Y'know, I love doing crossword puzzles with you honey!",Monica,joy,positive,121,0,5,16,"00:00:54,262","00:00:57,139",1,1,30,0.0,0.0,1.0,1.0,1
+1163,Yes! You are so smart!  I love you.,Monica,joy,positive,121,4,5,16,"00:01:10,195","00:01:17,242",1,1,30,0.0,0.5535714285714286,1.0,0.0,2
+1168,This is so great! Now we can enter into doubles tournaments!,Monica,joy,positive,122,3,9,23,"00:46:27,117","00:46:32,038",1,1,31,0.0,0.0,1.0,1.0,1
+1173,"No! No-no! He is totally incompetent. I called the chef who recommended him to me. He said, ""Ha-ha! Gotcha!""",Monica,disgust,negative,123,2,8,5,"00:08:32,094","00:08:39,017",0,1,32,0.0,0.0,1.0,1.0,1
+1175,Why not?!,Monica,anger,negative,123,4,8,5,"0:08:42,105","0:08:43,031",0,1,32,0.7619047619047619,0.0,0.0,1.0,2
+1400,"All right, II have to ask.",Monica,sadness,negative,143,3,7,6,"00:16:34,576","00:16:37,662",0,0,33,0.0,0.0,1.0,1.0,1
+1402,Are you gonna break up with me if I get fat again?,Monica,fear,negative,143,5,7,6,"00:16:40,290","00:16:42,709",0,1,33,0.7619047619047619,0.0,0.0,1.0,2
+1404,"Well, you broke up with Julie Grath! How much weight could she have gained?",Monica,anger,negative,143,7,7,6,"00:16:44,243","00:16:47,588",0,1,33,0.7619047619047619,0.0,0.0,1.0,3
+1407,"Heres Frannie. Hmm, wont she be happy to see me?",Monica,joy,positive,144,1,7,11,"00:17:22,374","00:17:24,949",1,1,34,0.0,0.0,1.0,1.0,1
+1412,Am I doing here? Why? Surprised to see me? Ross brought me. How do you like that?!,Monica,anger,negative,144,6,7,11,"00:17:42,269","00:17:47,482",0,1,34,0.0,0.5535714285714286,1.0,0.0,1
+1414,"You invite my brother, you invite my whole family, and not me?!",Monica,anger,negative,144,8,7,11,"0:17:51,862","0:17:54,699",0,1,34,0.5254515599343186,0.0,0.3103448275862069,1.0,2
+1416,WhatWhy wouldnt you want me at your wedding?,Monica,anger,negative,144,10,7,11,"00:17:55,324","00:17:57,075",0,1,34,0.6695526695526696,0.0,0.12121212121212122,1.0,3
+1417,What could I have possibly done?!,Monica,anger,negative,144,11,7,11,"00:17:57,242","00:17:58,743",0,1,34,0.7183673469387755,0.0,0.05714285714285714,1.0,4
+1418,Stuart!,Monica,anger,negative,144,12,7,11,"00:18:00,662","00:18:02,246",0,1,34,0.7017543859649122,0.0,0.07894736842105263,1.0,5
+1446,You guys are always hanging out in my apartment!,Monica,anger,negative,147,4,1,12,"00:22:12,998","00:22:16,000",0,1,35,0.0,0.0,1.0,1.0,1
+1447,"Come on, I'll only use my left hand, huh?",Monica,anger,negative,147,5,1,12,"0:22:16,168","0:22:18,140",0,1,35,0.7619047619047619,0.0,0.0,1.0,2
+1448,"Come on, wussies!",Monica,anger,negative,147,6,1,12,"0:22:18,140","0:22:18,772",0,1,35,0.7619047619047619,0.0,0.0,1.0,3
+1550,"I mean, all Im asking for is just a little emotion!",Monica,anger,negative,160,1,6,2,"00:14:28,701","00:14:31,035",0,1,36,0.0,0.0,1.0,1.0,1
+1551,Is that too much to ask after six years?!,Monica,anger,negative,160,2,6,2,"00:14:31,287","00:14:33,413",0,1,36,0.7619047619047619,0.0,0.0,1.0,2
+1552,I mean what?,Monica,anger,negative,160,3,6,2,"0:14:33,664","0:14:35,875",0,1,36,0.7619047619047619,0.0,0.0,1.0,3
+1553,Are-are-are Rachel and I not as close as you guys?!,Monica,anger,negative,160,4,6,2,"0:14:35,875","0:14:36,469",0,1,36,0.7619047619047619,0.0,0.0,1.0,4
+1554,I mean do we not have as much fun?!,Monica,anger,negative,160,5,6,2,"0:14:36,625","0:14:38,002",0,1,36,0.7619047619047619,0.0,0.0,1.0,5
+1555,Dont I deserve a few tears?!!,Monica,sadness,negative,160,6,6,2,"0:14:38,002","0:14:40,822",0,0,36,0.7619047619047619,0.0,0.0,1.0,6
+1556,"I mean we-we told Joey, he cried his eyes out!",Monica,sadness,negative,160,7,6,2,"00:14:42,172","00:14:44,173",0,0,36,0.7619047619047619,0.0,0.0,1.0,7
+1578,"Ooh! I'm sorry! I think, I THINK, that may have missed the table!",Monica,joy,positive,162,0,9,23,"00:40:16,664","00:40:20,959",1,1,37,0.0,0.0,1.0,1.0,1
+1585,"Oh, come on.",Monica,disgust,negative,163,1,8,18,"0:21:18,223","0:21:19,105",0,1,38,0.0,0.0,1.0,1.0,1
+1603,I cant find garbage bags!,Monica,anger,negative,165,0,4,12,"00:21:18,443","00:21:20,528",0,1,39,0.0,0.0,1.0,1.0,1
+1607,I cant believe were living here!,Monica,sadness,negative,165,4,4,12,"00:21:35,335","00:21:38,254",0,0,39,0.7619047619047619,0.0,0.0,1.0,2
+1664,You cant marry him!,Monica,anger,negative,169,2,8,2,"0:11:53,337","0:11:54,797",0,1,40,0.0,0.0,1.0,1.0,1
+1672,Phoebe I think he would notice if you didnt have a baby in nine months!,Monica,anger,negative,169,10,8,2,"00:12:11,564","00:12:14,232",0,1,40,0.7619047619047619,0.0,0.0,1.0,2
+1684,People have got to finish their stories!,Monica,anger,negative,169,22,8,2,"00:13:03,449","00:13:06,367",0,1,40,0.7619047619047619,0.0,0.0,1.0,3
+1692,Me too!,Monica,joy,positive,171,1,6,10,"00:15:37,770","00:15:39,228",1,1,41,0.0,0.0,1.0,1.0,1
+1694,"Ross, I think we should stick to the routine, we dont wanna look stupid!",Monica,joy,positive,171,3,6,10,"00:15:47,988","00:15:51,783",1,1,41,0.0,0.5535714285714286,1.0,0.0,2
+1707,They are completely differentOkay!,Monica,anger,negative,173,4,6,17,"0:12:41,177","0:12:42,846",0,1,42,0.0,0.0,1.0,1.0,1
+1710,I didnt make it!,Monica,sadness,negative,173,7,6,17,"0:12:43,888","0:12:47,225",0,0,42,0.7619047619047619,0.0,0.0,1.0,2
+1711,Im sorry!,Monica,sadness,negative,173,8,6,17,"0:12:47,225","0:12:47,371",0,0,42,0.7619047619047619,0.0,0.0,1.0,3
+1714,"No-no, its not okay!",Monica,sadness,negative,173,11,6,17,"0:12:51,562","0:12:52,397",0,0,42,0.7619047619047619,0.0,0.0,1.0,4
+1715,Its not!,Monica,sadness,negative,173,12,6,17,"0:12:52,397","0:12:53,005",0,0,42,0.7619047619047619,0.0,0.0,1.0,5
+1716,I mean you were just Youre so incredible!,Monica,sadness,negative,173,13,6,17,"00:12:53,063","00:12:54,564",0,0,42,0.7619047619047619,0.0,0.0,1.0,6
+1717,You went through all this time and effort to make this tape for me!,Monica,sadness,negative,173,14,6,17,"00:12:54,732","00:12:58,777",0,0,42,0.7619047619047619,0.0,0.0,1.0,7
+1718,"Yknow Im just gonnaI, I am gonna make this up to you!",Monica,joy,positive,173,15,6,17,"0:12:59,612","0:13:02,454",1,1,42,0.7619047619047619,0.0,0.0,1.0,1
+1719,I will!,Monica,sadness,negative,173,16,6,17,"0:13:02,454","0:13:03,304",0,0,42,0.0,0.3459821428571429,1.0,0.375,1
+1771,"Nope, sound like me. Pheebs, its going great. Look at Chandler with little baby girl Chandler.",Monica,joy,positive,178,2,6,5,"00:05:37,795","00:05:43,633",1,1,43,0.0,0.0,1.0,1.0,1
+1788,"Yeah, there you go!",Monica,joy,positive,180,5,1,20,"0:22:18,754","0:22:20,108",1,1,44,0.0,0.0,1.0,1.0,1
+1830,"Oh myThis is so embarrassing. Oh my God, Im never gonna get massaged again!",Monica,fear,negative,184,6,8,14,"00:15:00,000","00:15:03,480",0,1,45,0.0,0.0,1.0,1.0,1
+1915,Why would the little girl creep you out?,Monica,anger,negative,192,5,6,21,"00:08:03,399","00:08:06,151",0,1,46,0.0,0.0,1.0,1.0,1
+1940,"I mean gosh, Chandler what you did, it's, it's a wonderful thing and I really appreciate it.",Monica,joy,positive,195,6,6,7,"00:20:34,775","00:20:39,946",1,1,47,0.0,0.0,1.0,1.0,1
+1941,"I know I have this weird thing where I want everything to be in the perfect place, but I'd never expect you to worry about that.",Monica,joy,positive,195,7,6,7,"00:20:40,656","00:20:46,285",1,1,47,0.0,0.5535714285714286,1.0,0.0,2
+1947,"A Magic Eight ball?! You can't be serious, you can't make this decision with a toy!",Monica,disgust,negative,196,1,5,4,"00:14:57,730","00:15:04,444",0,1,48,0.0,0.0,1.0,1.0,1
+1987,"Ohh, sweetie!  Hey, I bet you anything that hes gonna call you again.",Monica,sadness,negative,199,5,4,20,"00:18:17,930","00:18:20,348",0,0,49,0.0,0.0,1.0,1.0,1
+1996,Again. Yknow what? I think we all did.,Monica,sadness,negative,199,14,4,20,"00:18:58,053","00:19:02,890",0,0,49,0.7619047619047619,0.0,0.0,1.0,2
+2037,This woman's living my life.,Monica,anger,negative,204,1,1,21,"0:02:03,873","0:02:05,834",0,1,50,0.0,0.0,1.0,1.0,1
+2039,"She's living my life, and she's doing it better than me!",Monica,anger,negative,204,3,1,21,"00:02:07,168","00:02:10,838",0,1,50,0.7619047619047619,0.0,0.0,1.0,2
+2040,"Look at this, look.",Monica,anger,negative,204,4,1,21,"00:02:11,214","00:02:13,257",0,1,50,0.7619047619047619,0.0,0.0,1.0,3
+2041,She buys tickets for plays that I wanna see.,Monica,anger,negative,204,5,1,21,"00:02:13,424","00:02:16,093",0,1,50,0.7619047619047619,0.0,0.0,1.0,4
+2042,"She, she buys clothes from stores that I'm intimidated by the sales people.",Monica,anger,negative,204,6,1,21,"00:02:16,261","00:02:19,596",0,1,50,0.7619047619047619,0.0,0.0,1.0,5
+2043,She spent three hundred dollars on art supplies.,Monica,anger,negative,204,7,1,21,"00:02:19,764","00:02:22,349",0,1,50,0.7619047619047619,0.0,0.0,1.0,6
+2045,"Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.",Monica,anger,negative,204,9,1,21,"00:02:24,060","00:02:32,192",0,1,50,0.7619047619047619,0.0,0.0,1.0,7
+2049,Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!,Monica,fear,negative,205,3,1,20,"00:00:25,150","00:00:29,778",0,1,51,0.0,0.0,1.0,1.0,1
+2090,"Chandler, we said we would meet at the coffeehouse at six.",Monica,anger,negative,210,0,6,21,"00:17:06,442","00:17:09,444",0,1,52,0.0,0.0,1.0,1.0,1
+2092,We said six!,Monica,anger,negative,210,2,6,21,"0:17:11,203","0:17:12,577",0,1,52,0.7619047619047619,0.0,0.0,1.0,2
+2094,"Yeah and if I had seven, maybe I wouldve said something like this, ""Wow! My boyfriends such a wise assseven!""",Monica,anger,negative,210,4,6,21,"00:17:20,122","00:17:27,420",0,1,52,0.7619047619047619,0.0,0.0,1.0,3
+2121,"Sweetie, with you its gonna be different. The sex is gonna be great, cause you-you guys are in love.",Monica,joy,positive,213,5,4,11,"00:07:01,754","00:07:06,383",1,1,53,0.0,0.0,1.0,1.0,1
+2157,I cant believe youre getting married!,Monica,joy,positive,216,1,4,19,"0:21:14,189","0:21:15,441",1,1,54,0.0,0.0,1.0,1.0,1
+2176,"Janice, what umm, what are you doing here?",Monica,sadness,negative,219,1,7,7,"00:18:14,343","00:18:16,344",0,0,55,0.0,0.0,1.0,1.0,1
+2197,"And then you realised if you  bitched about it, then you  would stop cooking, and you  would have to make your famous baked potato and Diet Coke.",Monica,anger,negative,222,12,4,18,"00:06:13,831","00:06:21,254",0,1,56,0.0,0.0,1.0,1.0,1
+2199,"Chandler! It happens to lots of guys! You-you-you were probably tired, you had a lot of champagne, dont worry about it!",Monica,sadness,negative,223,0,7,1,"00:04:12,710","00:04:22,219",0,0,57,0.0,0.0,1.0,1.0,1
+2204,Phoebe!,Monica,joy,positive,223,5,7,1,"00:04:58,089","00:04:59,548",1,1,57,0.7619047619047619,0.0,0.0,1.0,1
+2218,Of course not.,Monica,sadness,negative,225,3,3,22,"0:03:45,183","0:03:46,101",0,0,58,0.0,0.0,1.0,1.0,1
+2230,"Okay, Ben, I wont tell your daddy that you had ice cream for dinner, if you dont tell about our little bonking incident.",Monica,fear,negative,227,0,3,8,"00:12:07,935","00:12:17,277",0,1,59,0.0,0.0,1.0,1.0,1
+2344,"Here you go, maybe this'll cheer you up.",Monica,joy,positive,237,10,1,15,"00:08:13,367","00:08:15,577",1,1,60,0.0,0.0,1.0,1.0,1
+2440,"Oh, just some pictures I made and hung up. I thought theyd brighten up the place. They do dont you think?",Monica,joy,positive,245,3,4,15,"00:17:27,755","00:17:34,510",1,1,61,0.0,0.0,1.0,1.0,1
+2441,"No-no-no, no!",Monica,fear,negative,245,4,4,15,"00:17:37,139","00:17:39,182",0,1,61,0.0,0.5535714285714286,1.0,0.0,1
+2532,"I can't belive it, I'm gonna be an aunt. I'm gonna have like a nephew.",Monica,joy,positive,254,13,1,22,"00:22:09,369","00:22:13,581",1,1,62,0.0,0.0,1.0,1.0,1
+2538,"Okay, I-I d'know, you-you just- you have a quality.",Monica,joy,positive,255,1,1,8,"00:02:55,800","00:02:58,927",1,1,63,0.0,0.0,1.0,1.0,1
+2541,"Hello? Hello? Oh! Rachel, it's Paolo calling from Rome.",Monica,joy,positive,255,4,1,8,"00:03:08,813","00:03:15,736",1,1,63,0.0,0.5535714285714286,1.0,0.0,2
+2545,"Hey dad, what's up?  Oh God. Ross, it's Nana.",Monica,sadness,negative,255,8,1,8,"00:03:40,136","00:03:47,976",0,0,63,0.0,0.5535714285714286,1.0,0.0,1
+2575,You are both idiots.,Monica,disgust,negative,259,9,6,12,"00:17:05,816","00:17:07,984",0,1,64,0.0,0.0,1.0,1.0,1
+2576,"The joke is not funny, and its offensive to women, and doctors, and monkeys!",Monica,disgust,negative,259,10,6,12,"00:17:09,653","00:17:14,615",0,1,64,0.7619047619047619,0.0,0.0,1.0,2
+2577,"You shouldnt be arguing over who gets credit, you should be arguing over who gets blamed for inflicting this horrible joke upon the world!",Monica,anger,negative,259,11,6,12,"00:17:16,035","00:17:23,249",0,1,64,0.7619047619047619,0.0,0.0,1.0,3
+2578,Now let it go!,Monica,anger,negative,259,12,6,12,"00:17:23,500","00:17:24,917",0,1,64,0.7619047619047619,0.0,0.0,1.0,4
+2579,The joke sucks!,Monica,anger,negative,259,13,6,12,"00:17:25,127","00:17:27,003",0,1,64,0.7619047619047619,0.0,0.0,1.0,5
+2603,"Hi! Hey, Pete youre back! Hey, check this out.",Monica,joy,positive,262,1,3,21,"0:02:38,533","0:02:42,743",1,1,65,0.0,0.0,1.0,1.0,1
+2607,"Oh, whatd ya bring me?!",Monica,joy,positive,262,5,3,21,"0:02:55,220","0:02:56,679",1,1,65,0.0,0.5535714285714286,1.0,0.0,2
+2608,"Awww, hotel toiletries from Japan.",Monica,joy,positive,262,6,3,21,"00:02:57,886","00:03:01,305",1,1,65,0.0,0.5535714285714286,1.0,0.0,3
+2609,"Oh, these are gonna go in my permanent collection.",Monica,joy,positive,262,7,3,21,"00:03:01,472","00:03:03,515",1,1,65,0.0,0.5535714285714286,1.0,0.0,4
+2685,"We're kidding. C'mon, tell us!",Monica,joy,positive,269,2,1,6,"00:07:28,781","00:07:30,365",1,1,66,0.0,0.0,1.0,1.0,1
+2731,Whats the matter?,Monica,sadness,negative,277,0,1,2,"00:00:04,546","00:00:07,214",0,0,67,0.0,0.0,1.0,1.0,1
+2735,"Oh, my mom called, theyre gonna run our engagement announcement in the local paper, so were looking for a good picture of us.",Monica,joy,positive,278,3,7,5,"00:00:12,137","00:00:21,061",1,1,68,0.0,0.0,1.0,1.0,1
+2741,"Oh, heres a great one.",Monica,joy,positive,278,9,7,5,"00:00:38,246","00:00:39,788",1,1,68,0.0,0.5535714285714286,1.0,0.0,2
+2743,"I know, but look at me: all tan.",Monica,joy,positive,278,11,7,5,"0:00:41,420","0:00:44,479",1,1,68,0.0,0.5535714285714286,1.0,0.0,3
+2745,Thats a good idea! I bet they have one of those wind machines! Yknow,Monica,joy,positive,278,13,7,5,"00:00:48,256","00:00:54,000",1,1,68,0.0,0.5535714285714286,1.0,0.0,4
+2749,Gimme them!,Monica,anger,negative,279,0,6,4,"0:14:04,176","0:14:06,058",0,1,69,0.0,0.0,1.0,1.0,1
+2751,You stole them from me!,Monica,anger,negative,279,2,6,4,"0:14:06,554","0:14:07,486",0,1,69,0.7619047619047619,0.0,0.0,1.0,2
+2753,Gimme them!,Monica,anger,negative,279,4,6,4,"00:14:08,848","00:14:10,431",0,1,69,0.7619047619047619,0.0,0.0,1.0,3
+2759,"Yeah, fade the accent out and people will think you’re, y’know, that you’re adjusting to life in America.",Monica,anger,negative,279,10,6,4,"00:14:28,200","00:14:35,039",0,1,69,0.7619047619047619,0.0,0.0,1.0,4

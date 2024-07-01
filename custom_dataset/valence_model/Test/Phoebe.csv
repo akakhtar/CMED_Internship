@@ -1,0 +1,123 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal,Scene_ID,Influence_0,Influence_1,ElapsedTime_0,ElapsedTime_1,Sequence_Length
+82,Coming through!  Oh! Coming through!  Oh! Hello! Hi!  No! Right! Coming through!,Phoebe,fear,negative,9,0,6,18,"00:05:02,927","00:05:08,724",0,1,1,0.0,0.0,1.0,1.0,1
+91,"Oh, its bad. Its really bad. The only thing in there that isnt burned is an ass. Which I do",Phoebe,sadness,negative,9,9,6,18,"00:05:25,199","00:05:34,416",0,0,1,0.7183098591549296,0.0,0.0,1.0,2
+147,Hey!,Phoebe,joy,positive,14,6,6,4,"0:21:36,878","0:21:37,590",1,1,2,0.0,0.0,1.0,1.0,1
+150,Were just celebrating that Joey got his health insurance back.,Phoebe,joy,positive,14,9,6,4,"00:21:40,549","00:21:44,093",1,1,2,0.0,0.6,1.0,0.0,2
+152,"Yeah! Sure! Yep!  Oh, y'know what? If I heard a shot right now, I'd throw my body on you.",Phoebe,joy,positive,15,0,5,20,"00:13:12,500","00:13:18,505",1,1,3,0.0,0.0,1.0,1.0,1
+154,Okay!,Phoebe,joy,positive,15,2,5,20,"00:13:21,592","00:13:22,884",1,1,3,0.0,0.6,1.0,0.0,2
+174,Ewww! Oh! Its the Mattress King!,Phoebe,disgust,negative,17,3,3,7,"00:02:12,257","00:02:14,049",0,1,4,0.0,0.0,1.0,1.0,1
+188,"Im, Im freaking out!",Phoebe,fear,negative,17,16,3,7,"00:14:09,390","00:14:12,225",0,1,4,0.7183098591549296,0.0,0.0,1.0,2
+189,Monica kinda trusted me with something and she shouldnt have!,Phoebe,fear,negative,17,17,3,7,"00:14:14,270","00:14:18,147",0,1,4,0.7183098591549296,0.0,0.0,1.0,3
+224,"no, um, I'm sorry, don't tell me, I don't think either answer would make me feel better.",Phoebe,sadness,negative,21,4,2,4,"00:17:49,443","00:17:55,698",0,0,5,0.0,0.0,1.0,1.0,1
+279,Oh down please.  I-I hate to be a ball buster can I just do it?,Phoebe,joy,positive,28,1,8,23,"0:12:30,699","0:12:33,472",1,1,6,0.0,0.0,1.0,1.0,1
+281,Sure! I feel so bad for you. I broke my leg once too.,Phoebe,sadness,negative,28,3,8,23,"0:12:46,670","0:12:49,465",0,0,6,0.0,0.6,1.0,0.0,1
+285,Lets just say there was a typographical error with a sex manual.,Phoebe,joy,positive,28,7,8,23,"00:12:53,761","00:12:57,848",1,1,6,0.49969381506429883,0.0,0.30434782608695654,1.0,1
+293,Oh yeah! I-I would like that.,Phoebe,joy,positive,28,14,8,23,"00:13:20,496","00:13:22,206",1,1,6,0.0,0.1235294117647059,1.0,0.7941176470588235,2
+295,Wait! What?! No!! Elevator!! No!,Phoebe,anger,negative,28,15,8,23,"00:13:22,273","00:13:28,170",0,1,6,0.0,0.5666666666666667,1.0,0.05555555555555555,1
+329,"Yeah, no, it was great.",Phoebe,joy,positive,32,12,3,25,"00:06:50,076","00:06:52,285",1,1,7,0.0,0.0,1.0,1.0,1
+330,"Well, alright, we already tried feeding her, changing her,  burping her, oh try this one!",Phoebe,sadness,negative,33,0,9,2,"00:07:20,064","00:07:28,029",0,0,8,0.0,0.0,1.0,1.0,1
+331,Go back in time and listen to Phoebe!,Phoebe,anger,negative,33,1,9,2,"00:07:23,901","00:07:28,029",0,1,8,0.7183098591549296,0.0,0.0,1.0,2
+340,"Yeah, no kidding, this just proves no good can come from  having sex with Ross!",Phoebe,anger,negative,33,10,9,2,"00:08:08,154","00:08:15,494",0,1,8,0.7183098591549296,0.0,0.0,1.0,3
+408,"Okay, yknow what, you were right, you were right.",Phoebe,sadness,negative,41,10,4,14,"0:17:50,046","0:17:51,033",0,0,9,0.0,0.0,1.0,1.0,1
+409,"We really werent great at being guys, but you know why?",Phoebe,sadness,negative,41,11,4,14,"00:17:51,153","00:17:54,072",0,0,9,0.7183098591549296,0.0,0.0,1.0,2
+440,Oh thats so exciting!,Phoebe,joy,positive,45,4,7,1,"00:10:24,206","00:10:26,708",1,1,10,0.0,0.0,1.0,1.0,1
+442,Thanks Mon!,Phoebe,joy,positive,45,5,7,1,"00:10:24,206","00:10:26,708",1,1,10,0.0,0.6,1.0,0.0,2
+443,"Oh but Mon, if you touch my guitar again Ill have to pound on you for a little bit.",Phoebe,anger,negative,45,6,7,1,"00:10:26,959","00:10:31,546",0,1,10,0.0,0.6,1.0,0.0,1
+454,I stepped in something icky.,Phoebe,joy,positive,46,7,3,14,"00:12:42,720","00:12:46,306",1,1,11,0.0,0.0,1.0,1.0,1
+545,Uh-huh! Why do you think it takes me so long to answer the door?,Phoebe,joy,positive,55,2,5,23,"00:05:32,915","00:05:35,834",1,1,12,0.0,0.0,1.0,1.0,1
+634,It's okay to laugh right?,Phoebe,joy,positive,67,3,5,7,"00:02:09,587","00:02:12,673",1,1,13,0.0,0.0,1.0,1.0,1
+718,Whoa!  I kinda liked it.,Phoebe,joy,positive,73,7,4,15,"00:11:51,544","00:11:56,005",1,1,14,0.0,0.0,1.0,1.0,1
+722,Y'know you guys were a lot more supportive when I wanted to make denim furniture.,Phoebe,joy,positive,74,0,4,11,"00:04:58,131","00:05:02,634",1,1,15,0.0,0.0,1.0,1.0,1
+732,Sit!,Phoebe,anger,negative,75,4,5,13,"00:15:55,913","00:15:57,372",0,1,16,0.0,0.0,1.0,1.0,1
+750,Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.,Phoebe,joy,positive,76,16,1,7,"00:16:19,228","00:16:26,943",1,1,17,0.0,0.0,1.0,1.0,1
+752,You betcha!,Phoebe,joy,positive,76,18,1,7,"00:16:35,536","00:16:36,786",1,1,17,0.0,0.6,1.0,0.0,2
+769,"Rach, look!  Oh, hi! Where is my strong Ross Skywalker to come rescue me.  There he is.",Phoebe,joy,positive,78,9,3,1,"00:08:42,021","00:08:46,316",1,1,18,0.0,0.0,1.0,1.0,1
+817,"Oh, oh! It's on again!",Phoebe,joy,positive,88,1,3,4,"00:00:10,301","00:00:11,593",1,1,19,0.0,0.0,1.0,1.0,1
+870,"Yeah, but they didn't ask me!",Phoebe,anger,negative,95,5,5,15,"0:13:23,469","0:13:25,013",0,1,20,0.0,0.0,1.0,1.0,1
+872,"This way I'm just y'know, the exotic, generous stranger.",Phoebe,joy,positive,95,7,5,15,"00:13:25,262","00:13:27,722",1,1,20,0.7183098591549296,0.0,0.0,1.0,1
+873,That's always fun to be.,Phoebe,joy,positive,95,8,5,15,"00:13:27,890","00:13:29,599",1,1,20,0.0,0.3,1.0,0.5,2
+877,If anything I'm making you look better!,Phoebe,joy,positive,95,12,5,15,"0:13:35,703","0:13:35,859",1,1,20,0.0,0.2,1.0,0.6666666666666666,3
+878,They'll see you talking to me and that's--I'm a hit!,Phoebe,joy,positive,95,13,5,15,"00:13:36,023","00:13:39,400",1,1,20,0.0,0.5538461538461539,1.0,0.07692307692307693,4
+880,Hey!,Phoebe,joy,positive,95,15,5,15,"0:13:40,820","0:13:42,172",1,1,20,0.0,0.45882352941176463,1.0,0.23529411764705882,5
+884,"Yeah, okay, my bad.",Phoebe,joy,positive,95,19,5,15,"00:13:54,625","00:13:56,292",1,1,20,0.0,0.3290322580645161,1.0,0.45161290322580644,6
+947,"Okay, Im sorry.",Phoebe,sadness,negative,100,5,6,5,"0:15:53,035","0:15:54,704",0,0,21,0.0,0.0,1.0,1.0,1
+948,I didnt mean to scare you.,Phoebe,sadness,negative,100,6,6,5,"0:15:54,704","0:15:55,956",0,0,21,0.7183098591549296,0.0,0.0,1.0,2
+952,I broke it.,Phoebe,sadness,negative,100,10,6,5,"0:16:01,919","0:16:02,641",0,0,21,0.7183098591549296,0.0,0.0,1.0,3
+956,Why are there only two of you?,Phoebe,fear,negative,100,14,6,5,"00:16:10,260","00:16:12,178",0,1,21,0.7183098591549296,0.0,0.0,1.0,4
+957,Where is Leslie?,Phoebe,fear,negative,100,15,6,5,"00:16:12,346","00:16:13,930",0,1,21,0.7183098591549296,0.0,0.0,1.0,5
+960,Where are you Leslie?,Phoebe,fear,negative,100,18,6,5,"0:16:15,352","0:16:17,738",0,1,21,0.7183098591549296,0.0,0.0,1.0,6
+961,"Leslie, now would be a",Phoebe,sadness,negative,100,19,6,5,"00:16:17,977","00:16:20,937",0,0,21,0.7183098591549296,0.0,0.0,1.0,7
+962,Hey!,Phoebe,joy,positive,101,0,3,16,"0:04:42,198","0:04:42,824",1,1,22,0.0,0.0,1.0,1.0,1
+964,"Hey, why are you mopping your ceiling?",Phoebe,sadness,negative,101,2,3,16,"0:04:44,492","0:04:46,124",0,0,22,0.0,0.6,1.0,0.0,1
+971,"Well Im sorry, I thought you said it was okay.",Phoebe,sadness,negative,102,5,3,24,"00:09:10,049","00:09:13,009",0,0,23,0.0,0.0,1.0,1.0,1
+973,"Well, maybe it wont work out. Maybe Ross wont like her personality.",Phoebe,sadness,negative,102,7,3,24,"0:09:22,937","0:09:25,989",0,0,23,0.7183098591549296,0.0,0.0,1.0,2
+975,"Oh no, Bonnies the best!",Phoebe,joy,positive,102,9,3,24,"00:09:27,316","00:09:29,401",1,1,23,0.7183098591549296,0.0,0.0,1.0,1
+985,"Ow! My ass. Okay. Okay.  Oh, shhh!",Phoebe,anger,negative,105,0,3,25,"00:18:07,669","00:18:23,726",0,1,24,0.0,0.0,1.0,1.0,1
+986,No! No!! Its me! Its me! I-I didnt want to make any noise!,Phoebe,fear,negative,105,1,3,25,"00:18:49,461","00:18:55,299",0,1,24,0.7183098591549296,0.0,0.0,1.0,2
+1005,Ugh!,Phoebe,disgust,negative,108,0,3,7,"0:04:54,210","0:04:56,713",0,1,25,0.0,0.0,1.0,1.0,1
+1008,"I mean if you buy a bed from Janices ex-husband, thats like betraying Chandler.",Phoebe,anger,negative,108,3,3,7,"00:04:56,963","00:05:01,675",0,1,25,0.7183098591549296,0.0,0.0,1.0,2
+1010,Hi. Y'know in England this car would be on the other side of the store.  Woo!,Phoebe,joy,positive,108,5,3,7,"00:05:09,142","00:05:20,527",1,1,25,0.7183098591549296,0.0,0.0,1.0,1
+1014,"Aw, all right take this bed, you can make other friends.",Phoebe,joy,positive,108,9,3,7,"00:05:40,506","00:05:45,385",1,1,25,0.0,0.17727272727272725,1.0,0.7045454545454546,2
+1050,"I know, but that creep that I went on that date with goes to there so I have to find a new one.",Phoebe,disgust,negative,112,2,8,17,"00:17:38,140","00:17:41,350",0,1,26,0.0,0.0,1.0,1.0,1
+1051,"I also have to find a new video store, a new bank, a new adult bookstore, a new grocery store",Phoebe,disgust,negative,112,3,8,17,"00:17:41,518","00:17:46,355",0,1,26,0.7183098591549296,0.0,0.0,1.0,2
+1054,The universe said I was going to meet a nice guy and thats what they gave me?,Phoebe,anger,negative,112,6,8,17,"00:17:51,904","00:17:54,864",0,1,26,0.7183098591549296,0.0,0.0,1.0,3
+1055,When I get up there Im going to kick some ass.,Phoebe,anger,negative,112,7,8,17,"00:17:55,032","00:17:58,326",0,1,26,0.7183098591549296,0.0,0.0,1.0,4
+1068,I-I-Id love to. Let me just tell my friend.,Phoebe,joy,positive,112,19,8,17,"0:18:52,381","0:18:54,512",1,1,26,0.7183098591549296,0.0,0.0,1.0,1
+1134,"Hey, you guys. Listen, Im sorry that I was hogging the game beforeOh my God! Your friends have some unfortunate initials!",Phoebe,sadness,negative,119,1,8,12,"00:16:37,579","00:16:49,007",0,0,27,0.0,0.0,1.0,1.0,1
+1180,"Then he comes over!  ""Im so worried about you."" Uck! Be a man!",Phoebe,disgust,negative,123,9,8,5,"00:08:55,117","00:09:01,414",0,1,28,0.0,0.0,1.0,1.0,1
+1182,"You cant fire him and dump him the same day, hell kill himself.",Phoebe,sadness,negative,123,11,8,5,"00:09:04,168","00:09:07,504",0,0,28,0.7183098591549296,0.0,0.0,1.0,2
+1184,"Are you kidding?! Another week with that sip, Ill kill",Phoebe,disgust,negative,123,13,8,5,"00:09:10,299","00:09:14,219",0,1,28,0.7183098591549296,0.0,0.0,1.0,3
+1186,Okay. But the question is whos gonna go first. Cause whoever goes second is the bitch.,Phoebe,sadness,negative,123,15,8,5,"00:09:18,391","00:09:23,311",0,0,28,0.7183098591549296,0.0,0.0,1.0,4
+1223,Sorry.,Phoebe,sadness,negative,125,20,7,4,"0:14:55,144","0:14:56,746",0,0,29,0.0,0.0,1.0,1.0,1
+1290,Oh.,Phoebe,joy,positive,131,6,8,3,"00:21:36,128","00:21:37,211",1,1,30,0.0,0.0,1.0,1.0,1
+1299,"Oh yay! Great! Okay, what room number is he in?",Phoebe,joy,positive,132,4,8,23,"0:14:26,400","0:14:29,127",1,1,31,0.0,0.0,1.0,1.0,1
+1463,"Oh, ew!",Phoebe,disgust,negative,151,0,3,2,"00:07:09,637","00:07:10,679",0,1,32,0.0,0.0,1.0,1.0,1
+1492,Yknow she has a face Ross!,Phoebe,anger,negative,154,8,8,11,"00:02:33,528","00:02:36,029",0,1,33,0.0,0.0,1.0,1.0,1
+1625,"Okay, umm, it's this tragic love story between Cathy and Heathcliff and umm, it takes place on like these really creepy mores in England.",Phoebe,sadness,negative,167,0,5,9,"00:06:28,054","00:06:34,893",0,0,34,0.0,0.0,1.0,1.0,1
+1632,You completely stole my answer!,Phoebe,anger,negative,167,7,5,9,"00:07:23,109","00:07:24,985",0,1,34,0.7183098591549296,0.0,0.0,1.0,2
+1634,Well how would you know?! You didn't even read it!,Phoebe,anger,negative,167,9,5,9,"00:07:27,238","00:07:29,489",0,1,34,0.7183098591549296,0.0,0.0,1.0,3
+1663,Hell yeah! Ill marry you!,Phoebe,joy,positive,169,1,8,2,"00:11:50,000","00:11:51,418",1,1,35,0.0,0.0,1.0,1.0,1
+1665,"Hey lady, your days over! Its my turn!",Phoebe,anger,negative,169,3,8,2,"0:11:54,797","0:11:57,911",0,1,35,0.0,0.6,1.0,0.0,1
+1668,I can and I will!,Phoebe,anger,negative,169,6,8,2,"00:12:00,761","00:12:03,346",0,1,35,0.28732394366197184,0.0,0.6,1.0,2
+1671,Hey!,Phoebe,anger,negative,169,9,8,2,"0:12:09,985","0:12:11,371",0,1,35,0.37805782060785775,0.0,0.47368421052631576,1.0,3
+1688,I wanna see whats in your hand. I wanna see the trash.,Phoebe,disgust,negative,170,3,6,24,"00:17:15,242","00:17:18,036",0,1,36,0.0,0.0,1.0,1.0,1
+1690,"Eww! Oh, its all dirty. You should throw this out.",Phoebe,disgust,negative,170,4,6,24,"00:17:21,040","00:17:25,043",0,1,36,0.7183098591549296,0.0,0.0,1.0,2
+1787,Whoo-hoo!,Phoebe,joy,positive,180,4,1,20,"0:22:18,420","0:22:18,754",1,1,37,0.0,0.0,1.0,1.0,1
+1796,Hi!,Phoebe,joy,positive,181,2,3,3,"0:08:38,434","0:08:40,186",1,1,38,0.0,0.0,1.0,1.0,1
+1800,"Thank you, Happy Holidays.",Phoebe,joy,positive,182,0,5,10,"00:09:16,222","00:09:18,640",1,1,39,0.0,0.0,1.0,1.0,1
+1801,"Now, that's trash. Young lady, you can't  Hey! Stop that young lady, she donated trash!",Phoebe,anger,negative,182,1,5,10,"00:09:24,272","00:09:28,567",0,1,39,0.0,0.6,1.0,0.0,1
+1802,Hey!!,Phoebe,anger,negative,182,2,5,10,"00:09:29,694","00:09:31,570",0,1,39,0.44203683640303365,0.0,0.38461538461538464,1.0,2
+1803,The charity's on fire!,Phoebe,fear,negative,182,3,5,10,"00:09:32,196","00:09:34,072",0,1,39,0.5836267605633804,0.0,0.1875,1.0,3
+1804,Help!,Phoebe,fear,negative,182,4,5,10,"0:09:34,240","0:09:35,702",0,1,39,0.6384976525821596,0.0,0.1111111111111111,1.0,4
+1805,Oh good!,Phoebe,joy,positive,182,5,5,10,"0:09:35,702","0:09:36,514",1,1,39,0.6805040770941438,0.0,0.05263157894736842,1.0,1
+1806,"Thank you, I need that.",Phoebe,joy,positive,182,6,5,10,"0:09:36,514","0:09:36,706",1,1,39,0.0,0.3,1.0,0.5,2
+1819,"Yeah, and it really freaked me out! And after a while I even tried to hurt you and it just spurred you on.",Phoebe,sadness,negative,184,0,8,14,"00:14:28,640","00:14:33,760",0,0,40,0.0,0.0,1.0,1.0,1
+1822,Theres nothing sexual about this?,Phoebe,anger,negative,184,2,8,14,"00:14:34,000","00:14:37,960",0,1,40,0.7183098591549296,0.0,0.0,1.0,2
+1824,Oo God!,Phoebe,sadness,negative,184,3,8,14,"00:14:41,160","00:14:43,520",0,0,40,0.7183098591549296,0.0,0.0,1.0,3
+1828,What are you looking at?!,Phoebe,anger,negative,184,4,8,14,"00:14:46,280","00:14:49,280",0,1,40,0.7183098591549296,0.0,0.0,1.0,4
+1831,"No, you cant let this stop you from getting massages!",Phoebe,sadness,negative,184,7,8,14,"00:15:03,680","00:15:06,600",0,0,40,0.7183098591549296,0.0,0.0,1.0,5
+1838,"Great! Okay, if youll just excuse me.  So, did you hear something you liked?",Phoebe,joy,positive,184,14,8,14,"00:15:26,560","00:15:30,080",1,1,40,0.7183098591549296,0.0,0.0,1.0,1
+1918,"Yeah, its about relationships. Yknow? The traps, the pitfalls, what not to do, keep going. This stuff is great!",Phoebe,joy,positive,192,8,6,21,"0:08:10,156","0:08:17,067",1,1,41,0.0,0.0,1.0,1.0,1
+1948,"Ooh, it's not a toy.",Phoebe,anger,negative,196,2,5,4,"00:15:02,401","00:15:04,444",0,1,42,0.0,0.0,1.0,1.0,1
+1983,"Oh, how did it go?",Phoebe,sadness,negative,199,1,4,20,"00:17:56,408","00:17:57,857",0,0,43,0.0,0.0,1.0,1.0,1
+1991,"Yeah, maybe.",Phoebe,sadness,negative,199,9,4,20,"00:18:39,451","00:18:40,493",0,0,43,0.7183098591549296,0.0,0.0,1.0,2
+1993,Any luck?,Phoebe,sadness,negative,199,11,4,20,"00:18:44,873","00:18:46,541",0,0,43,0.7183098591549296,0.0,0.0,1.0,3
+2095,Hi!,Phoebe,joy,positive,210,5,6,21,"0:17:28,005","0:17:29,177",1,1,44,0.0,0.0,1.0,1.0,1
+2098,I know what time you said.,Phoebe,joy,positive,210,7,6,21,"0:17:30,883","0:17:32,265",1,1,44,0.0,0.6,1.0,0.0,2
+2141,Thats really beautiful. What does it mean?,Phoebe,joy,positive,215,2,7,11,"00:18:38,492","00:18:40,910",1,1,45,0.0,0.0,1.0,1.0,1
+2143,"Thats good. I got to admit, I thought it was something else.",Phoebe,joy,positive,215,4,7,11,"00:18:49,378","00:18:51,712",1,1,45,0.0,0.6,1.0,0.0,2
+2145,Youre right! Youre right. Dont say it.,Phoebe,sadness,negative,215,6,7,11,"00:19:03,725","00:19:06,936",0,0,45,0.0,0.6,1.0,0.0,1
+2147,I do too.,Phoebe,sadness,negative,215,8,7,11,"0:19:09,574","0:19:10,449",0,0,45,0.5028169014084507,0.0,0.3,1.0,2
+2149,"Okay, nows not the time Joey. All right? You can yell at me tomorrow.",Phoebe,sadness,negative,215,10,7,11,"00:19:35,757","00:19:39,302",0,0,45,0.3123086344151868,0.0,0.5652173913043478,1.0,3
+2177,Whats that smell?,Phoebe,disgust,negative,220,0,2,1,"00:01:44,270","00:05:39,338",0,1,46,0.0,0.0,1.0,1.0,1
+2216,Yes!! Yes!! Im the next caller! You were gonna have me hang up.,Phoebe,joy,positive,225,1,3,22,"00:03:32,629","00:03:35,297",1,1,47,0.0,0.0,1.0,1.0,1
+2267,Ewww!,Phoebe,disgust,negative,230,8,2,1,"00:10:54,278","00:10:55,962",0,1,48,0.0,0.0,1.0,1.0,1
+2301,"Yes, but I wanted you to want to live with me, but okay, if you're having so much fun over here",Phoebe,sadness,negative,233,4,7,10,"00:11:27,603","00:11:32,857",0,0,49,0.0,0.0,1.0,1.0,1
+2303,"We did have fun, didn't we?",Phoebe,joy,positive,233,6,7,10,"0:11:35,361","0:11:36,446",1,1,49,0.7183098591549296,0.0,0.0,1.0,1
+2307,"Yay, okay!",Phoebe,joy,positive,233,10,7,10,"0:11:42,827","0:11:43,842",1,1,49,0.0,0.32,1.0,0.4666666666666667,2
+2341,That's so great! 'Cause you already know how to do that!,Phoebe,joy,positive,237,7,1,15,"00:07:46,966","00:07:50,385",1,1,50,0.0,0.0,1.0,1.0,1
+2546,"So um, so what's up, you came to see me yesterday.",Phoebe,joy,positive,256,0,2,4,"00:13:52,248","00:13:55,250",1,1,51,0.0,0.0,1.0,1.0,1
+2582,"Hey everybody, Rachel was so good today. She didn't gossip at all.",Phoebe,joy,positive,260,0,5,11,"00:06:25,176","00:06:28,000",1,1,52,0.0,0.0,1.0,1.0,1
+2588,"Did you, did you",Phoebe,anger,negative,260,6,5,11,"0:06:59,170","0:07:02,652",0,1,52,0.0,0.6,1.0,0.0,1
+2590,Give me your hands.  Strings. Gimme it!  Pick. Do you want to learn to play guitar?,Phoebe,anger,negative,260,8,5,11,"00:07:10,138","00:07:17,060",0,1,52,0.5427230046948357,0.0,0.24444444444444444,1.0,2
+2592,Then don't touch one!!,Phoebe,anger,negative,260,10,5,11,"0:07:22,505","0:07:24,160",0,1,52,0.5670867309117865,0.0,0.21052631578947367,1.0,3
