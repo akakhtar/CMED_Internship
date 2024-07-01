@@ -1,9 +1,9 @@
 import time
 import pandas as pd
 from tqdm import tqdm
-from emotion_detection.data_loader import load_encoding, load_datasheet
-from emotion_detection.video_processing import process_video
-from emotion_detection.config import EXCEl_PATH
+from emotion_detection_utility.data_loader import load_encoding, load_datasheet
+from emotion_detection_utility.video_processing import process_video
+from emotion_detection_utility.config import EXCEl_PATH
 
 # Load known faces and embeddings
 print("Loading encodings...")

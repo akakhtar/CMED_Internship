@@ -4,9 +4,9 @@ import os
 import cv2
 from tqdm import tqdm
 import pandas as pd
-from emotion_detection.data_loader import load_encoding, load_datasheet
-from emotion_detection.video_analyzing import process_video
-from emotion_detection.config import EXCEl_PATH, DIALOGUE_REPORT_PATH
+from emotion_detection_utility.data_loader import load_encoding, load_datasheet
+from emotion_detection_utility.video_analyzing import process_video
+from emotion_detection_utility.config import EXCEl_PATH, DIALOGUE_REPORT_PATH
 
 start_time = time.time()
 # Load known faces and embeddings
